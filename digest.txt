@@ -1,0 +1,306 @@
+
+## AI & data n=1939 employers=1108 pay_med=$59.25/hr (pay shown 71%)
+titles: Data Analyst(59); Business Analyst(29); Machine Learning Engineer(24); Senior Software Engineer(20); Senior Data Analyst(15); Staff Software Engineer(14)
+top cos: Deloitte; JPMorganChase; Meta; Eaton; Ryan, LLC; AppFolio Inc
+features: AI / LLM / GenAI 55%, Python 44%, 5+ years experience 42%, SQL 41%, Bachelor's degree 38%, Microsoft Office / Excel 30%, Hybrid 30%, Tableau / Power BI 28%, Equity / stock 26%, Cloud (AWS/Azure/GCP) 24%, 401(k) match 18%, Master's / advanced degree 18%, Tuition / training paid 16%, SAP / Oracle / NetSuite ERP 13%, Background check 11%, Kubernetes / Docker 9%, Part-time / PRN offered 9%, Salesforce / CRM 7%, Customer-facing 7%, Commission / bonus pay 7%, Drug screen 6%
+phrases: computer science 42%, machine learning 26%, power bi 25%, data science 20%, data analytics 18%, information systems 19%, data analysis 20%, business intelligence 14%, data visualization 14%, data modeling 11%, bachelor s 62%, data quality 9%, software engineering 12%, data engineering 9%, visualization tools 8%, data management 8%, business analysis 7%, science engineering 7%, generative ai 7%, data governance 7%, data platforms 7%, science computer 7%, data pipelines 7%, business analytics 6%, technical and non-technical 7%, statistical analysis 6%, science information 8%, non-technical audiences 6%
+  [Midwest] n=442 pay=$56.39 diffs: Tuition / training paid 22% vs 16% | phrases: mechanical engineering 9%, business analysis 11%, complex technical 8%, continuous improvement 7%, technical teams 6%, computer science data 7%, proficiency in sql 7%
+  [Northeast] n=363 pay=$55.46 diffs:  | phrases: 
+  [South] n=559 pay=$58.77 diffs:  | phrases: analytical and problem-solving 12%, data governance 10%, pivot tables 8%, translate business 6%, analytics business 7%, multiple projects 7%
+  [West] n=575 pay=$63.7 diffs: Equity / stock 35% vs 26% | phrases: cloud data 7%, python r 7%, computer vision 7%, deep learning 6%
+
+## Admin & office n=2869 employers=2552 pay_med=$21.0/hr (pay shown 79%)
+titles: Office Manager(172); Administrative Assistant(165); Receptionist(124); Front Desk Receptionist(121); Part(88); Office Coordinator(48)
+top cos: Aspen Dental; State Farm; The Joint Chiropractic; Select Physical Therapy; FirstService Residential; Saber Healthcare Group
+features: Microsoft Office / Excel 45%, Part-time / PRN offered 37%, High school / GED 30%, 401(k) match 18%, Customer-facing 16%, Employee discount 15%, Bilingual (Spanish) 14%, Weekends 14%, Tuition / training paid 13%, Epic / Cerner EHR 10%, QuickBooks 9%, Background check 8%
+phrases: office management 15%, front desk 15%, phone systems 7%, multi-line phone 7%, multi-line phone systems 6%, medical office 8%, phone etiquette 9%, microsoft office 34%, customer service 39%, office administration 4%, administrative support 6%, suite word excel 8%, computer literacy 7%, front office 4%, office suite word 8%, personal assistant 4%, suite word 8%, word excel 18%, data entry 11%, word excel outlook 8%, bilingual abilities 5%, excel outlook 9%, proficiency in microsoft 14%, attention to detail 33%, high school 36%, microsoft office suite 14%, prioritize tasks 9%, office suite 15%
+  [Midwest] n=659 pay=$20.75 diffs: Bilingual (Spanish) 8% vs 14% | phrases: 
+  [Northeast] n=522 pay=$21.71 diffs:  | phrases: maintain confidentiality 7%
+  [South] n=867 pay=$20.0 diffs:  | phrases: bilingual abilities 8%
+  [West] n=821 pay=$22.0 diffs:  | phrases: 
+
+## Agriculture & food processing n=1332 employers=811 pay_med=$20.0/hr (pay shown 81%)
+titles: FOOD SERVICE WORKER(50); Cook(43); BARISTA(34); COOK(34); Baker(32); Deli Clerk(31)
+top cos: Whole Foods Market; Eurest; Chartwells Higher Education; Safeway; Chartwells K12; Sam's Club
+features: Part-time / PRN offered 40%, Weekends 31%, Lift 50+ lbs 23%, Employee discount 20%, High school / GED 18%, Background check 18%, Standing / on feet 17%, Tuition / training paid 14%, Nights / overnight 13%, Customer-facing 11%, 401(k) match 9%, Food handler / ServSafe 9%, Weekly / daily pay 8%, No experience / entry level 8%, Overtime 7%, POS systems 7%
+phrases: food safety 44%, kitchen equipment 26%, food preparation 27%, food handling 26%, safety management 20%, food safety management 20%, food industry 22%, food production 19%, food service 25%, kitchen equipment safely 15%, equipment safely 16%, safety management practices 13%, dietary aide 14%, recipe adherence 12%, slicing techniques 10%, management practices 13%, meal preparation 11%, sanitizing procedures 9%, follow recipes 8%, menu planning 9%, high-volume production 7%, operating kitchen 7%, operating kitchen equipment 7%, dietary department 9%, kitchen staff 7%, standards in production 8%, food manufacturing 7%, various kitchen 7%
+  [Midwest] n=317 pay=$19.0 diffs:  | phrases: kitchen environment 9%, long periods 8%
+  [Northeast] n=251 pay=$20.5 diffs:  | phrases: dedicated to delivering 7%, operate kitchen 10%, food handling procedures 8%, handling procedures 9%, inventory management 6%, operate kitchen equipment 9%, varying temperatures 7%, delivering exceptional 7%
+  [South] n=383 pay=$17.88 diffs:  | phrases: disabilities to perform 6%, fine dining 6%
+  [West] n=381 pay=$21.5 diffs: Food handler / ServSafe 14% vs 9% | phrases: food manufacturing 11%, prior food 7%, multiple tasks 11%, dining experiences 8%, quality assurance 6%, dietary departments 6%
+
+## Automotive n=2071 employers=1307 pay_med=$28.0/hr (pay shown 79%)
+titles: Automotive Technician(123); Diesel Mechanic(105); Mechanic(40); Automotive Mechanic(32); Tire Technician(31); Lube Technician(29)
+top cos: Firestone Complete Auto Care; Mavis Tire; Walmart; Ryder System; Valvoline Instant Oil Change; Sunbelt Rentals
+features: Tuition / training paid 30%, 401(k) match 30%, High school / GED 28%, Lift 50+ lbs 26%, Employee discount 21%, Part-time / PRN offered 20%, Hand & power tools 20%, Valid driver's license 20%, Clean driving record / MVR 20%, Weekends 18%, ASE certification 16%, Outdoors / weather 14%, No experience / entry level 14%, Drug screen 13%, Weekly / daily pay 13%, CDL (any) 12%, Overtime 12%, Background check 11%, 5+ years experience 11%, Customer-facing 9%, Nights / overnight 7%, Standing / on feet 7%
+phrases: heavy equipment 16%, automotive repair 14%, automotive service 10%, vehicle maintenance 10%, driver s 47%, driver s license 46%, s license 46%, diesel engines 8%, valid driver 37%, valid driver s 36%, automotive diagnostics 7%, diesel engine 7%, engine repair 6%, diagnostic equipment 6%, own tools 6%, diesel mechanic 6%, ase certifications 5%, welding equipment 5%, hand tools 17%, automotive technician 5%, electrical systems 12%, auto body 5%, ase certification 5%, maintenance and repair 5%, body repair 4%, tire service 4%, tools welding 4%, hand tools power 8%
+  [Midwest] n=504 pay=$26.5 diffs:  | phrases: ase certifications 9%
+  [Northeast] n=354 pay=$28.41 diffs:  | phrases: auto body 8%, body repair 7%, tools welding equipment 6%
+  [South] n=619 pay=$26.0 diffs:  | phrases: 
+  [West] n=594 pay=$30.0 diffs:  | phrases: 
+
+## Banking & insurance n=2349 employers=982 pay_med=$27.74/hr (pay shown 73%)
+titles: Teller(114); Insurance Agent(59); Personal Banker(54); Customer Service Representative(50); Universal Banker(49); Part(41)
+top cos: State Farm; Wells Fargo; JPMorganChase; PNC Financial Services Group; Liberty Mutual Insurance; Farmers Insurance Group
+features: High school / GED 41%, Part-time / PRN offered 29%, Tuition / training paid 24%, 401(k) match 23%, Microsoft Office / Excel 23%, Commission / bonus pay 22%, Bilingual (Spanish) 18%, Customer-facing 17%, Hybrid 15%, Weekends 11%, Equity / stock 10%, 5+ years experience 10%, Bachelor's degree 10%, Remote 8%, Background check 8%, Pension 7%, Insurance producer licence 7%, Salesforce / CRM 6%
+phrases: cash handling 23%, insurance license 10%, property casualty 10%, products and services 10%, retail sales 9%, credit union 8%, insurance sales 7%, casualty insurance 7%, sales retail 6%, customer service 45%, insurance industry 6%, outside sales 6%, casualty license 5%, claims handling 5%, property and casualty 5%, property casualty insurance 5%, financial institution 5%, commercial insurance 5%, insurance products 4%, workers compensation 5%, high school 46%, property casualty license 4%, high school diploma 37%, life insurance 10%, health insurance 6%, school diploma 37%, client needs 6%, financial services 6%
+  [Midwest] n=510 pay=$25.55 diffs: Bilingual (Spanish) 12% vs 18% | phrases: basic math 7%, up to pounds 7%, multiple tasks 7%, crm systems 6%
+  [Northeast] n=434 pay=$28.5 diffs: Weekends 16% vs 11%, Equity / stock 17% vs 10% | phrases: valid driver 11%, valid driver s 10%, driver s 12%, driver s license 12%, reasonable accommodations 7%, oral and written 8%, made to enable 7%, individuals with disabilities 8%
+  [South] n=745 pay=$29.61 diffs:  | phrases: 
+  [West] n=660 pay=$27.0 diffs:  | phrases: high level 9%, financial institution 7%
+
+## Childcare n=1693 employers=1145 pay_med=$18.0/hr (pay shown 87%)
+titles: Preschool Teacher(88); Toddler Teacher(46); Lead Teacher(41); Teacher(41); Part(34); Lead Toddler Teacher(32)
+top cos: Primrose Schools; La Petite Academy; Bright Horizons Family Solutions; The Learning Experience; Childtime Learning Centers; Cadence Education
+features: Part-time / PRN offered 48%, BLS / CPR / ACLS 37%, Employee discount 31%, Tuition / training paid 25%, Background check 24%, High school / GED 23%, Outdoors / weather 22%, 5+ years experience 13%, Weekends 12%, 401(k) match 12%, Nights / overnight 7%, Bachelor's degree 7%
+phrases: early childhood 54%, childhood education 47%, early childhood education 46%, first aid 32%, child development 29%, young children 26%, classroom management 26%, childhood development 24%, development principles 20%, behavior management 16%, childhood development principles 15%, aid and cpr 14%, management techniques 14%, aid certification 14%, children s 12%, children parents 12%, certification in first 12%, curriculum development 12%, child care 11%, first aid certification 10%, young learners 10%, cpr and first 9%, special education 15%, mandated reporting 9%, development associate 9%, reporting laws 9%, mandated reporting laws 9%, child development associate 9%
+  [Midwest] n=408 pay=$17.5 diffs:  | phrases: bachelor s 19%, literacy education 12%, early intervention 13%, behavior management techniques 11%, every child 10%, state licensing 6%, principles and early 7%, preschool teaching 6%
+  [Northeast] n=311 pay=$18.5 diffs: Background check 15% vs 24% | phrases: child abuse 7%, meaningful difference 8%, make a meaningful 8%, s lives 8%, children s lives 8%
+  [South] n=496 pay=$16.0 diffs: Background check 32% vs 24% | phrases: child welfare 8%, learning experiences 7%
+  [West] n=478 pay=$20.5 diffs: 5+ years experience 20% vs 13% | phrases: ece units 10%, childhood education ece 6%, education ece 6%, tb test 8%, mandated reporter 6%, customer service 9%
+
+## Cleaning & facilities n=2953 employers=2125 pay_med=$20.5/hr (pay shown 76%)
+titles: Housekeeper(201); Maintenance Supervisor(139); Part(79); Room Attendant(61); House Cleaner(54); Custodian(52)
+top cos: Walmart; Cushman & Wakefield; Crothall Healthcare; Corporate Cleaning Group; Hilton; ESFM
+features: Part-time / PRN offered 40%, Weekends 25%, High school / GED 22%, Tuition / training paid 21%, Lift 50+ lbs 16%, Background check 16%, 401(k) match 16%, 5+ years experience 14%, Microsoft Office / Excel 12%, Nights / overnight 11%, Outdoors / weather 11%, Employee discount 9%, Customer-facing 9%, On-call 8%, Weekly / daily pay 8%, Bachelor's degree 7%, Standing / on feet 7%, Drug screen 6%
+phrases: cleaning equipment 9%, facilities management 8%, floor care 8%, commercial cleaning 6%, cleaning techniques 6%, facilities maintenance 5%, residential cleaning 5%, building systems 5%, maintenance management 4%, janitorial or custodial 4%, industrial cleaning 4%, housekeeping management 4%, building maintenance 4%, manual handling 4%, physical stamina 5%, high school 29%, attention to detail 25%, take pride 4%, heavy lifting 6%, school diploma 23%, high school diploma 23%, tasks efficiently 4%, safety procedures 5%, customer service 17%, up to pounds 10%, follow instructions 4%, driver s 14%, driver s license 14%
+  [Midwest] n=714 pay=$19.66 diffs:  | phrases: 
+  [Northeast] n=498 pay=$21.0 diffs:  | phrases: 
+  [South] n=883 pay=$18.55 diffs:  | phrases: 
+  [West] n=858 pay=$22.5 diffs:  | phrases: 
+
+## Construction n=2915 employers=2194 pay_med=$37.26/hr (pay shown 73%)
+titles: Project Manager(336); Assistant Project Manager(110); Construction Project Manager(102); Construction Laborer(101); Construction Superintendent(71); Superintendent(70)
+top cos: Turner & Townsend Pty Limited; Centimark Corporation; RIMEPRO INC; Kokosing Construction; Ryan Companies US, Inc.; MCGOUGH CONSTRUCTION
+features: 5+ years experience 31%, Microsoft Office / Excel 30%, 401(k) match 24%, Hand & power tools 22%, Procore / construction software 18%, Tuition / training paid 18%, Outdoors / weather 18%, Lift 50+ lbs 14%, Bachelor's degree 14%, Valid driver's license 11%, High school / GED 11%, Background check 11%, OSHA 10/30 10%, Part-time / PRN offered 10%, Drug screen 10%, Clean driving record / MVR 8%, Weekends 7%, Overtime 7%
+phrases: construction management 29%, construction projects 13%, understanding of construction 11%, project management 26%, commercial construction 9%, construction project 8%, construction site 8%, construction estimating 8%, project manager 8%, construction industry 8%, construction plans 7%, management engineering 7%, construction drawings 7%, power tools 17%, construction management engineering 6%, construction sites 7%, construction safety 6%, familiarity with construction 6%, project management software 6%, construction management software 6%, construction project management 5%, technical drawings 10%, interpret construction 5%, engineering construction management 5%, microsoft project 5%, engineering construction 5%, construction methods 4%, osha certification 4%
+  [Midwest] n=707 pay=$37.38 diffs:  | phrases: 
+  [Northeast] n=508 pay=$38.46 diffs: Outdoors / weather 12% vs 18% | phrases: 
+  [South] n=862 pay=$31.25 diffs:  | phrases: 
+  [West] n=838 pay=$42.5 diffs:  | phrases: 
+
+## Customer service n=1941 employers=1490 pay_med=$21.0/hr (pay shown 76%)
+titles: Customer Service Representative(409); Customer Service Associate(76); Call Center Representative(56); Cashier/Customer Service Representative(19); Pharmacy Customer Service Associate(18); Part(17)
+top cos: Walgreens; State Farm; Raising Cane's; Circle K; FedEx Office; HEB
+features: High school / GED 40%, Microsoft Office / Excel 32%, Part-time / PRN offered 30%, 401(k) match 24%, Tuition / training paid 22%, Weekends 22%, Bilingual (Spanish) 19%, Customer-facing 16%, Salesforce / CRM 14%, Employee discount 14%, Background check 11%, Commission / bonus pay 8%, Hybrid 8%, Lift 50+ lbs 8%, Drug screen 8%, Overtime 6%
+phrases: call center 29%, customer service 62%, center environment 8%, call center environment 7%, contact center 5%, customer support 5%, high school 48%, active listening 7%, school diploma 39%, high school diploma 39%, verbal and written 20%, data entry 10%, diploma or equivalent 21%, microsoft office 23%, written communication 17%, phone etiquette 6%, attention to detail 23%, fast-paced environment 13%, diploma or ged 11%, basic computer 8%, exceptional customer 4%, word excel 8%, office suite 8%, verbal communication 11%, microsoft office suite 8%, positive attitude 7%, under pressure 6%, multiple tasks 6%
+  [Midwest] n=447 pay=$20.5 diffs: Bilingual (Spanish) 13% vs 19% | phrases: high level 8%
+  [Northeast] n=351 pay=$21.0 diffs:  | phrases: 
+  [South] n=579 pay=$19.0 diffs:  | phrases: phone etiquette 8%
+  [West] n=564 pay=$22.0 diffs:  | phrases: 
+
+## Education n=2552 employers=1641 pay_med=$20.7/hr (pay shown 78%)
+titles: Special Education Teacher(74); Assistant Teacher(65); Teacher(49); Part(43); Behavior Technician(42); Teacher Assistant(42)
+top cos: Primrose Schools; Heartland ABA; Weber School District; La Petite Academy; Broward County Public Schools; Metropolitan Nashville Public Schools
+features: Part-time / PRN offered 38%, High school / GED 28%, Background check 20%, BLS / CPR / ACLS 19%, Tuition / training paid 18%, Outdoors / weather 14%, Employee discount 14%, Teaching certificate 12%, Bachelor's degree 11%, Weekends 8%, Lift 50+ lbs 8%, 401(k) match 8%, Bilingual (Spanish) 7%, 5+ years experience 7%
+phrases: special education 33%, early childhood 29%, childhood education 24%, early childhood education 24%, child development 17%, classroom management 17%, young children 14%, behavior management 13%, childhood development 12%, management techniques 11%, special needs 9%, development principles 9%, first aid 16%, childhood development principles 7%, curriculum development 6%, young learners 6%, management strategies 6%, behavior management techniques 6%, lesson planning 5%, literacy education 5%, classroom management techniques 5%, autism spectrum 5%, learning environment 5%, child development associate 5%, development associate 5%, aid and cpr 7%, students with disabilities 5%, early intervention 5%
+  [Midwest] n=600 pay=$19.5 diffs:  | phrases: literacy education 8%, early intervention 7%
+  [Northeast] n=440 pay=$21.0 diffs: Outdoors / weather 9% vs 14% | phrases: child abuse 8%
+  [South] n=778 pay=$18.0 diffs:  | phrases: communicate effectively 11%, diploma or ged 12%, children with disabilities 7%, verbal and written 7%, classroom management techniques 8%
+  [West] n=734 pay=$23.0 diffs: Outdoors / weather 19% vs 14% | phrases: fingerprint clearance 8%
+
+## Energy & utilities n=1566 employers=1231 pay_med=$21.04/hr (pay shown 82%)
+titles: Line Cook(407); Line Cook/Prep Cook(134); Solar Field Service Technician(17); Field Service Technician(15); Solar Installer(13); Experienced Line Cook(11)
+top cos: Tesla; SOLV Energy; Sunrun; Outback Steakhouse; Nexus Employment Solutions Plus, Inc; Flock Safety
+features: Part-time / PRN offered 33%, Employee discount 26%, Weekends 26%, Lift 50+ lbs 25%, High school / GED 23%, Tuition / training paid 22%, Nights / overnight 15%, 401(k) match 15%, Standing / on feet 14%, Outdoors / weather 13%, Hand & power tools 13%, Overtime 11%, Valid driver's license 8%, Background check 8%, Microsoft Office / Excel 8%, Food handler / ServSafe 7%, 5+ years experience 7%, Drug screen 6%, Clean driving record / MVR 6%, Journeyman / master licence 6%
+phrases: food safety 30%, dietary aide 17%, food preparation 22%, kitchen equipment 18%, line cook 15%, dietary department 13%, meal preparation 13%, food industry 17%, menu planning 11%, food handling 17%, food safety management 12%, kitchen equipment safely 10%, food service 19%, slicing techniques 10%, safety management 12%, standards in production 9%, recipe adherence 8%, efficiently under 8%, preparation techniques 8%, kitchen staff 8%, efficiently under pressure 8%, safety standards 19%, various kitchen 7%, safety management practices 8%, kitchen environment 7%, equipment safely 11%, various kitchen equipment 7%, dining experiences 8%
+  [Midwest] n=335 pay=$20.0 diffs:  | phrases: efficiently under pressure 13%, maintaining attention 15%, while maintaining attention 15%, efficiently under 13%, food preparation cooking 11%, preparation cooking 11%, full-time part-time 10%, types full-time part-time 10%
+  [Northeast] n=291 pay=$21.5 diffs:  | phrases: highly desirable 13%, multiple tasks 6%, culinary techniques 7%, power plant 6%, food production 6%
+  [South] n=455 pay=$19.5 diffs:  | phrases: handling procedures 7%
+  [West] n=485 pay=$23.0 diffs:  | phrases: food handler 9%
+
+## Engineering n=3037 employers=1631 pay_med=$55.29/hr (pay shown 64%)
+titles: Mechanical Engineer(158); Electrical Engineer(148); Civil Engineer(86); Project Engineer(62); Project Manager(55); Senior Electrical Engineer(49)
+top cos: Anduril; Farnsworth Group; Eaton; Amazon.com; Egis Group; ENFRA
+features: AutoCAD / Revit / SolidWorks 51%, 5+ years experience 49%, Bachelor's degree 38%, Microsoft Office / Excel 30%, 401(k) match 30%, Hybrid 20%, Tuition / training paid 18%, Equity / stock 14%, Background check 13%, Master's / advanced degree 11%, PE licence 11%, Drug screen 9%, Part-time / PRN offered 8%, No experience / entry level 8%, AI / LLM / GenAI 7%, Security clearance 7%, Relocation 7%
+phrases: mechanical engineering 30%, electrical engineering 30%, civil engineering 26%, professional engineer 19%, pe license 12%, bachelor s 69%, engineering discipline 11%, professional engineer pe 11%, engineer pe 11%, mechanical design 10%, bachelor of science 9%, cad software 8%, civil d 8%, engineering design 8%, engineer pe license 8%, product development 8%, d cad 7%, engineering principles 7%, design software 6%, manufacturing processes 8%, professional engineering 6%, technical writing 6%, gd t 9%, electrical design 5%, engineering or equivalent 5%, structural engineering 5%, engineering technology 5%, power distribution 5%
+  [Midwest] n=743 pay=$50.48 diffs:  | phrases: 
+  [Northeast] n=546 pay=$52.88 diffs: Hybrid 26% vs 20% | phrases: land development 6%, test equipment 6%
+  [South] n=852 pay=$54.17 diffs: Equity / stock 7% vs 14% | phrases: 
+  [West] n=896 pay=$61.3 diffs: Equity / stock 20% vs 14% | phrases: 
+
+## Finance & accounting n=2538 employers=2149 pay_med=$37.85/hr (pay shown 70%)
+titles: Staff Accountant(163); Financial Analyst(129); Bookkeeper(122); Controller(91); Senior Financial Analyst(71); Accountant(62)
+top cos: Amazon.com; JPMorganChase; H&R Block; Baker Tilly Canada; Google; Raytheon
+features: Microsoft Office / Excel 71%, Bachelor's degree 32%, 5+ years experience 32%, SAP / Oracle / NetSuite ERP 29%, CPA 27%, Hybrid 23%, 401(k) match 23%, QuickBooks 22%, Part-time / PRN offered 16%, Equity / stock 15%, Tuition / training paid 14%, Tableau / Power BI 13%, Master's / advanced degree 13%, AI / LLM / GenAI 9%, Background check 8%, SQL 7%, Commission / bonus pay 6%
+phrases: accounting finance 24%, accounting principles 18%, microsoft excel 24%, finance accounting 15%, financial reporting 14%, financial analysis 13%, accounting software 13%, financial modeling 11%, general ledger 11%, bachelor s 59%, public accounting 9%, advanced excel 9%, accounting or finance 8%, financial statements 8%, pivot tables 8%, finance business 7%, financial information 7%, accounting economics 7%, quickbooks online 7%, accounts payable 7%, financial data 7%, finance accounting economics 7%, progressive accounting 6%, cost accounting 6%, journal entries 6%, month-end close 6%, complex financial 6%, financial planning 6%
+  [Midwest] n=551 pay=$37.5 diffs:  | phrases: business intelligence 8%, accounting finance business 8%, problem solving 6%
+  [Northeast] n=505 pay=$34.92 diffs: Part-time / PRN offered 22% vs 16% | phrases: 
+  [South] n=749 pay=$33.65 diffs:  | phrases: school diploma 6%, high school diploma 6%
+  [West] n=733 pay=$43.27 diffs:  | phrases: variance analysis 8%, combination of education 6%, finance economics 6%
+
+## Government & public safety n=1428 employers=547 pay_med=$21.0/hr (pay shown 92%)
+titles: Security Officer(140); Police Officer(66); Unarmed Security Officer(58); Security Guard(34); Part(16); Detention Officer(14)
+top cos: Allied Universal; GardaWorld Security Services US; Metro One LPSG; Walmart; Prosegur; Securitas
+features: High school / GED 70%, Background check 67%, Drug screen 58%, Part-time / PRN offered 49%, Tuition / training paid 45%, Guard card / armed licence 25%, Weekends 19%, Nights / overnight 18%, BLS / CPR / ACLS 15%, Weekly / daily pay 9%, 5+ years experience 9%, Clean driving record / MVR 9%, Outdoors / weather 9%, Valid driver's license 8%, Overtime 8%, 401(k) match 8%, Customer-facing 8%, Bilingual (Spanish) 6%
+phrases: law enforcement 42%, background investigation 15%, criminal justice 14%, police officer 11%, peace officer 10%, security officer 9%, report writing 8%, remain calm 10%, guard card 7%, s license 44%, driver s 43%, successfully complete 11%, driver s license 43%, security guard 7%, physical fitness 6%, security license 6%, military service 6%, access control 6%, public safety 6%, emergency response 6%, high school 54%, police department 6%, possess a valid 9%, enforcement officer 5%, law enforcement officer 5%, security law enforcement 5%, security law 5%, medical examination 5%
+  [Midwest] n=331 pay=$20.5 diffs:  | phrases: illinois law 8%, illinois law enforcement 7%, valid illinois 6%, ohio peace 6%, standards board 6%, officer training 6%, bachelor s 18%, security procedures 7%
+  [Northeast] n=239 pay=$20.44 diffs:  | phrases: valid pennsylvania 7%, act certification 7%, pennsylvania driver 7%, pennsylvania driver s 7%, valid pennsylvania driver 7%, child abuse 7%, security military 10%, physical fitness 11%
+  [South] n=444 pay=$19.5 diffs:  | phrases: basic law enforcement 9%, basic law 9%, texas driver 8%, texas driver s 8%, valid texas 8%, north carolina 8%, texas commission 7%, officer license 6%
+  [West] n=414 pay=$23.5 diffs:  | phrases: valid california 15%, guard card 18%, california driver 9%, washington state 7%, california driver s 6%, valid california driver 6%, driving record 24%, graduation from high 8%
+
+## HR & recruiting n=1625 employers=1335 pay_med=$34.39/hr (pay shown 62%)
+titles: Human Resources Generalist(199); HR Generalist(142); Recruiter(94); Talent Acquisition Specialist(53); Staffing Coordinator(45); Talent Acquisition Partner(31)
+top cos: CLEAResult; EmployBridge; Dayton Freight; Robert Half; HealthTrust Workforce Solutions; Staffmark
+features: Microsoft Office / Excel 49%, Workday / ADP / HRIS 39%, Bachelor's degree 25%, 5+ years experience 25%, Background check 22%, 401(k) match 22%, Hybrid 16%, Tuition / training paid 15%, Equity / stock 14%, Bilingual (Spanish) 13%, High school / GED 12%, Part-time / PRN offered 10%, Drug screen 9%, AI / LLM / GenAI 7%, Weekends 6%
+phrases: human resources 51%, resources business 26%, human resources business 26%, applicant tracking 21%, resources business administration 18%, talent acquisition 17%, tracking systems 16%, applicant tracking systems 16%, employee relations 14%, business administration 21%, hiring managers 10%, hr generalist 8%, full-cycle recruiting 8%, bachelor s 55%, employment laws 15%, employment law 7%, linkedin recruiter 6%, hris systems 6%, performance management 5%, confidential information 10%, systems ats 5%, tracking systems ats 5%, hr certification 5%, tracking system 4%, applicant tracking system 4%, manage multiple 24%, microsoft office 32%, handle sensitive 6%
+  [Midwest] n=383 pay=$33.0 diffs:  | phrases: hr best 6%
+  [Northeast] n=299 pay=$34.15 diffs:  | phrases: associate s 8%, interpersonal and communication 7%
+  [South] n=495 pay=$31.25 diffs:  | phrases: 
+  [West] n=448 pay=$37.14 diffs:  | phrases: 
+
+## Healthcare n=4162 employers=2466 pay_med=$46.84/hr (pay shown 67%)
+titles: Medical Assistant(431); Physical Therapist(421); Registered Nurse(291); Physical Therapist Assistant(173); Physician Assistant(63); Certified Medical Assistant(53)
+top cos: MedCBO; Optum; Providence; Ascension; Henry Ford Health; Penn Medicine
+features: Part-time / PRN offered 50%, BLS / CPR / ACLS 32%, Epic / Cerner EHR 32%, 401(k) match 21%, Weekends 19%, Tuition / training paid 17%, Active RN license 15%, High school / GED 11%, Nights / overnight 9%, Bilingual (Spanish) 8%, Sign-on bonus 7%, On-call 7%, Employee discount 6%, Microsoft Office / Excel 6%, Background check 6%
+phrases: medical assistant 21%, physical therapy 18%, physical therapist 16%, registered nurse 13%, rn license 13%, patient care 17%, bls certification 11%, assistant program 9%, life support 9%, basic life support 8%, electronic medical 7%, certified medical 6%, physician assistant 6%, certified medical assistant 6%, accredited physical 6%, medical terminology 12%, emr systems 6%, medical license 6%, accredited school 6%, nurse rn 6%, registered nurse rn 6%, therapist assistant 6%, physical therapist assistant 6%, primary care 6%, life support bls 6%, support bls 6%, vital signs 5%, internal medicine 5%
+  [Midwest] n=1014 pay=$43.27 diffs:  | phrases: medical assistant program 7%
+  [Northeast] n=707 pay=$50.0 diffs:  | phrases: 
+  [South] n=1245 pay=$44.0 diffs:  | phrases: 
+  [West] n=1196 pay=$50.0 diffs:  | phrases: 
+
+## Legal n=1903 employers=1313 pay_med=$43.27/hr (pay shown 72%)
+titles: Legal Assistant(153); Paralegal(130); Associate Attorney(95); Litigation Paralegal(43); Attorney(28); Associate General Counsel(25)
+top cos: Aligned Talent Acquisition; US Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys; State of Washington; Tyson & Mendes; Kanner & Pintaluga, P.A; Morgan & Morgan
+features: Microsoft Office / Excel 33%, 5+ years experience 26%, Hybrid 26%, 401(k) match 21%, Equity / stock 13%, Part-time / PRN offered 12%, Bilingual (Spanish) 11%, Bar admission 8%, Background check 8%, Bachelor's degree 8%, AI / LLM / GenAI 7%, Tuition / training paid 7%, High school / GED 7%, Commission / bonus pay 6%
+phrases: law school 25%, law firm 24%, accredited law 19%, accredited law school 19%, juris doctor 17%, good standing 19%, practice law 14%, legal research 13%, state bar 13%, paralegal certificate 12%, legal assistant 9%, legal documents 8%, personal injury 8%, document management 8%, law school active 7%, school active 7%, legal department 6%, family law 6%, civil litigation 6%, case management 11%, complex legal 6%, doctor j.d 6%, juris doctor j.d 6%, active license 6%, license to practice 6%, licensed to practice 5%, outside counsel 5%, least one u.s 5%
+  [Midwest] n=421 pay=$42.07 diffs: Bilingual (Spanish) 6% vs 11% | phrases: court rules 7%, court procedures 6%
+  [Northeast] n=331 pay=$39.47 diffs: Part-time / PRN offered 18% vs 12% | phrases: legal assistant 13%, while maintaining 7%, willingness to learn 6%, u.s jurisdiction 6%
+  [South] n=590 pay=$37.2 diffs: Equity / stock 8% vs 13% | phrases: verbal and written 11%, customer service 10%
+  [West] n=561 pay=$49.56 diffs: Equity / stock 19% vs 13% | phrases: bar license 6%
+
+## Manufacturing n=3714 employers=2629 pay_med=$27.64/hr (pay shown 72%)
+titles: Production Supervisor(201); Quality Inspector(132); Machine Operator(130); CNC Machinist(116); Quality Control Inspector(92); Production Manager(85)
+top cos: Eaton; Lockheed Martin; Atkore; Sanmina; Precision CastParts; BAE Systems USA
+features: High school / GED 39%, 401(k) match 28%, Lift 50+ lbs 24%, 5+ years experience 23%, Microsoft Office / Excel 23%, Tuition / training paid 20%, Overtime 19%, Weekends 14%, SAP / Oracle / NetSuite ERP 12%, Nights / overnight 12%, Hand & power tools 11%, Standing / on feet 10%, Background check 8%, Drug screen 8%, Part-time / PRN offered 8%, AutoCAD / Revit / SolidWorks 7%, Bachelor's degree 7%, Equity / stock 6%
+phrases: manufacturing environment 22%, gd t 11%, quality control 11%, lean manufacturing 8%, precision measuring 7%, cnc machining 6%, engineering drawings 7%, measuring instruments 6%, cnc programming 5%, read and interpret 14%, measuring tools 5%, calipers micrometers 5%, quality inspection 5%, production environment 7%, high school 44%, school diploma 39%, high school diploma 39%, quality management 4%, mechanical aptitude 9%, manufacturing processes 6%, continuous improvement 9%, attention to detail 31%, six sigma 5%, quality assurance 5%, quality standards 5%, diploma or equivalent 19%, basic math 10%, diploma or ged 15%
+  [Midwest] n=870 pay=$26.51 diffs:  | phrases: 
+  [Northeast] n=713 pay=$28.41 diffs:  | phrases: 
+  [South] n=1042 pay=$24.0 diffs:  | phrases: 
+  [West] n=1089 pay=$31.5 diffs:  | phrases: 
+
+## Marketing n=1696 employers=1480 pay_med=$28.85/hr (pay shown 76%)
+titles: Marketing Coordinator(59); Marketing Manager(46); Part(44); Social Media Manager(39); Marketing Specialist(23); Brand Ambassador(21)
+top cos: lululemon; Urban Outfitters; L'Oréal; Macy's; Deloitte; DSI Holdings Corporation
+features: Part-time / PRN offered 34%, Hybrid 28%, 5+ years experience 25%, Microsoft Office / Excel 22%, Bachelor's degree 20%, Salesforce / CRM 18%, Weekends 18%, 401(k) match 17%, Employee discount 13%, Equity / stock 11%, Tuition / training paid 10%, AI / LLM / GenAI 10%, Customer-facing 9%
+phrases: social media 46%, digital marketing 22%, marketing communications 21%, adobe creative 17%, graphic design 16%, content creation 16%, creative suite 14%, adobe creative suite 14%, media platforms 13%, social media platforms 12%, public relations 12%, media management 12%, social media management 12%, google analytics 12%, video editing 11%, email marketing 9%, marketing business 8%, content management 7%, social media content 7%, media content 7%, marketing automation 7%, media marketing 7%, communications business 6%, social media marketing 6%, marketing campaigns 6%, analytics tools 6%, marketing communications business 6%, marketing strategies 5%
+  [Midwest] n=392 pay=$27.64 diffs:  | phrases: 
+  [Northeast] n=312 pay=$31.25 diffs: 5+ years experience 32% vs 25% | phrases: short-form video 8%, business administration 6%
+  [South] n=497 pay=$24.44 diffs:  | phrases: media marketing 10%, social media marketing 9%, high school 8%, extended periods 6%, high school diploma 6%, school diploma 6%, up to pounds 6%, instagram tiktok 7%
+  [West] n=495 pay=$31.25 diffs:  | phrases: tools like 6%
+
+## Pharma & life sciences n=3736 employers=1553 pay_med=$30.0/hr (pay shown 67%)
+titles: Pharmacy Technician(338); Pharmacist(185); Staff Pharmacist(92); Clinical Research Coordinator(77); Certified Pharmacy Technician(74); Lab Technician(57)
+top cos: CVS Health; Walgreens; Walmart; Optum; IQVIA; University of Utah
+features: Part-time / PRN offered 32%, Pharmacy licence / PTCB 32%, High school / GED 24%, Weekends 22%, Microsoft Office / Excel 20%, Bachelor's degree 19%, Tuition / training paid 16%, 401(k) match 14%, Employee discount 12%, Equity / stock 11%, Cloud (AWS/Azure/GCP) 10%, Epic / Cerner EHR 9%, Background check 9%, 5+ years experience 9%, Nights / overnight 8%, Drug screen 8%, Master's / advanced degree 8%, BLS / CPR / ACLS 7%, Customer-facing 6%
+phrases: pharmacy technician 24%, clinical research 13%, pharmacist license 12%, board of pharmacy 11%, technician certification 8%, doctor of pharmacy 8%, pharmacy technician certification 7%, clinical trials 6%, state board 6%, technician license 6%, pharmacy technician license 6%, hospital pharmacy 6%, school of pharmacy 6%, certified pharmacy 5%, certified pharmacy technician 5%, registered pharmacist 5%, clinical trial 4%, pharmacy software 4%, clinical pharmacy 4%, retail pharmacy 4%, pharmacy residency 4%, pharmacy operations 4%, medical terminology 10%, patient care 10%, attention to detail 31%, life support 6%, high school 34%, good standing 8%
+  [Midwest] n=923 pay=$27.89 diffs: Drug screen 13% vs 8%, Background check 15% vs 9% | phrases: 
+  [Northeast] n=685 pay=$28.7 diffs:  | phrases: 
+  [South] n=1038 pay=$27.32 diffs:  | phrases: 
+  [West] n=1090 pay=$32.45 diffs:  | phrases: good standing 12%, technician license 10%, pharmacy technician license 9%
+
+## Real estate & property n=2112 employers=1182 pay_med=$31.98/hr (pay shown 79%)
+titles: Leasing Consultant(164); Real Estate Agent(142); Property Manager(127); Assistant Property Manager(91); Part(44); Leasing Agent(43)
+top cos: Keller Williams Realty; Cushman & Wakefield; Asset Living; CubeSmart Self Storage; Marcus & Millichap; Willow Bridge Property Company
+features: Microsoft Office / Excel 37%, Commission / bonus pay 30%, Part-time / PRN offered 30%, Real estate licence 27%, Weekends 23%, 401(k) match 23%, High school / GED 23%, Salesforce / CRM 18%, Yardi / RealPage / AppFolio 17%, Customer-facing 13%, Tuition / training paid 11%, Background check 10%, Outdoors / weather 9%, Hybrid 8%, Valid driver's license 8%, Bilingual (Spanish) 8%
+phrases: real estate 45%, property management 35%, real estate license 24%, estate license 24%, property management software 12%, fair housing 12%, estate sales 9%, real estate sales 9%, lead generation 6%, sales professional 6%, licensed real 6%, licensed real estate 6%, active real estate 6%, active real 6%, real estate professional 6%, estate professional 6%, competitive spirit 6%, building rapport 6%, scripts and dialogues 5%, identifying solutions 5%, rapport listening 5%, overcoming objections 5%, learning based 5%, prospecting and lead 5%, motivated sales professional 5%, others and identifying 5%, motivated sales 5%, building rapport listening 5%
+  [Midwest] n=455 pay=$28.92 diffs: Real estate licence 18% vs 27% | phrases: affordable housing 8%
+  [Northeast] n=358 pay=$33.0 diffs: Weekends 15% vs 23%, Hybrid 13% vs 8% | phrases: housing regulations 7%, type full-time 7%
+  [South] n=660 pay=$33.65 diffs:  | phrases: social media 9%
+  [West] n=639 pay=$32.07 diffs:  | phrases: 
+
+## Restaurants & hospitality n=4169 employers=2627 pay_med=$19.5/hr (pay shown 76%)
+titles: Server(374); Line Cook(246); Front Desk Agent(231); Assistant Manager(131); Night Auditor(115); Line Cook/Prep Cook(109)
+top cos: Chick-fil-A Restaurants; Marriott International; Panda Restaurant Group; First Watch; Hilton; Holiday Inn Express and Suites
+features: Part-time / PRN offered 54%, Weekends 36%, Employee discount 34%, Tuition / training paid 23%, Nights / overnight 20%, High school / GED 19%, POS systems 17%, 401(k) match 14%, Lift 50+ lbs 13%, Standing / on feet 13%, Tips 11%, Food handler / ServSafe 11%, Customer-facing 10%, Microsoft Office / Excel 7%, Weekly / daily pay 6%, Background check 6%
+phrases: food service 24%, food safety 31%, food preparation 19%, food handling 17%, fine dining 12%, food industry 15%, pos systems 10%, front desk 13%, dining experiences 8%, guest relations 8%, weekends and holidays 15%, food safety standards 6%, kitchen equipment 11%, food handler 7%, dietary aide 9%, hotel front 6%, hospitality management 6%, food handling procedures 6%, aloha pos 6%, guest service 6%, handling procedures 7%, guest experiences 6%, hotel front desk 6%, micros pos 6%, food safety management 8%, restaurant management 5%, memorable dining 5%, sanitation practices 6%
+  [Midwest] n=1006 pay=$18.5 diffs:  | phrases: 
+  [Northeast] n=725 pay=$20.5 diffs:  | phrases: 
+  [South] n=1244 pay=$18.0 diffs:  | phrases: 
+  [West] n=1194 pay=$20.5 diffs: Food handler / ServSafe 16% vs 11% | phrases: food handler 12%
+
+## Retail n=3043 employers=1056 pay_med=$18.22/hr (pay shown 76%)
+titles: Cashier(275); Retail Sales Associate(196); Store Manager(114); Assistant Store Manager(105); Part(98); Seasonal Retail Sales Associate(58)
+top cos: Macy's; Dollar General; Walmart; Target; Whole Foods Market; Sprouts Farmers Market
+features: Part-time / PRN offered 63%, Weekends 50%, Employee discount 37%, High school / GED 26%, Nights / overnight 24%, Lift 50+ lbs 22%, 401(k) match 22%, POS systems 22%, Customer-facing 18%, Tuition / training paid 17%, Standing / on feet 12%, Weekly / daily pay 10%, Microsoft Office / Excel 7%, Equity / stock 7%, Bilingual (Spanish) 7%, Outdoors / weather 6%, Background check 6%
+phrases: pos systems 16%, retail sales 12%, cash handling 14%, cash register 9%, retail environment 9%, basic math 22%, customer service 51%, familiarity with pos 8%, retail math 7%, weekends and holidays 17%, previous retail 7%, retail management 6%, flexible schedule 12%, retail store 6%, store operations 5%, handling cash 5%, cash transactions 5%, point of sale 5%, store manager 5%, sales floor 5%, transactions accurately 5%, evenings weekends 9%, throughout the store 4%, nights weekends 8%, age or older 7%, handling procedures 5%, extended periods 15%, food service 9%
+  [Midwest] n=724 pay=$17.26 diffs:  | phrases: background check 6%
+  [Northeast] n=524 pay=$18.5 diffs:  | phrases: inventory management 6%
+  [South] n=928 pay=$16.5 diffs:  | phrases: food industry 6%
+  [West] n=867 pay=$19.85 diffs:  | phrases: food handler 8%, point of sale 8%
+
+## Sales n=1916 employers=1370 pay_med=$40.87/hr (pay shown 82%)
+titles: Sales Representative(105); Account Executive(101); Outside Sales Representative(65); Inside Sales Representative(63); Account Manager(61); Entry(28)
+top cos: National Federation of Independent Business; Devine Business Group; LA Fitness; Prism Biotech; Power Home Remodeling; Hibu
+features: Commission / bonus pay 47%, Salesforce / CRM 30%, Microsoft Office / Excel 24%, Part-time / PRN offered 24%, 401(k) match 22%, Tuition / training paid 20%, Hybrid 18%, 5+ years experience 15%, Weekends 14%, High school / GED 14%, Customer-facing 12%, Bachelor's degree 10%, Employee discount 10%, Equity / stock 10%, No experience / entry level 10%, Background check 7%, Bilingual (Spanish) 7%, Valid driver's license 6%
+phrases: account management 12%, business development 12%, outside sales 8%, b2b sales 6%, inside sales 5%, sales targets 5%, track record 16%, business marketing 4%, customer relationships 4%, crm systems 6%, crm software 4%, meeting or exceeding 4%, proven track record 9%, proven track 9%, customer needs 4%, customer service 26%, relationship management 4%, bachelor s 27%, demonstrated success 5%, driver s 18%, driver s license 18%, s license 18%, microsoft office 17%, valid driver 14%, valid driver s 14%, verbal and written 10%, reliable transportation 7%, manage multiple 9%
+  [Midwest] n=473 pay=$36.06 diffs:  | phrases: 
+  [Northeast] n=337 pay=$43.27 diffs:  | phrases: 
+  [South] n=555 pay=$40.87 diffs:  | phrases: 
+  [West] n=551 pay=$42.55 diffs:  | phrases: location in person 9%, sales targets 7%
+
+## Senior & home care n=1856 employers=1177 pay_med=$19.5/hr (pay shown 76%)
+titles: Certified Nursing Assistant(210); Caregiver(100); Home Health Aide(67); CNA(64); In Home Caregiver(56); Direct Support Professional(34)
+top cos: Cornerstone Caregiving; Right At Home; ExpertCare; BAYADA Home Health Care; SYNERGY HomeCare; Visiting Angels
+features: Part-time / PRN offered 64%, BLS / CPR / ACLS 30%, Tuition / training paid 28%, Background check 28%, Weekends 24%, High school / GED 24%, Weekly / daily pay 21%, CNA / HHA certification 19%, Nights / overnight 16%, 401(k) match 14%, Valid driver's license 8%, Lift 50+ lbs 7%, Shift differential 7%, Drug screen 6%
+phrases: nursing assistant 24%, certified nursing 18%, certified nursing assistant 18%, home health 17%, cna certification 13%, personal care 12%, home care 12%, assisted living 12%, assistant cna 11%, nursing assistant cna 10%, long-term care 9%, health aide 8%, home health aide 8%, cna license 7%, care plans 7%, vital signs 6%, alzheimer s 6%, memory care 6%, medication administration 6%, cpr certification 12%, senior care 5%, nursing homes 5%, hospice care 5%, first aid 13%, current cpr 7%, assistant cna certification 4%, dementia care 4%, compassionate patient 4%
+  [Midwest] n=475 pay=$19.0 diffs:  | phrases: 
+  [Northeast] n=337 pay=$21.0 diffs: BLS / CPR / ACLS 18% vs 30%, Background check 18% vs 28% | phrases: make a difference 9%, nurse aide 10%, aide certification 6%, assistant cna certification 7%
+  [South] n=513 pay=$17.0 diffs: Drug screen 12% vs 6% | phrases: location in person 16%, auto insurance 10%, individuals with developmental 7%
+  [West] n=531 pay=$21.0 diffs: BLS / CPR / ACLS 40% vs 30% | phrases: first aid 20%, cpr/first aid 7%, vital signs 9%, aid certification 9%, tb test 7%, cpr and first 6%
+
+## Skilled trades n=4712 employers=3498 pay_med=$31.25/hr (pay shown 77%)
+titles: Maintenance Technician(244); Welder(178); Electrician(153); HVAC Service Technician(126); Plumber(89); HVAC Technician(87)
+top cos: IES Residential; Walmart; Asset Living; EMCOR; Service Experts; Gaylor Electric
+features: Hand & power tools 29%, High school / GED 28%, 401(k) match 26%, Lift 50+ lbs 25%, Tuition / training paid 22%, Journeyman / master licence 20%, Clean driving record / MVR 20%, Valid driver's license 18%, Weekends 17%, 5+ years experience 16%, Overtime 16%, Outdoors / weather 15%, Part-time / PRN offered 15%, Background check 14%, On-call 12%, Drug screen 12%, Customer-facing 9%, Microsoft Office / Excel 8%, Nights / overnight 7%, Commission / bonus pay 7%, Employee discount 6%
+phrases: hand tools 19%, epa certification 7%, power tools 15%, electrical systems 11%, s license 37%, driver s 37%, plumbing systems 6%, driver s license 36%, hvac systems 5%, valid driver 27%, valid driver s 26%, read blueprints 5%, driving record 16%, confined spaces 5%, clean driving 10%, tools power tools 5%, clean driving record 10%, hand tools power 5%, tools power 6%, high school 32%, technical drawings 6%, read and interpret 9%, school diploma 26%, high school diploma 26%, climb ladders 4%, mechanical systems 4%, mechanical aptitude 6%, safety procedures 5%
+  [Midwest] n=1118 pay=$31.0 diffs:  | phrases: 
+  [Northeast] n=821 pay=$32.5 diffs:  | phrases: 
+  [South] n=1409 pay=$27.88 diffs:  | phrases: 
+  [West] n=1364 pay=$33.94 diffs:  | phrases: 
+
+## Social services n=2937 employers=2059 pay_med=$25.62/hr (pay shown 78%)
+titles: Case Manager(199); Behavior Technician(124); Registered Behavior Technician(105); Behavioral Health Technician(86); Social Worker(81); Mental Health Technician(33)
+top cos: Heartland ABA; OOS Management Corp.; Positive Behavior Supports; Telecare Corporation; Bristol Hospice; Maxim Healthcare
+features: Part-time / PRN offered 46%, High school / GED 29%, Tuition / training paid 23%, Weekends 21%, Background check 20%, BLS / CPR / ACLS 19%, Social work licence (LCSW/LMSW) 18%, 401(k) match 17%, Bachelor's degree 17%, Epic / Cerner EHR 15%, Microsoft Office / Excel 13%, Bilingual (Spanish) 13%, Master's / advanced degree 11%, Hybrid 10%, On-call 8%, Nights / overnight 7%, Valid driver's license 7%, Drug screen 7%, Equity / stock 7%, Clean driving record / MVR 6%
+phrases: mental health 21%, case management 20%, behavioral health 18%, human services 15%, social worker 10%, master s 23%, social services 8%, crisis intervention 8%, substance use 7%, community resources 7%, social work psychology 6%, clinical social 6%, rbt certification 6%, clinical social worker 5%, psychology social 5%, behavior technician 5%, marriage and family 4%, registered behavior 4%, registered behavior technician 4%, case manager 4%, developmental disabilities 6%, diverse populations 4%, s license 28%, driver s 28%, driver s license 28%, bachelor s 32%, reliable transportation 14%, registered nurse 6%
+  [Midwest] n=705 pay=$24.5 diffs:  | phrases: 
+  [Northeast] n=532 pay=$26.5 diffs: BLS / CPR / ACLS 13% vs 19%, Background check 13% vs 20% | phrases: 
+  [South] n=852 pay=$24.75 diffs:  | phrases: rbt certification 10%, registered behavior 7%, registered behavior technician 6%
+  [West] n=848 pay=$27.0 diffs: BLS / CPR / ACLS 26% vs 19%, Bilingual (Spanish) 18% vs 13% | phrases: first aid 9%
+
+## Software & IT n=3862 employers=2308 pay_med=$58.98/hr (pay shown 69%)
+titles: Software Engineer(129); Data Engineer(94); Senior Software Engineer(62); IT Support Specialist(54); Senior Data Engineer(47); Staff Software Engineer(43)
+top cos: Deloitte; Amazon.com; Accenture; JPMorganChase; Anduril; Lockheed Martin
+features: 5+ years experience 41%, Cloud (AWS/Azure/GCP) 36%, Python 30%, Bachelor's degree 29%, AI / LLM / GenAI 27%, Hybrid 26%, SQL 23%, Microsoft Office / Excel 21%, Cyber certs (Security+/CISSP) 21%, Equity / stock 19%, 401(k) match 19%, Kubernetes / Docker 14%, Tuition / training paid 13%, Customer-facing 11%, Background check 10%, Part-time / PRN offered 10%, SAP / Oracle / NetSuite ERP 9%, On-call 9%, Master's / advanced degree 8%, Weekends 7%, High school / GED 7%, Security clearance 7%, Tableau / Power BI 6%
+phrases: computer science 42%, information technology 20%, software development 16%, software engineering 15%, operating systems 13%, active directory 12%, science information 11%, computer science information 10%, information systems 13%, technical support 9%, information security 9%, data engineering 9%, incident response 8%, help desk 8%, ci/cd pipelines 7%, entra id 7%, comptia a+ 7%, version control 6%, data modeling 7%, relational databases 6%, cloud security 6%, sql server 6%, cloud platforms 6%, technology computer 6%, vulnerability management 6%, information technology computer 6%, technology computer science 6%, computer engineering 6%
+  [Midwest] n=902 pay=$52.88 diffs: Tuition / training paid 22% vs 13% | phrases: 
+  [Northeast] n=685 pay=$60.95 diffs:  | phrases: 
+  [South] n=1150 pay=$57.69 diffs: Equity / stock 11% vs 19% | phrases: networking concepts 6%
+  [West] n=1125 pay=$65.91 diffs: Equity / stock 30% vs 19% | phrases: 
+
+## Transportation n=2944 employers=2112 pay_med=$25.5/hr (pay shown 82%)
+titles: Delivery Driver(234); Dispatcher(160); CDL(72); Non(34); Truck Driver(33); Driver(28)
+top cos: Allied Universal; Ryder System; GEX Transport; UPS; Domino's; MedSpeed
+features: CDL (any) 38%, Clean driving record / MVR 35%, Part-time / PRN offered 26%, Tuition / training paid 26%, High school / GED 25%, Drug screen 24%, Weekends 23%, 401(k) match 22%, CDL Class A 20%, Background check 19%, Lift 50+ lbs 18%, Microsoft Office / Excel 15%, Weekly / daily pay 13%, Customer-facing 12%, Nights / overnight 12%, Valid driver's license 11%, Overtime 10%, Outdoors / weather 9%, 5+ years experience 8%, Employee discount 8%
+phrases: driving record 31%, clean driving 20%, clean driving record 20%, valid class 9%, commercial driver 8%, delivery driver 7%, truck driving 7%, commercial driver s 7%, class a cdl 7%, commercial driving 6%, route driving 6%, license cdl 6%, driver s 38%, driver s license 38%, s license cdl 6%, dot medical 6%, s license 38%, safe driving 5%, manual transmission 5%, dot regulations 5%, box truck 5%, delivery driving 4%, medical card 4%, cdl class 4%, dot physical 4%, valid cdl 4%, commercial truck 4%, valid driver 24%
+  [Midwest] n=719 pay=$25.22 diffs:  | phrases: 
+  [Northeast] n=524 pay=$25.75 diffs:  | phrases: 
+  [South] n=869 pay=$24.5 diffs:  | phrases: 
+  [West] n=832 pay=$26.52 diffs:  | phrases: 
+
+## Warehouse & logistics n=3212 employers=2296 pay_med=$22.88/hr (pay shown 72%)
+titles: Warehouse Associate(221); Logistics Coordinator(107); Forklift Operator(62); Material Handler(58); Warehouse Worker(37); Inventory Coordinator(28)
+top cos: DHL; Ryder System; Best Buy; Lowe's Home Improvement; Walmart; CJ Logistics America
+features: High school / GED 37%, Microsoft Office / Excel 37%, Lift 50+ lbs 29%, 401(k) match 25%, SAP / Oracle / NetSuite ERP 20%, Tuition / training paid 20%, Part-time / PRN offered 15%, Overtime 14%, Weekends 14%, WMS / scanners / RF 13%, Forklift certification 12%, Employee discount 11%, Bachelor's degree 11%, 5+ years experience 10%, Background check 9%, Nights / overnight 9%, Drug screen 9%, Standing / on feet 8%, Bilingual (Spanish) 7%, Equity / stock 7%, Outdoors / weather 6%, Hybrid 6%
+phrases: supply chain 19%, inventory management 10%, warehouse operations 7%, warehouse environment 7%, inventory control 7%, warehouse management 6%, chain management 6%, supply chain management 6%, forklift certification 5%, pallet jacks 5%, warehouse equipment 4%, material handling 6%, high school 39%, attention to detail 34%, school diploma 34%, high school diploma 34%, microsoft excel 10%, erp systems 6%, diploma or equivalent 16%, management systems 8%, up to lbs 11%, microsoft office 18%, up to pounds 12%, basic computer 8%, basic math 8%, bachelor s 21%, diploma or ged 11%, lift up 9%
+  [Midwest] n=745 pay=$22.5 diffs:  | phrases: 
+  [Northeast] n=572 pay=$23.5 diffs:  | phrases: 
+  [South] n=982 pay=$21.5 diffs:  | phrases: business administration 8%
+  [West] n=913 pay=$24.0 diffs:  | phrases: driving record 6%
+
+## REGION PROFILE (all sectors)
+Midwest 18593 25.05 OVER: Weekly / daily pay 6%/5% UNDER: Bilingual (Spanish) 4%/7%
+Northeast 14075 27.5 OVER:  UNDER: Outdoors / weather 5%/6%, Drug screen 5%/8%, Background check 10%/13%, Bilingual (Spanish) 5%/7%
+South 23340 24.0 OVER: Bilingual (Spanish) 9%/7% UNDER: Equity / stock 5%/8%
+West 22774 28.8 OVER: Equity / stock 10%/8% UNDER: 

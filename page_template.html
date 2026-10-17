@@ -1,0 +1,202 @@
+<title>Help Wanted, Decoded</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Public+Sans:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a single reading column; findings first, then regions, then one sector at a time, then the pay grid. */
+:root{
+  --paper:#f5f6f3; --card:#ffffff; --ink:#18202b; --muted:#5b6470; --rule:#d9ddd8;
+  --vest:#e8590c; --vest-soft:#fde6d6; --cool:#2f6f8f; --cool-soft:#dcebf2;
+  --display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
+  --body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#12161c; --card:#1a2028; --ink:#e7eaee; --muted:#9aa3ae; --rule:#2c343e;
+  --vest:#ff8a3d; --vest-soft:#3a2416; --cool:#7cb8d6; --cool-soft:#1b2d38; color-scheme:dark;}}
+:root[data-theme="dark"]{
+  --paper:#12161c; --card:#1a2028; --ink:#e7eaee; --muted:#9aa3ae; --rule:#2c343e;
+  --vest:#ff8a3d; --vest-soft:#3a2416; --cool:#7cb8d6; --cool-soft:#1b2d38; color-scheme:dark;}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:16px/1.55 var(--body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:860px;margin:0 auto;padding-block:28px 64px;display:flex;flex-direction:column;gap:44px}
+h1,h2,h3{font-family:var(--display);text-wrap:balance;margin:0;line-height:1.02}
+h1{font-size:clamp(44px,9vw,76px);font-weight:800;letter-spacing:.005em;text-transform:uppercase}
+h1 span{color:var(--vest)}
+h2{font-size:30px;font-weight:700;text-transform:uppercase;letter-spacing:.01em}
+h3{font-size:22px;font-weight:700}
+.eyebrow{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.lede{font-size:18px;max-width:62ch;margin:12px 0 0;color:var(--ink)}
+.meta{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:16px;font:400 13px/1.4 var(--mono);color:var(--muted);font-variant-numeric:tabular-nums}
+.meta b{color:var(--ink);font-weight:500}
+section{display:flex;flex-direction:column;gap:16px}
+.findings{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:14px;counter-reset:f}
+.findings li{display:grid;grid-template-columns:auto 1fr;gap:14px;align-items:start;max-width:70ch}
+.findings .tag{font:700 13px/1 var(--display);letter-spacing:.06em;text-transform:uppercase;background:var(--vest);color:#fff;padding:5px 7px 4px;border-radius:2px;margin-top:3px;min-width:86px;text-align:center}
+.findings p{margin:0}
+.findings strong{font-weight:700}
+.regions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+@media (max-width:640px){.regions{grid-template-columns:1fr}}
+.region{background:var(--card);border:1px solid var(--rule);border-radius:4px;padding:16px;display:flex;flex-direction:column;gap:10px}
+.region header{display:flex;justify-content:space-between;align-items:baseline;gap:8px;flex-wrap:wrap}
+.region .stat{font:500 13px/1.3 var(--mono);color:var(--muted);font-variant-numeric:tabular-nums}
+.region .stat b{color:var(--ink);font-weight:500}
+.up{color:var(--cool)} .down{color:var(--vest)}
+.region ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px;font-size:15px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:600 14px/1 var(--body);border:1px solid var(--rule);background:var(--card);color:var(--ink);padding:8px 11px;border-radius:999px;cursor:pointer}
+.chip:hover{border-color:var(--vest)}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.chip:focus-visible,.rbtn:focus-visible{outline:2px solid var(--vest);outline-offset:2px}
+.sector{background:var(--card);border:1px solid var(--rule);border-top:4px solid var(--vest);border-radius:4px;padding:20px;display:flex;flex-direction:column;gap:18px}
+.sector .top{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px}
+.sector h3{font-size:34px;text-transform:uppercase}
+.needs{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px;max-width:68ch}
+.cols{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:22px}
+@media (max-width:640px){.cols{grid-template-columns:1fr}}
+.bars{display:flex;flex-direction:column;gap:7px}
+.bar{display:grid;grid-template-columns:minmax(0,1fr) 44px;gap:8px;align-items:center;font-size:14px}
+.bar .lbl{position:relative;padding:3px 6px;z-index:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar .fill{position:absolute;inset:0 auto 0 0;background:var(--vest-soft);z-index:-1;border-radius:2px}
+.bar .pct{font:500 13px var(--mono);text-align:right;font-variant-numeric:tabular-nums}
+.titles{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:4px;font-size:14px}
+.pay{display:flex;flex-direction:column;gap:6px}
+.payrow{display:grid;grid-template-columns:84px minmax(0,1fr) 62px;gap:8px;align-items:center;font-size:14px}
+.payrow .track{height:10px;background:var(--rule);border-radius:2px;position:relative}
+.payrow .track i{position:absolute;inset:0 auto 0 0;background:var(--cool);border-radius:2px}
+.payrow .v{font:500 13px var(--mono);text-align:right;font-variant-numeric:tabular-nums}
+.small{font-size:13px;color:var(--muted)}
+.gridwrap{overflow-x:auto;border:1px solid var(--rule);border-radius:4px;background:var(--card)}
+table{border-collapse:collapse;width:100%;min-width:560px;font-size:14px;font-variant-numeric:tabular-nums}
+th,td{padding:7px 10px;border-bottom:1px solid var(--rule);text-align:right;white-space:nowrap}
+th:first-child,td:first-child{text-align:left}
+thead th{font:500 12px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);position:sticky;top:0;background:var(--card)}
+td.c{font-family:var(--mono);font-size:13px}
+tr.sel td{font-weight:700}
+.method{font-size:14px;color:var(--muted);max-width:70ch;display:flex;flex-direction:column;gap:8px}
+.method p{margin:0}
+@media (prefers-reduced-motion:no-preference){.bar .fill,.payrow .track i{transition:width .35s ease}}
+</style>
+
+<div class="wrap">
+<header>
+  <div class="eyebrow">Active US job postings · pulled 17 Oct 2026</div>
+  <h1>Help Wanted, <span>Decoded</span></h1>
+  <p class="lede">What US employers say they need right now, read from the postings themselves. Pick a sector to see its needs, then check how much the region changes them.</p>
+  <div class="meta" id="meta"></div>
+</header>
+
+<section>
+  <h2>Across every sector</h2>
+  <ul class="findings">
+    <li><span class="tag">Hours</span><p><strong>The low-wage half needs your availability more than your skills.</strong> 63% of retail postings are part-time and 50% ask for weekends. Senior care is 62% part-time and restaurants 56%.</p></li>
+    <li><span class="tag">Licences</span><p><strong>A credential is the gate in almost every hands-on job.</strong> CDL in 38% of transportation postings, a pharmacy licence or PTCB in 32% of pharma, BLS/CPR in 32% of healthcare, a real-estate licence in 27%, a CPA in 27% of finance, a guard card in 25% of security, journeyman/master in 20% of trades.</p></li>
+    <li><span class="tag">AI</span><p><strong>AI has moved into the job description.</strong> 55% of data roles and 27% of software roles mention AI or LLM tools. So do 10% of marketing, 9% of finance and 7% of legal, HR and engineering postings.</p></li>
+    <li><span class="tag">Training</span><p><strong>Employers will train rather than wait.</strong> Paid training or tuition appears in 45% of security and policing postings, 30% of automotive, 28% of senior care and 26% of transportation.</p></li>
+    <li><span class="tag">Region</span><p id="regionFinding"><strong>Region changes the price and the paperwork, not the job.</strong></p></li>
+  </ul>
+</section>
+
+<section>
+  <h2>By region</h2>
+  <p class="small" style="margin:0">Openings are the BLS JOLTS estimate for August 2026, compared with August 2025. Pay is the median posted hourly rate across all sectors sampled.</p>
+  <div class="regions" id="regions"></div>
+</section>
+
+<section>
+  <h2>By sector</h2>
+  <div class="chips" id="chips" role="group" aria-label="Sector"></div>
+  <article class="sector" id="sector" aria-live="polite"></article>
+</section>
+
+<section>
+  <h2>Pay by region, every sector</h2>
+  <p class="small" style="margin:0">Median posted pay in each region compared with that sector's national median. Blue is above, orange below.</p>
+  <div class="gridwrap"><table id="grid"></table></div>
+</section>
+
+<section class="method">
+  <h2 style="color:var(--ink)">How this was built</h2>
+  <p id="methodCounts"></p>
+  <p>A "need" is a requirement or offer the posting states: a licence, a tool, a shift, a bonus. Each percentage is the share of a sector's postings whose text matches it. Phrase shares such as "early childhood education" are counted once per employer, so one large company's boilerplate cannot inflate them. Region comes from the posting's own state.</p>
+  <p>Indeed returns the 50 most relevant postings per search and metro, so sector sizes here reflect the sampling plan rather than the real mix of openings. JOLTS gives the real scale. Energy (275) and agriculture (382) are small samples after removing off-topic matches such as line cooks returned for "lineman".</p>
+</section>
+</div>
+
+<script>
+const D = __DATA__;
+const REG = ["Northeast","Midwest","South","West"];
+const NOTES = {
+  West: ["Pays above the sector median in __WUP__ of 30 sectors; +14% in construction, manufacturing, finance and childcare, +15% in legal.",
+         "State paperwork: California guard cards, fingerprint clearance for school staff, food-handler cards (16% of restaurant postings vs 11% nationally), TB tests and first aid for caregivers (CPR/BLS in 40% vs 30%).",
+         "Equity is part of the offer: 30% of software postings vs 19% nationally."],
+  South: ["The largest pool of openings, about 40% of the US total.",
+          "Pays below the sector median in __SDN__ of 30 sectors; widest gaps in construction (−16%), marketing (−15%), education and legal (−14%).",
+          "Bilingual Spanish is asked most here (8.7% of postings vs 4.0% in the Midwest). Home-care drug screens double (12% vs 6%). The ABA/RBT certification lane is strongest (10% of social-service employers).",
+          "Police roles name state standards: Texas Commission on Law Enforcement, North Carolina basic law enforcement training."],
+  Midwest: ["Openings flat year on year. Pay sits a few percent under national in most sectors.",
+            "More employers offer to train: tuition or paid training in 22% of software postings vs 13% nationally, and 22% vs 16% in data roles.",
+            "Bilingual asks are the rarest (4.0%). Fewer property roles need a real-estate licence (18% vs 27%). Illinois and Ohio peace-officer certifications appear in police postings."],
+  Northeast: ["The only region where openings fell (−3%), with the lowest openings rate (3.9%).",
+              "Second-highest pay; +8% in home care and marketing, +7% in healthcare.",
+              "Lighter screening: drug tests in 5.5% of postings vs 7.8% nationally, background checks 9.7% vs 12.6%. Hybrid is more common in engineering (26% vs 20%)."]
+};
+const $ = s => document.querySelector(s);
+const fmt = n => n.toLocaleString("en-US");
+const money = n => n==null ? "–" : "$" + n.toFixed(2);
+const S = D.sectors;
+const wUp = S.filter(s=>s.payR.West && s.payR.West>s.pay).length;
+const sDn = S.filter(s=>s.payR.South && s.payR.South<s.pay).length;
+const J = D.meta.jolts;
+
+$("#meta").innerHTML = `<span><b>${fmt(D.meta.postings)}</b> unique postings</span><span><b>${S.length}</b> sectors</span><span><b>21</b> metros, 4 regions</span><span><b>${(+J.Total[2]/1000).toFixed(2)}M</b> US openings (JOLTS, Aug)</span>`;
+$("#regionFinding").innerHTML += ` Requirements barely move between regions. Pay does: the West pays above the sector median in ${wUp} of 30 sectors and the South below it in ${sDn}. What else changes is state licensing and how often employers ask for Spanish.`;
+$("#methodCounts").textContent = `${fmt(D.meta.raw)} postings were pulled from Indeed on 17 October 2026 (posted in the last 30 days, within 50 miles of 21 metros), using ${S.length} sectors and 2 to 5 job-title searches each. After removing duplicates and off-topic matches, ${fmt(D.meta.postings)} unique postings remain.`;
+
+const codes = {Northeast:"NE",Midwest:"MW",South:"SO",West:"WE"};
+$("#regions").innerHTML = REG.map(r=>{
+  const now = +J["openings "+codes[r]][2], ago = {NE:1185,MW:1522,SO:2812,WE:1450}[codes[r]];
+  const ch = Math.round((now/ago-1)*100);
+  const share = Math.round(now/+J.Total[2]*100);
+  const notes = NOTES[r].map(t=>t.replace("__WUP__",wUp).replace("__SDN__",sDn));
+  return `<div class="region"><header><h3>${r}</h3><span class="stat"><b>${(now/1000).toFixed(2)}M</b> openings · <span class="${ch>=0?'up':'down'}">${ch>0?'+':''}${ch}%</span> · ${share}% of US</span></header>
+  <div class="stat">Median posted pay <b>${money(D.regions[r].pay_med)}</b>/hr · openings rate ${J["rate "+codes[r]][2]}%</div>
+  <ul>${notes.map(n=>`<li>${n}</li>`).join("")}</ul></div>`;
+}).join("");
+
+let cur = S.find(s=>s.name==="Healthcare") ? "Healthcare" : S[0].name;
+function chips(){
+  $("#chips").innerHTML = S.map(s=>`<button class="chip" id="chip-${s.name.replace(/\W+/g,'-')}" aria-pressed="${s.name===cur}">${s.name}</button>`).join("");
+  $("#chips").querySelectorAll(".chip").forEach((b,i)=>b.onclick=()=>{cur=S[i].name;render();});
+}
+function render(){
+  chips();
+  const s = S.find(x=>x.name===cur);
+  const maxPay = Math.max(...REG.map(r=>s.payR[r]||0), s.pay);
+  $("#sector").innerHTML = `
+    <div class="top"><h3>${s.name}</h3><span class="eyebrow">${fmt(s.n)} postings · ${fmt(s.employers)} employers · median ${money(s.pay)}/hr</span></div>
+    <ul class="needs">${s.need.map(n=>`<li>${n}</li>`).join("")}</ul>
+    <div class="cols">
+      <div><div class="eyebrow" style="margin-bottom:10px">Most-stated requirements and offers</div>
+        <div class="bars">${s.feats.map(([k,v])=>`<div class="bar"><span class="lbl"><span class="fill" style="width:${Math.round(v*100)}%"></span>${k}</span><span class="pct">${Math.round(v*100)}%</span></div>`).join("")}</div></div>
+      <div style="display:flex;flex-direction:column;gap:18px">
+        <div><div class="eyebrow" style="margin-bottom:10px">Pay by region</div><div class="pay">
+          ${REG.map(r=>{const p=s.payR[r];return `<div class="payrow"><span>${r}</span><span class="track"><i style="width:${p?Math.round(p/maxPay*100):0}%"></i></span><span class="v">${money(p)}</span></div>`}).join("")}
+        </div></div>
+        <div><div class="eyebrow" style="margin-bottom:8px">Top titles</div><ul class="titles">${s.titles.map(t=>`<li>${t}</li>`).join("")}</ul></div>
+      </div>
+    </div>`;
+  grid();
+}
+function grid(){
+  const rows = [...S].sort((a,b)=>a.name.localeCompare(b.name));
+  const cell = (p,base)=>{ if(!p) return `<td class="c">–</td>`; const d=Math.round((p/base-1)*100);
+    const a=Math.min(Math.abs(d)/16,1)*0.9; const col=d>=0?'var(--cool)':'var(--vest)';
+    return `<td class="c" style="background:color-mix(in srgb, ${col} ${Math.round(a*45)}%, transparent)">${d>0?'+':''}${d}%</td>`;};
+  $("#grid").innerHTML = `<thead><tr><th>Sector</th><th>National</th>${REG.map(r=>`<th>${r}</th>`).join("")}</tr></thead><tbody>`+
+    rows.map(s=>`<tr class="${s.name===cur?'sel':''}"><td>${s.name}</td><td class="c">${money(s.pay)}</td>${REG.map(r=>cell(s.payR[r],s.pay)).join("")}</tr>`).join("")+`</tbody>`;
+}
+render();
+</script>

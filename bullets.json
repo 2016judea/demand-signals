@@ -1,0 +1,242 @@
+{
+ "Healthcare": {
+  "need": [
+   "Licensed clinicians first: medical assistants, physical therapists and RNs are the three most-posted titles; 15% of postings name an active RN licence and 6% a physician licence (MD/DO, board certified).",
+   "Life-support certification is the entry ticket: 32% ask for BLS/CPR/ACLS, usually American Heart Association.",
+   "EHR fluency is assumed: 32% name Epic, Cerner or an EMR.",
+   "They are filling gaps in the schedule, not only headcount: 35% are part-time, 18% PRN/per diem, 19% weekends, 9% nights.",
+   "Paying to close: 7% advertise a sign-on bonus, 17% tuition or paid training."
+  ]
+ },
+ "Senior & home care": {
+  "need": [
+   "CNAs and in-home caregivers: 19% require a CNA/HHA certificate; 30% want CPR/BLS.",
+   "Coverage of awkward hours: 62% part-time, 24% weekends, 16% overnights.",
+   "Willing to train and pay fast: 28% offer paid training, 21% weekly or daily pay, the highest daily-pay share of any sector.",
+   "Mobility: reliable transportation shows up for 1 in 5 employers, since care happens in the client's home.",
+   "Specialist care is rising: dementia, memory care, hospice and medication administration each appear in 4 to 6% of employers' asks."
+  ]
+ },
+ "Pharma & life sciences": {
+  "need": [
+   "Pharmacy technicians and pharmacists dominate (CVS, Walgreens, Walmart, Optum); 32% name a PTCB certificate, state technician licence or pharmacist licence.",
+   "Retail-pharmacy hours: 22% weekends, 23% part-time.",
+   "A smaller clinical-research lane (IQVIA, universities): clinical trials and research coordinators, often wanting a bachelor's (19%) or advanced degree (8%)."
+  ]
+ },
+ "Social services": {
+  "need": [
+   "Behavioral health is the growth lane: case managers, registered behavior technicians (ABA) and mental-health techs top the titles.",
+   "Licensure splits the market: 18% want an LCSW/LMSW/LPC-type licence and 11% a master's; the RBT certification covers the entry tier.",
+   "Field work: 28% need a driver's licence, 14% reliable transportation.",
+   "Bilingual Spanish in 13%, EHR in 15%, crisis intervention and substance-use experience in 7 to 8%."
+  ]
+ },
+ "Childcare": {
+  "need": [
+   "Early-childhood credentials: 54% of employers ask for early-childhood education coursework; the CDA credential appears in 9%.",
+   "Safety paperwork before skills: 37% CPR/first aid, 24% background checks, 9% name mandated-reporter training.",
+   "Classroom and behavior management are the named skills (26% and 16%).",
+   "Low pay is the constraint ($18/hr median); employers compete with tuition discounts for staff's own children (31% offer an employee discount)."
+  ]
+ },
+ "Education": {
+  "need": [
+   "Special education is the shortage: it is the top title and appears in 33% of employers' requirements; autism and ABA experience in 5%.",
+   "Paraprofessionals and aides fill much of the demand: 28% need only a high-school diploma, 42% are part-time.",
+   "A teaching certificate is named in 12%, background or fingerprint clearance in 20%."
+  ]
+ },
+ "Software & IT": {
+  "need": [
+   "Senior people: 41% ask for 5+ years. Entry-level IT is mostly help desk and support (CompTIA A+ in 7%).",
+   "Cloud is the default stack: 36% name AWS, Azure or GCP; 14% Kubernetes, Docker or Terraform.",
+   "Security everywhere: 21% name Security+, CISSP or similar; incident response, vulnerability management and Entra ID/Active Directory recur.",
+   "27% now mention AI, LLMs or ML tools even outside AI roles.",
+   "Defense and government work brings clearance requirements (7%)."
+  ]
+ },
+ "AI & data": {
+  "need": [
+   "Python plus SQL is the baseline: 44% and 41%.",
+   "AI is in the job itself: 55% mention AI, LLMs or ML; generative AI and large language models are named in 7% and 4%.",
+   "BI still pays the bills: data analyst is the top title; Power BI or Tableau in 28%.",
+   "They want translators: 'technical and non-technical audiences' recurs. Analysts must explain, not just query.",
+   "Highly credentialed: 62% want a bachelor's, 18% a master's or PhD; 42% want 5+ years."
+  ]
+ },
+ "Engineering": {
+  "need": [
+   "Mechanical, electrical and civil engineers, in that order.",
+   "CAD is the tool requirement: 51% name AutoCAD, Revit, SolidWorks or Civil 3D; GD&T in 9%.",
+   "Licensed seniors: 49% want 5+ years; 11% need or want a PE licence.",
+   "Defense and aerospace (Anduril, Lockheed, Raytheon) bring clearances (7%) and relocation packages (7%)."
+  ]
+ },
+ "Manufacturing": {
+  "need": [
+   "Supervisors, quality inspectors, machine operators and CNC machinists lead the titles.",
+   "Blueprint and measurement literacy: reading engineering drawings, GD&T (11%), calipers and micrometers, precision measuring.",
+   "Stamina and hours: 24% lift 50+ lbs, 19% mention overtime, 12% nights.",
+   "Diploma-level entry (39%) with paid training (20%); lean and Six Sigma for the leads."
+  ]
+ },
+ "Skilled trades": {
+  "need": [
+   "Maintenance techs, welders, electricians, HVAC and plumbers: the largest sector in the sample by postings.",
+   "Licences: 20% want a journeyman or master licence; EPA 608 certification appears for 7% of employers (HVAC).",
+   "Bring your own skill with tools: 29% hand and power tools, 25% lift 50+ lbs.",
+   "Service-van work: 20% require a clean driving record; 12% on-call.",
+   "Employers will train: 22% offer paid training or apprenticeships."
+  ]
+ },
+ "Construction": {
+  "need": [
+   "Managers more than laborers: project manager is the top title by far, then assistant PMs and superintendents.",
+   "Software has arrived on site: 18% name Procore, Bluebeam or Primavera P6; 30% Excel.",
+   "Experience-heavy: 31% want 5+ years; construction drawings and estimating recur.",
+   "Safety: OSHA 10/30 in 10%, drug screens in 10%, outdoor work in 18%."
+  ]
+ },
+ "Energy & utilities": {
+  "need": [
+   "Solar installers and field-service technicians dominate (Tesla, SOLV, Sunrun), with power-plant and control-room operators behind.",
+   "Physical, outdoor work: 35% lift 50+ lbs, 26% outdoors, climbing ladders and high voltage recur.",
+   "Licences: 18% journeyman/master electrician, 10% OSHA 10/30.",
+   "Diploma-level entry (43%) with paid training (20%); 14% on-call. Small sample (275 postings)."
+  ]
+ },
+ "Transportation": {
+  "need": [
+   "Drivers: 38% require a CDL, 20% a Class A specifically; DOT medical card and DOT regulations recur.",
+   "A clean record is the real filter: 35% require one; 24% drug screens.",
+   "Delivery and dispatch round it out; 13% advertise weekly or daily pay, 26% paid CDL training."
+  ]
+ },
+ "Warehouse & logistics": {
+  "need": [
+   "Warehouse associates, forklift operators and material handlers on the floor; logistics coordinators and supply-chain analysts above them.",
+   "29% lift 50+ lbs; 12% name forklift certification; 13% RF scanners or a WMS.",
+   "Excel (37%) and SAP/Oracle (20%) for the office half of logistics.",
+   "Diploma-level entry (37%) with overtime (14%)."
+  ]
+ },
+ "Retail": {
+  "need": [
+   "Cashiers and sales associates, plus store and assistant managers.",
+   "They need availability more than skill: 63% part-time, 50% weekends, 24% nights; 'weekends and holidays' appears for 17% of employers.",
+   "Basic skills: POS systems (22%), cash handling and basic math (22%).",
+   "The perk is the discount (37%); median pay $18.22/hr is the lowest of any sector except childcare."
+  ]
+ },
+ "Restaurants & hospitality": {
+  "need": [
+   "Servers, line cooks and hotel front-desk agents, plus night auditors (hotels).",
+   "Schedule flexibility: 56% part-time, 36% weekends, 20% nights.",
+   "Food safety credential: ServSafe or a food-handler card in 11%; food-safety knowledge appears for 31% of employers.",
+   "POS fluency (Aloha, Micros) in 17%; tips in 11%."
+  ]
+ },
+ "Agriculture & food processing": {
+  "need": [
+   "Meat cutters, bakery and prepared-foods production, packers and machine operators.",
+   "The hardest physical work in the sample: 40% lift 50+ lbs, 16% stand for long periods, repetitive tasks and cold rooms.",
+   "Shift coverage: 31% weekends, 22% nights, 8% shift differential.",
+   "Food safety and sanitation procedures are the core skill. Small sample (382 postings)."
+  ]
+ },
+ "Automotive": {
+  "need": [
+   "Automotive and diesel technicians, plus tire and lube techs (Firestone, Mavis, Valvoline, Ryder).",
+   "ASE certification in 16%; diagnostics, diesel engines and electrical systems recur.",
+   "Some still want techs to bring their own tools (6% of employers).",
+   "Employers train heavily: 30% paid training, among the highest of any sector; 20% need a clean driving record."
+  ]
+ },
+ "Finance & accounting": {
+  "need": [
+   "Staff accountants, financial analysts, bookkeepers and controllers.",
+   "Excel is near-universal: 71%, often 'advanced' with pivot tables.",
+   "ERP plus close: SAP/Oracle/NetSuite in 29%, QuickBooks in 22%; GAAP, general ledger and month-end close recur.",
+   "A CPA is named in 27%; public-accounting experience is preferred by 9% of employers."
+  ]
+ },
+ "Banking & insurance": {
+  "need": [
+   "Tellers, personal and universal bankers, insurance agents and claims staff.",
+   "Cash handling (23%) and retail-style customer service at the branch.",
+   "Licences on the insurance side: property & casualty or life & health producer licences appear for about 10% of employers.",
+   "Sales pressure: 22% mention commission or bonus pay; 18% want bilingual Spanish."
+  ]
+ },
+ "Sales": {
+  "need": [
+   "Account executives and inside and outside sales reps; B2B is the named flavour.",
+   "Pay is variable: 47% mention commission or OTE.",
+   "CRM fluency: Salesforce or a CRM in 30%.",
+   "A track record matters more than a degree (16% vs 10% bachelor's); 18% need a driver's licence for territory work."
+  ]
+ },
+ "Marketing": {
+  "need": [
+   "Social media is the job: it appears for 46% of employers; short-form video, content creation and video editing recur.",
+   "Tools: Adobe Creative Suite (14%), Google Analytics (12%), email marketing and automation.",
+   "Many roles are part-time or ambassador-style (29% part-time; lululemon, Urban Outfitters, L'Or\u00e9al).",
+   "AI tools are named in 10%."
+  ]
+ },
+ "Customer service": {
+  "need": [
+   "Customer service reps and call-center agents.",
+   "Diploma-level (40%) with Microsoft Office (32%) and CRM (14%).",
+   "Bilingual Spanish in 19%, the highest share of any sector.",
+   "Soft skills are the named requirement: active listening, phone etiquette, staying calm under pressure."
+  ]
+ },
+ "Admin & office": {
+  "need": [
+   "Office managers, administrative assistants and front-desk receptionists, often in dental, chiropractic and therapy offices.",
+   "Microsoft Office (45%) and multi-line phones; medical-office EHR in 10%, QuickBooks in 9%.",
+   "Bilingual Spanish in 14%; 38% part-time."
+  ]
+ },
+ "HR & recruiting": {
+  "need": [
+   "HR generalists and recruiters, many at staffing firms.",
+   "Systems: 39% name an HRIS (Workday, ADP, UKG, Paylocity); 21% of employers mention applicant tracking systems.",
+   "Employment-law knowledge (15%) and full-cycle recruiting (8%); HR certification in 5%."
+  ]
+ },
+ "Legal": {
+  "need": [
+   "Paralegals and legal assistants outnumber attorneys about 2 to 1 in the titles.",
+   "Attorneys need a JD and active bar standing (19% name accredited law school, 13% state bar).",
+   "Practice areas that hire: personal injury, family law and civil litigation.",
+   "Hybrid work in 26%, second only to marketing among non-tech sectors."
+  ]
+ },
+ "Government & public safety": {
+  "need": [
+   "Mostly private security officers (Allied Universal, Garda, Securitas), plus police and detention officers.",
+   "Screening dominates: 67% background check, 58% drug screen, the highest of any sector.",
+   "A state guard card or armed licence in 25%; police roles need state peace-officer certification.",
+   "Entry is open: 70% need only a diploma, 45% offer paid training."
+  ]
+ },
+ "Real estate & property": {
+  "need": [
+   "Leasing consultants, real-estate agents and property managers.",
+   "Licence: 27% need a real-estate licence; fair-housing knowledge appears for 12% of employers.",
+   "Software: Yardi, RealPage or AppFolio in 17%; CRM in 18%.",
+   "Commission-heavy (30%) and weekend shifts (23%) for leasing."
+  ]
+ },
+ "Cleaning & facilities": {
+  "need": [
+   "Housekeepers, custodians and room attendants, plus maintenance supervisors.",
+   "Floor care, commercial cleaning techniques and cleaning equipment.",
+   "38% part-time, 25% weekends, 16% lift 50+ lbs.",
+   "Diploma-level entry (22%) with paid training (21%)."
+  ]
+ }
+}

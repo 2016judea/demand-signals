@@ -1,0 +1,11613 @@
+{
+ "raw_rows": 83684,
+ "postings": 72881,
+ "sector_rows": 76249,
+ "sectors": {
+  "AI & data": {
+   "n": 1939,
+   "companies": 1108,
+   "pay_med": 59.25,
+   "pay_share": 0.707,
+   "top_titles": {
+    "Data Analyst": 59,
+    "Business Analyst": 29,
+    "Machine Learning Engineer": 24,
+    "Senior Software Engineer": 20,
+    "Senior Data Analyst": 15,
+    "Staff Software Engineer": 14,
+    "Data Engineer": 14,
+    "Staff Machine Learning Engineer": 13
+   },
+   "top_companies": {
+    "Deloitte": 41,
+    "JPMorganChase": 29,
+    "Meta": 25,
+    "Eaton": 22,
+    "Ryan, LLC": 20,
+    "AppFolio Inc": 19,
+    "PNC Financial Services Group": 19,
+    "Google": 18
+   },
+   "industries": {
+    "Education And Schools": 52,
+    "Industrial Manufacturing": 50,
+    "Internet And Software": 44,
+    "Government": 33,
+    "Health Care": 31
+   },
+   "national": {
+    "Security clearance": 0.053,
+    "Microsoft Office / Excel": 0.305,
+    "Salesforce / CRM": 0.074,
+    "SAP / Oracle / NetSuite ERP": 0.133,
+    "Epic / Cerner EHR": 0.047,
+    "SQL": 0.414,
+    "Python": 0.435,
+    "Cloud (AWS/Azure/GCP)": 0.245,
+    "Kubernetes / Docker": 0.092,
+    "Tableau / Power BI": 0.283,
+    "AI / LLM / GenAI": 0.552,
+    "AutoCAD / Revit / SolidWorks": 0.049,
+    "Workday / ADP / HRIS": 0.059,
+    "Weekends": 0.042,
+    "Overtime": 0.03,
+    "Travel required": 0.052,
+    "Drug screen": 0.062,
+    "Background check": 0.111,
+    "Tuition / training paid": 0.162,
+    "401(k) match": 0.183,
+    "Shift differential": 0.044,
+    "Relocation": 0.038,
+    "Commission / bonus pay": 0.069,
+    "Pension": 0.048,
+    "Employee discount": 0.034,
+    "Equity / stock": 0.259,
+    "Bachelor's degree": 0.375,
+    "Master's / advanced degree": 0.183,
+    "5+ years experience": 0.417,
+    "Customer-facing": 0.07,
+    "Remote": 0.03,
+    "Hybrid": 0.304
+   },
+   "regions": {
+    "Midwest": {
+     "n": 442,
+     "pay_med": 56.39,
+     "diffs": {
+      "Tuition / training paid": [
+       0.222,
+       0.162
+      ]
+     },
+     "top_companies": {
+      "JPMorganChase": 15,
+      "Meta": 12,
+      "Optum": 11,
+      "Deloitte": 10,
+      "General Motors (GM)": 8
+     }
+    },
+    "Northeast": {
+     "n": 363,
+     "pay_med": 55.46,
+     "diffs": {},
+     "top_companies": {
+      "PNC Financial Services Group": 19,
+      "Deloitte": 7,
+      "Eaton": 7,
+      "Motional": 6,
+      "CACI International": 6
+     }
+    },
+    "South": {
+     "n": 559,
+     "pay_med": 58.77,
+     "diffs": {},
+     "top_companies": {
+      "Deloitte": 20,
+      "JPMorganChase": 14,
+      "Oracle": 10,
+      "Amazon.com": 8,
+      "Eaton": 7
+     }
+    },
+    "West": {
+     "n": 575,
+     "pay_med": 63.7,
+     "diffs": {
+      "Equity / stock": [
+       0.346,
+       0.259
+      ]
+     },
+     "top_companies": {
+      "Anduril": 10,
+      "Consor": 9,
+      "Meta": 9,
+      "Google": 9,
+      "State of Washington": 9
+     }
+    }
+   }
+  },
+  "Admin & office": {
+   "n": 2869,
+   "companies": 2552,
+   "pay_med": 21.0,
+   "pay_share": 0.787,
+   "top_titles": {
+    "Office Manager": 172,
+    "Administrative Assistant": 165,
+    "Receptionist": 124,
+    "Front Desk Receptionist": 121,
+    "Part": 88,
+    "Office Coordinator": 48,
+    "Office Administrator": 48,
+    "Business Office Manager": 47
+   },
+   "top_companies": {
+    "Aspen Dental": 14,
+    "State Farm": 9,
+    "The Joint Chiropractic": 7,
+    "Select Physical Therapy": 6,
+    "FirstService Residential": 6,
+    "Saber Healthcare Group": 6,
+    "H&R Block": 6,
+    "LA Fitness": 6
+   },
+   "industries": {
+    "Health Care": 138,
+    "Restaurants Travel And Leisure": 71,
+    "Education And Schools": 56,
+    "Government": 23,
+    "Construction": 22
+   },
+   "national": {
+    "Microsoft Office / Excel": 0.448,
+    "Salesforce / CRM": 0.046,
+    "QuickBooks": 0.088,
+    "Epic / Cerner EHR": 0.097,
+    "Workday / ADP / HRIS": 0.033,
+    "Nights / overnight": 0.036,
+    "Weekends": 0.136,
+    "Lift 50+ lbs": 0.036,
+    "Drug screen": 0.04,
+    "Background check": 0.083,
+    "Weekly / daily pay": 0.035,
+    "Tuition / training paid": 0.131,
+    "401(k) match": 0.182,
+    "Employee discount": 0.149,
+    "Equity / stock": 0.041,
+    "Bilingual (Spanish)": 0.138,
+    "High school / GED": 0.3,
+    "Bachelor's degree": 0.043,
+    "5+ years experience": 0.05,
+    "Customer-facing": 0.159,
+    "Hybrid": 0.053,
+    "Part-time role": 0.376
+   },
+   "regions": {
+    "Midwest": {
+     "n": 659,
+     "pay_med": 20.75,
+     "diffs": {
+      "Bilingual (Spanish)": [
+       0.077,
+       0.138
+      ]
+     },
+     "top_companies": {
+      "Aspen Dental": 5,
+      "State Farm": 4,
+      "SCA Health": 4,
+      "Holiday Inn Express and Suites": 3,
+      "State of Missouri": 3
+     }
+    },
+    "Northeast": {
+     "n": 522,
+     "pay_med": 21.71,
+     "diffs": {},
+     "top_companies": {
+      "Saber Healthcare Group": 3,
+      "Miracle-Ear": 2,
+      "Lincoln Tech": 2,
+      "East Penn Manufacturing": 2,
+      "YMCA of Reading & Berks County": 2
+     }
+    },
+    "South": {
+     "n": 867,
+     "pay_med": 20.0,
+     "diffs": {},
+     "top_companies": {
+      "Aspen Dental": 6,
+      "Haverty Furniture Companies, Inc": 5,
+      "D4C Dental Brands, Inc.": 4,
+      "State Farm": 4,
+      "FirstService Residential": 4
+     }
+    },
+    "West": {
+     "n": 821,
+     "pay_med": 22.0,
+     "diffs": {},
+     "top_companies": {
+      "Western States Lodging and Management": 5,
+      "LA Fitness": 4,
+      "State of Washington": 4,
+      "The Joint Chiropractic": 4,
+      "Grand Lodge, Masonic Homes & Acacia Creek": 3
+     }
+    }
+   }
+  },
+  "Agriculture & food processing": {
+   "n": 382,
+   "companies": 276,
+   "pay_med": 21.11,
+   "pay_share": 0.801,
+   "top_titles": {
+    "Meat Cutter": 11,
+    "Bakery Production Team Member": 10,
+    "Prepared Foods Production Team Member": 10,
+    "": 9,
+    "Butcher": 8,
+    "Prepared Foods Venue Production Team Member": 6,
+    "Machine Operator": 6,
+    "Packer": 6
+   },
+   "top_companies": {
+    "Whole Foods Market": 29,
+    "Sam's Club": 11,
+    "Nexus Employment Solutions Plus, Inc": 7,
+    "Buckhead Meat & Seafood Mid-Atlantic": 6,
+    "Tyson Foods Incorporated": 5,
+    "Freshpet": 5,
+    "Land O'Lakes": 4,
+    "Oberto Snacks": 4
+   },
+   "industries": {
+    "Food And Beverages": 22,
+    "Retail": 19,
+    "Human Resources And Staffing": 9,
+    "Industrial Manufacturing": 9,
+    "Consumer Goods And Services": 6
+   },
+   "national": {
+    "Food handler / ServSafe": 0.037,
+    "Microsoft Office / Excel": 0.065,
+    "SAP / Oracle / NetSuite ERP": 0.063,
+    "Workday / ADP / HRIS": 0.052,
+    "Hand & power tools": 0.05,
+    "Nights / overnight": 0.215,
+    "Weekends": 0.314,
+    "Overtime": 0.154,
+    "Lift 50+ lbs": 0.403,
+    "Standing / on feet": 0.165,
+    "Outdoors / weather": 0.094,
+    "Drug screen": 0.042,
+    "Background check": 0.084,
+    "Weekly / daily pay": 0.052,
+    "Tuition / training paid": 0.149,
+    "401(k) match": 0.131,
+    "Shift differential": 0.076,
+    "Employee discount": 0.097,
+    "Tips": 0.037,
+    "Bilingual (Spanish)": 0.071,
+    "No experience / entry level": 0.113,
+    "High school / GED": 0.288,
+    "Bachelor's degree": 0.045,
+    "Master's / advanced degree": 0.076,
+    "5+ years experience": 0.034,
+    "Customer-facing": 0.134,
+    "Part-time role": 0.23
+   },
+   "regions": {
+    "Midwest": {
+     "n": 99,
+     "pay_med": 20.0,
+     "diffs": {
+      "Workday / ADP / HRIS": [
+       0.111,
+       0.052
+      ],
+      "Weekly / daily pay": [
+       0.121,
+       0.052
+      ],
+      "Customer-facing": [
+       0.071,
+       0.134
+      ],
+      "Part-time role": [
+       0.141,
+       0.23
+      ]
+     },
+     "top_companies": {
+      "Nexus Employment Solutions Plus, Inc": 7,
+      "Ridge Corporation": 4,
+      "Land O'Lakes": 3,
+      "Whole Foods Market": 2,
+      "Sam's Club": 2
+     }
+    },
+    "Northeast": {
+     "n": 69,
+     "pay_med": 21.7,
+     "diffs": {
+      "Nights / overnight": [
+       0.304,
+       0.215
+      ],
+      "Overtime": [
+       0.101,
+       0.154
+      ],
+      "Tuition / training paid": [
+       0.203,
+       0.149
+      ],
+      "Equity / stock": [
+       0.087,
+       0.029
+      ],
+      "Master's / advanced degree": [
+       0.13,
+       0.076
+      ]
+     },
+     "top_companies": {
+      "Whole Foods Market": 9,
+      "Freshpet": 3,
+      "Tandem Foods": 2,
+      "Printex Transparent Packaging": 2,
+      "Buckhead Meat & Seafood Mid-Atlantic": 2
+     }
+    },
+    "South": {
+     "n": 105,
+     "pay_med": 19.0,
+     "diffs": {
+      "Tuition / training paid": [
+       0.095,
+       0.149
+      ]
+     },
+     "top_companies": {
+      "Whole Foods Market": 6,
+      "Sam's Club": 5,
+      "Tyson Foods Incorporated": 3,
+      "Buckhead Meat & Seafood Mid-Atlantic": 3,
+      "Pilgrim's": 2
+     }
+    },
+    "West": {
+     "n": 109,
+     "pay_med": 22.32,
+     "diffs": {
+      "Weekends": [
+       0.413,
+       0.314
+      ],
+      "No experience / entry level": [
+       0.165,
+       0.113
+      ]
+     },
+     "top_companies": {
+      "Whole Foods Market": 12,
+      "Oberto Snacks": 4,
+      "Flowers Foods": 3,
+      "Owen Family Foods": 3,
+      "Sam's Club": 3
+     }
+    }
+   }
+  },
+  "Automotive": {
+   "n": 2071,
+   "companies": 1307,
+   "pay_med": 28.0,
+   "pay_share": 0.794,
+   "top_titles": {
+    "Automotive Technician": 123,
+    "Diesel Mechanic": 105,
+    "Mechanic": 40,
+    "Automotive Mechanic": 32,
+    "Tire Technician": 31,
+    "Lube Technician": 29,
+    "Entry": 28,
+    "Service Technician": 25
+   },
+   "top_companies": {
+    "Firestone Complete Auto Care": 38,
+    "Mavis Tire": 34,
+    "Walmart": 31,
+    "Ryder System": 30,
+    "Valvoline Instant Oil Change": 25,
+    "Sunbelt Rentals": 24,
+    "Love\u2019s Travel Stops": 21,
+    "Republic Services": 21
+   },
+   "industries": {
+    "Auto": 137,
+    "Transport And Freight": 55,
+    "Industrial Manufacturing": 27,
+    "Retail": 19,
+    "Construction": 15
+   },
+   "national": {
+    "CDL (any)": 0.118,
+    "Clean driving record / MVR": 0.197,
+    "Valid driver's license": 0.2,
+    "ASE certification": 0.162,
+    "Microsoft Office / Excel": 0.056,
+    "Hand & power tools": 0.201,
+    "Nights / overnight": 0.07,
+    "Weekends": 0.178,
+    "Overtime": 0.115,
+    "On-call": 0.03,
+    "Lift 50+ lbs": 0.257,
+    "Standing / on feet": 0.066,
+    "Outdoors / weather": 0.145,
+    "Drug screen": 0.132,
+    "Background check": 0.113,
+    "Sign-on bonus": 0.039,
+    "Weekly / daily pay": 0.127,
+    "Tuition / training paid": 0.299,
+    "401(k) match": 0.299,
+    "Shift differential": 0.032,
+    "Commission / bonus pay": 0.045,
+    "Employee discount": 0.206,
+    "No experience / entry level": 0.135,
+    "High school / GED": 0.285,
+    "5+ years experience": 0.108,
+    "Customer-facing": 0.092,
+    "Part-time role": 0.09
+   },
+   "regions": {
+    "Midwest": {
+     "n": 504,
+     "pay_med": 26.5,
+     "diffs": {},
+     "top_companies": {
+      "Valvoline Instant Oil Change": 10,
+      "Firestone Complete Auto Care": 8,
+      "Mavis Tire": 7,
+      "Walmart": 7,
+      "Love\u2019s Travel Stops": 7
+     }
+    },
+    "Northeast": {
+     "n": 354,
+     "pay_med": 28.41,
+     "diffs": {},
+     "top_companies": {
+      "Ryder System": 10,
+      "Mavis Tire": 9,
+      "Goodyear": 6,
+      "Firestone Complete Auto Care": 6,
+      "Sunbelt Rentals": 5
+     }
+    },
+    "South": {
+     "n": 619,
+     "pay_med": 26.0,
+     "diffs": {},
+     "top_companies": {
+      "Mavis Tire": 18,
+      "Firestone Complete Auto Care": 14,
+      "Ryder System": 13,
+      "Walmart": 12,
+      "Prestige Auto Tech": 12
+     }
+    },
+    "West": {
+     "n": 594,
+     "pay_med": 30.0,
+     "diffs": {},
+     "top_companies": {
+      "Firestone Complete Auto Care": 10,
+      "Walmart": 10,
+      "Young Automotive Group & Young Powersports": 8,
+      "Big Brand Tire & Service": 7,
+      "Herc Rentals": 7
+     }
+    }
+   }
+  },
+  "Banking & insurance": {
+   "n": 2349,
+   "companies": 982,
+   "pay_med": 27.74,
+   "pay_share": 0.726,
+   "top_titles": {
+    "Teller": 114,
+    "Insurance Agent": 59,
+    "Personal Banker": 54,
+    "Customer Service Representative": 50,
+    "Universal Banker": 49,
+    "Part": 41,
+    "Part Time": 38,
+    "Life Insurance Agent": 38
+   },
+   "top_companies": {
+    "State Farm": 216,
+    "Wells Fargo": 94,
+    "JPMorganChase": 76,
+    "PNC Financial Services Group": 47,
+    "Liberty Mutual Insurance": 35,
+    "Farmers Insurance Group": 31,
+    "Markel Corporation": 31,
+    "AIG Claims, Inc.": 29
+   },
+   "industries": {
+    "Insurance": 350,
+    "Banks And Financial Services": 338,
+    "Insurance, Insurance": 13,
+    "Government": 12,
+    "Consumer Goods And Services": 12
+   },
+   "national": {
+    "Insurance producer licence": 0.066,
+    "Microsoft Office / Excel": 0.231,
+    "Salesforce / CRM": 0.065,
+    "Workday / ADP / HRIS": 0.049,
+    "Weekends": 0.107,
+    "Lift 50+ lbs": 0.032,
+    "Background check": 0.077,
+    "Tuition / training paid": 0.238,
+    "401(k) match": 0.232,
+    "Commission / bonus pay": 0.221,
+    "Pension": 0.07,
+    "Equity / stock": 0.105,
+    "Bilingual (Spanish)": 0.182,
+    "No experience / entry level": 0.039,
+    "High school / GED": 0.41,
+    "Bachelor's degree": 0.098,
+    "5+ years experience": 0.1,
+    "Customer-facing": 0.17,
+    "Remote": 0.081,
+    "Hybrid": 0.149,
+    "Part-time role": 0.172
+   },
+   "regions": {
+    "Midwest": {
+     "n": 510,
+     "pay_med": 25.55,
+     "diffs": {
+      "Bilingual (Spanish)": [
+       0.12,
+       0.182
+      ]
+     },
+     "top_companies": {
+      "State Farm": 53,
+      "JPMorganChase": 17,
+      "PNC Financial Services Group": 12,
+      "Farmers Insurance Group": 12,
+      "Wells Fargo": 11
+     }
+    },
+    "Northeast": {
+     "n": 434,
+     "pay_med": 28.5,
+     "diffs": {
+      "Weekends": [
+       0.159,
+       0.107
+      ],
+      "Equity / stock": [
+       0.171,
+       0.105
+      ]
+     },
+     "top_companies": {
+      "State Farm": 42,
+      "JPMorganChase": 22,
+      "TD": 18,
+      "Citizens": 11,
+      "Wells Fargo": 9
+     }
+    },
+    "South": {
+     "n": 745,
+     "pay_med": 29.61,
+     "diffs": {},
+     "top_companies": {
+      "State Farm": 65,
+      "Wells Fargo": 29,
+      "Truist": 23,
+      "AIG Claims, Inc.": 15,
+      "PNC Financial Services Group": 13
+     }
+    },
+    "West": {
+     "n": 660,
+     "pay_med": 27.0,
+     "diffs": {},
+     "top_companies": {
+      "State Farm": 56,
+      "Wells Fargo": 45,
+      "JPMorganChase": 25,
+      "PNC Financial Services Group": 14,
+      "Liberty Mutual Insurance": 13
+     }
+    }
+   }
+  },
+  "Childcare": {
+   "n": 1642,
+   "companies": 1113,
+   "pay_med": 18.0,
+   "pay_share": 0.871,
+   "top_titles": {
+    "Preschool Teacher": 88,
+    "Toddler Teacher": 46,
+    "Lead Teacher": 41,
+    "Teacher": 41,
+    "Part": 33,
+    "Lead Toddler Teacher": 32,
+    "Daycare Teacher": 32,
+    "Early Childhood Teacher": 28
+   },
+   "top_companies": {
+    "Primrose Schools": 68,
+    "La Petite Academy": 38,
+    "Bright Horizons Family Solutions": 22,
+    "The Learning Experience": 22,
+    "Childtime Learning Centers": 22,
+    "Cadence Education": 15,
+    "Childcare Network": 14,
+    "KinderCare Learning Companies": 13
+   },
+   "industries": {
+    "Education And Schools": 125,
+    "Organization": 22,
+    "Consumer Goods And Services": 7,
+    "Health Care": 5,
+    "Government": 4
+   },
+   "national": {
+    "BLS / CPR / ACLS": 0.369,
+    "Workday / ADP / HRIS": 0.033,
+    "Nights / overnight": 0.072,
+    "Weekends": 0.125,
+    "Lift 50+ lbs": 0.048,
+    "Outdoors / weather": 0.225,
+    "Background check": 0.238,
+    "Weekly / daily pay": 0.045,
+    "Tuition / training paid": 0.25,
+    "401(k) match": 0.113,
+    "Employee discount": 0.315,
+    "Bilingual (Spanish)": 0.043,
+    "High school / GED": 0.235,
+    "Bachelor's degree": 0.066,
+    "5+ years experience": 0.13,
+    "Part-time role": 0.468
+   },
+   "regions": {
+    "Midwest": {
+     "n": 394,
+     "pay_med": 17.27,
+     "diffs": {},
+     "top_companies": {
+      "Primrose Schools": 15,
+      "La Petite Academy": 13,
+      "Childtime Learning Centers": 7,
+      "Lil\u2019 Explorers Child Care Center": 4,
+      "Tutor Time": 4
+     }
+    },
+    "Northeast": {
+     "n": 304,
+     "pay_med": 18.5,
+     "diffs": {
+      "Background check": [
+       0.151,
+       0.238
+      ]
+     },
+     "top_companies": {
+      "Bright Horizons Family Solutions": 8,
+      "Primrose Schools": 8,
+      "The Learning Experience": 6,
+      "The Goddard School": 6,
+      "KinderCare Learning Companies": 5
+     }
+    },
+    "South": {
+     "n": 483,
+     "pay_med": 16.0,
+     "diffs": {
+      "Background check": [
+       0.317,
+       0.238
+      ]
+     },
+     "top_companies": {
+      "Primrose Schools": 29,
+      "Bright Horizons Family Solutions": 7,
+      "La Petite Academy": 7,
+      "The Learning Experience": 7,
+      "Childtime Learning Centers": 6
+     }
+    },
+    "West": {
+     "n": 461,
+     "pay_med": 20.5,
+     "diffs": {
+      "5+ years experience": [
+       0.2,
+       0.13
+      ]
+     },
+     "top_companies": {
+      "Primrose Schools": 16,
+      "La Petite Academy": 15,
+      "Busy Bees Nurseries": 12,
+      "Childcare Network": 10,
+      "Cadence Education": 7
+     }
+    }
+   }
+  },
+  "Cleaning & facilities": {
+   "n": 2953,
+   "companies": 2125,
+   "pay_med": 20.5,
+   "pay_share": 0.763,
+   "top_titles": {
+    "Housekeeper": 201,
+    "Maintenance Supervisor": 139,
+    "Part": 79,
+    "Room Attendant": 61,
+    "House Cleaner": 54,
+    "Custodian": 52,
+    "Facilities Manager": 50,
+    "Maintenance Director": 45
+   },
+   "top_companies": {
+    "Walmart": 35,
+    "Cushman & Wakefield": 22,
+    "Crothall Healthcare": 18,
+    "Corporate Cleaning Group": 16,
+    "Hilton": 16,
+    "ESFM": 15,
+    "SBM Management Services": 14,
+    "Asset Living": 12
+   },
+   "industries": {
+    "Restaurants Travel And Leisure": 174,
+    "Health Care": 93,
+    "Real Estate": 52,
+    "Education And Schools": 48,
+    "Consumer Goods And Services": 46
+   },
+   "national": {
+    "Valid driver's license": 0.053,
+    "Microsoft Office / Excel": 0.117,
+    "Workday / ADP / HRIS": 0.033,
+    "Hand & power tools": 0.032,
+    "Nights / overnight": 0.107,
+    "Weekends": 0.252,
+    "Overtime": 0.039,
+    "On-call": 0.078,
+    "Lift 50+ lbs": 0.161,
+    "Standing / on feet": 0.066,
+    "Outdoors / weather": 0.106,
+    "Drug screen": 0.061,
+    "Background check": 0.159,
+    "Weekly / daily pay": 0.078,
+    "Tuition / training paid": 0.206,
+    "401(k) match": 0.159,
+    "Employee discount": 0.09,
+    "Equity / stock": 0.049,
+    "Tips": 0.03,
+    "Bilingual (Spanish)": 0.044,
+    "High school / GED": 0.218,
+    "Bachelor's degree": 0.068,
+    "5+ years experience": 0.139,
+    "Leadership / supervise others": 0.046,
+    "Customer-facing": 0.09,
+    "Part-time role": 0.378
+   },
+   "regions": {
+    "Midwest": {
+     "n": 714,
+     "pay_med": 19.66,
+     "diffs": {},
+     "top_companies": {
+      "Marsden Central": 11,
+      "ESFM": 7,
+      "Walmart": 7,
+      "Corporate Cleaning Group": 7,
+      "4M Building Solutions": 6
+     }
+    },
+    "Northeast": {
+     "n": 498,
+     "pay_med": 21.0,
+     "diffs": {},
+     "top_companies": {
+      "Crothall Healthcare": 5,
+      "Cushman & Wakefield": 4,
+      "Walmart": 4,
+      "Chemours": 3,
+      "Aramark": 3
+     }
+    },
+    "South": {
+     "n": 883,
+     "pay_med": 18.55,
+     "diffs": {},
+     "top_companies": {
+      "Walmart": 13,
+      "Crothall Healthcare": 11,
+      "Cushman & Wakefield": 8,
+      "Macy's": 7,
+      "HEB": 7
+     }
+    },
+    "West": {
+     "n": 858,
+     "pay_med": 22.5,
+     "diffs": {},
+     "top_companies": {
+      "Walmart": 11,
+      "Hilton": 7,
+      "Cushman & Wakefield": 7,
+      "Asset Living": 7,
+      "Kellermeyer Bergensons Services": 6
+     }
+    }
+   }
+  },
+  "Construction": {
+   "n": 2915,
+   "companies": 2194,
+   "pay_med": 37.26,
+   "pay_share": 0.734,
+   "top_titles": {
+    "Project Manager": 336,
+    "Assistant Project Manager": 110,
+    "Construction Project Manager": 102,
+    "Construction Laborer": 101,
+    "Construction Superintendent": 71,
+    "Superintendent": 70,
+    "Senior Project Manager": 50,
+    "Project Engineer": 47
+   },
+   "top_companies": {
+    "Turner & Townsend Pty Limited": 26,
+    "Centimark Corporation": 21,
+    "RIMEPRO INC": 13,
+    "Kokosing Construction": 11,
+    "Ryan Companies US, Inc.": 11,
+    "MCGOUGH CONSTRUCTION": 11,
+    "Data Center Solutions-M-GROUP": 11,
+    "Skanska": 9
+   },
+   "industries": {
+    "Construction": 247,
+    "Consulting And Business Services": 56,
+    "Industrial Manufacturing": 24,
+    "Government": 22,
+    "Real Estate": 16
+   },
+   "national": {
+    "Clean driving record / MVR": 0.083,
+    "Valid driver's license": 0.114,
+    "OSHA 10/30": 0.103,
+    "PMP": 0.056,
+    "Microsoft Office / Excel": 0.303,
+    "AutoCAD / Revit / SolidWorks": 0.039,
+    "Procore / construction software": 0.183,
+    "Hand & power tools": 0.216,
+    "Nights / overnight": 0.05,
+    "Weekends": 0.069,
+    "Overtime": 0.067,
+    "Travel required": 0.047,
+    "Lift 50+ lbs": 0.136,
+    "Standing / on feet": 0.048,
+    "Outdoors / weather": 0.176,
+    "Drug screen": 0.096,
+    "Background check": 0.107,
+    "Tuition / training paid": 0.182,
+    "401(k) match": 0.237,
+    "Employee discount": 0.041,
+    "Equity / stock": 0.051,
+    "Bilingual (Spanish)": 0.054,
+    "No experience / entry level": 0.044,
+    "High school / GED": 0.11,
+    "Bachelor's degree": 0.136,
+    "5+ years experience": 0.31,
+    "Customer-facing": 0.04,
+    "Hybrid": 0.043,
+    "Part-time role": 0.072
+   },
+   "regions": {
+    "Midwest": {
+     "n": 707,
+     "pay_med": 37.38,
+     "diffs": {},
+     "top_companies": {
+      "MCGOUGH CONSTRUCTION": 11,
+      "VEIT": 8,
+      "Centimark Corporation": 7,
+      "CK Construction Group": 6,
+      "West Shore Home": 6
+     }
+    },
+    "Northeast": {
+     "n": 508,
+     "pay_med": 38.46,
+     "diffs": {
+      "Outdoors / weather": [
+       0.12,
+       0.176
+      ]
+     },
+     "top_companies": {
+      "Kokosing Construction": 6,
+      "Pyramid ETC Companies, LLC": 6,
+      "Turner & Townsend Pty Limited": 6,
+      "Skanska": 5,
+      "Riggs Distler & Company, Inc.": 4
+     }
+    },
+    "South": {
+     "n": 862,
+     "pay_med": 31.25,
+     "diffs": {},
+     "top_companies": {
+      "Centimark Corporation": 11,
+      "Rosendin Electric": 6,
+      "Brown and Root Industrial Services": 6,
+      "EMCOR": 5,
+      "ARCO a Family of Construction Companies": 5
+     }
+    },
+    "West": {
+     "n": 838,
+     "pay_med": 42.5,
+     "diffs": {},
+     "top_companies": {
+      "RIMEPRO INC": 13,
+      "Turner & Townsend Pty Limited": 10,
+      "Data Center Solutions-M-GROUP": 10,
+      "PCL Construction": 9,
+      "W.E. O'Neil Construction Company": 6
+     }
+    }
+   }
+  },
+  "Customer service": {
+   "n": 1941,
+   "companies": 1490,
+   "pay_med": 21.0,
+   "pay_share": 0.76,
+   "top_titles": {
+    "Customer Service Representative": 409,
+    "Customer Service Associate": 76,
+    "Call Center Representative": 56,
+    "Cashier/Customer Service Representative": 19,
+    "Pharmacy Customer Service Associate": 18,
+    "Part": 17,
+    "Call Center Agent": 15,
+    "Dispatcher": 15
+   },
+   "top_companies": {
+    "Walgreens": 54,
+    "State Farm": 21,
+    "Raising Cane's": 17,
+    "Circle K": 12,
+    "FedEx Office": 11,
+    "HEB": 11,
+    "Planet Fitness": 9,
+    "AVI Foodsystems, Inc": 8
+   },
+   "industries": {
+    "Health Care": 88,
+    "Retail": 73,
+    "Banks And Financial Services": 57,
+    "Insurance": 33,
+    "Consumer Goods And Services": 28
+   },
+   "national": {
+    "Microsoft Office / Excel": 0.315,
+    "Salesforce / CRM": 0.14,
+    "SAP / Oracle / NetSuite ERP": 0.044,
+    "Epic / Cerner EHR": 0.054,
+    "AI / LLM / GenAI": 0.03,
+    "POS systems": 0.059,
+    "Workday / ADP / HRIS": 0.036,
+    "Nights / overnight": 0.059,
+    "Weekends": 0.215,
+    "Overtime": 0.061,
+    "On-call": 0.039,
+    "Lift 50+ lbs": 0.075,
+    "Standing / on feet": 0.035,
+    "Outdoors / weather": 0.036,
+    "Drug screen": 0.075,
+    "Background check": 0.106,
+    "Weekly / daily pay": 0.046,
+    "Tuition / training paid": 0.221,
+    "401(k) match": 0.245,
+    "Shift differential": 0.031,
+    "Commission / bonus pay": 0.076,
+    "Employee discount": 0.137,
+    "Equity / stock": 0.053,
+    "Bilingual (Spanish)": 0.194,
+    "No experience / entry level": 0.053,
+    "High school / GED": 0.404,
+    "Bachelor's degree": 0.039,
+    "5+ years experience": 0.047,
+    "Customer-facing": 0.164,
+    "Remote": 0.032,
+    "Hybrid": 0.076,
+    "Part-time role": 0.256
+   },
+   "regions": {
+    "Midwest": {
+     "n": 447,
+     "pay_med": 20.5,
+     "diffs": {
+      "Bilingual (Spanish)": [
+       0.13,
+       0.194
+      ]
+     },
+     "top_companies": {
+      "Walgreens": 13,
+      "Raising Cane's": 13,
+      "State Farm": 9,
+      "Planet Fitness": 6,
+      "HealthPartners": 5
+     }
+    },
+    "Northeast": {
+     "n": 351,
+     "pay_med": 21.0,
+     "diffs": {},
+     "top_companies": {
+      "Allegheny Health Network": 8,
+      "Penn Medicine": 7,
+      "Walgreens": 7,
+      "AVI Foodsystems, Inc": 5,
+      "Citizens": 4
+     }
+    },
+    "South": {
+     "n": 579,
+     "pay_med": 19.0,
+     "diffs": {},
+     "top_companies": {
+      "Walgreens": 17,
+      "HEB": 11,
+      "State Farm": 8,
+      "Circle K": 6,
+      "FedEx Office": 5
+     }
+    },
+    "West": {
+     "n": 564,
+     "pay_med": 22.0,
+     "diffs": {},
+     "top_companies": {
+      "Walgreens": 17,
+      "Emanate Health": 5,
+      "State Farm": 4,
+      "Copart, Inc": 3,
+      "O'Reilly Auto Parts": 3
+     }
+    }
+   }
+  },
+  "Education": {
+   "n": 2405,
+   "companies": 1563,
+   "pay_med": 20.5,
+   "pay_share": 0.781,
+   "top_titles": {
+    "Special Education Teacher": 74,
+    "Assistant Teacher": 65,
+    "Teacher": 49,
+    "Behavior Technician": 42,
+    "Teacher Assistant": 42,
+    "Part": 40,
+    "Paraprofessional": 40,
+    "Special Education Paraprofessional": 40
+   },
+   "top_companies": {
+    "Primrose Schools": 47,
+    "Weber School District": 30,
+    "La Petite Academy": 25,
+    "Heartland ABA": 23,
+    "Broward County Public Schools": 18,
+    "Metropolitan Nashville Public Schools": 13,
+    "Community Autism Services": 11,
+    "Everett Public Schools": 11
+   },
+   "industries": {
+    "Education And Schools": 450,
+    "Health Care": 28,
+    "Organization": 20,
+    "Government": 5,
+    "Human Resources And Staffing": 4
+   },
+   "national": {
+    "BLS / CPR / ACLS": 0.196,
+    "Teaching certificate": 0.119,
+    "Microsoft Office / Excel": 0.038,
+    "Nights / overnight": 0.038,
+    "Weekends": 0.08,
+    "Lift 50+ lbs": 0.081,
+    "Outdoors / weather": 0.145,
+    "Background check": 0.198,
+    "Weekly / daily pay": 0.04,
+    "Tuition / training paid": 0.173,
+    "401(k) match": 0.078,
+    "Employee discount": 0.144,
+    "Equity / stock": 0.035,
+    "Bilingual (Spanish)": 0.069,
+    "High school / GED": 0.283,
+    "Bachelor's degree": 0.106,
+    "Master's / advanced degree": 0.035,
+    "5+ years experience": 0.068,
+    "Part-time role": 0.418
+   },
+   "regions": {
+    "Midwest": {
+     "n": 559,
+     "pay_med": 19.5,
+     "diffs": {},
+     "top_companies": {
+      "Heartland ABA": 21,
+      "Anoka-Hennepin School District": 10,
+      "Primrose Schools": 9,
+      "La Petite Academy": 8,
+      "Michigan Association of School Boards": 8
+     }
+    },
+    "Northeast": {
+     "n": 417,
+     "pay_med": 21.0,
+     "diffs": {
+      "Outdoors / weather": [
+       0.089,
+       0.145
+      ]
+     },
+     "top_companies": {
+      "OOS Management Corp.": 9,
+      "Hamilton Township School District": 6,
+      "Providence School District": 5,
+      "Lightbridge Academy": 5,
+      "BROCKTON PUBLIC SCHOOLS": 4
+     }
+    },
+    "South": {
+     "n": 738,
+     "pay_med": 17.53,
+     "diffs": {},
+     "top_companies": {
+      "Primrose Schools": 23,
+      "Broward County Public Schools": 18,
+      "Metropolitan Nashville Public Schools": 13,
+      "Murfreesboro City Schools": 8,
+      "Wilson County School District": 8
+     }
+    },
+    "West": {
+     "n": 691,
+     "pay_med": 22.84,
+     "diffs": {
+      "Outdoors / weather": [
+       0.198,
+       0.145
+      ]
+     },
+     "top_companies": {
+      "Weber School District": 30,
+      "Primrose Schools": 12,
+      "Everett Public Schools": 11,
+      "La Petite Academy": 10,
+      "Community Autism Services": 8
+     }
+    }
+   }
+  },
+  "Energy & utilities": {
+   "n": 275,
+   "companies": 191,
+   "pay_med": 30.0,
+   "pay_share": 0.749,
+   "top_titles": {
+    "Solar Field Service Technician": 17,
+    "Solar Installer": 13,
+    "Solar Technician": 9,
+    "Field Service Technician, Crew Based, Residential Energy Service": 7,
+    "Solar Electrician": 5,
+    "Production Line Operator": 5,
+    "Solar Service Technician": 4,
+    "Control Room Operator": 4
+   },
+   "top_companies": {
+    "Tesla": 30,
+    "SOLV Energy": 16,
+    "AES Corporation": 3,
+    "Pratt Industries": 3,
+    "Our World Energy": 3,
+    "NRG Energy": 3,
+    "Photon Brothers": 3,
+    "Prysmian": 3
+   },
+   "industries": {
+    "Industrial Manufacturing": 33,
+    "Energy And Utilities": 12,
+    "Health Care": 5,
+    "Consumer Goods And Services": 2,
+    "Government": 2
+   },
+   "national": {
+    "CDL Class A": 0.036,
+    "CDL (any)": 0.058,
+    "Clean driving record / MVR": 0.145,
+    "Valid driver's license": 0.229,
+    "OSHA 10/30": 0.102,
+    "Journeyman / master licence": 0.178,
+    "Microsoft Office / Excel": 0.095,
+    "Hand & power tools": 0.244,
+    "Nights / overnight": 0.142,
+    "Weekends": 0.222,
+    "Overtime": 0.204,
+    "12-hour shifts": 0.044,
+    "On-call": 0.145,
+    "PRN / per diem": 0.091,
+    "Travel required": 0.065,
+    "Lift 50+ lbs": 0.353,
+    "Standing / on feet": 0.145,
+    "Outdoors / weather": 0.258,
+    "Drug screen": 0.127,
+    "Background check": 0.127,
+    "Weekly / daily pay": 0.04,
+    "Tuition / training paid": 0.204,
+    "401(k) match": 0.28,
+    "Shift differential": 0.04,
+    "Relocation": 0.076,
+    "Commission / bonus pay": 0.051,
+    "Employee discount": 0.135,
+    "Equity / stock": 0.076,
+    "Bilingual (Spanish)": 0.036,
+    "No experience / entry level": 0.051,
+    "High school / GED": 0.429,
+    "5+ years experience": 0.069,
+    "Customer-facing": 0.12,
+    "Part-time role": 0.047
+   },
+   "regions": {
+    "Northeast": {
+     "n": 64,
+     "pay_med": 32.79,
+     "diffs": {
+      "Nights / overnight": [
+       0.062,
+       0.142
+      ],
+      "Weekends": [
+       0.125,
+       0.222
+      ],
+      "Overtime": [
+       0.141,
+       0.204
+      ]
+     },
+     "top_companies": {
+      "Tesla": 7,
+      "Constellation Energy": 3,
+      "Luminant Power LLC": 2,
+      "Consolidated Asset Management Services": 2,
+      "SpartanX LLC": 2
+     }
+    },
+    "South": {
+     "n": 79,
+     "pay_med": 28.14,
+     "diffs": {
+      "CDL Class A": [
+       0.089,
+       0.036
+      ],
+      "Drug screen": [
+       0.19,
+       0.127
+      ]
+     },
+     "top_companies": {
+      "Tesla": 13,
+      "SOLV Energy": 6,
+      "Colite Technologies": 3,
+      "NRG Energy": 2,
+      "Our World Energy": 2
+     }
+    },
+    "West": {
+     "n": 82,
+     "pay_med": 30.5,
+     "diffs": {
+      "Drug screen": [
+       0.073,
+       0.127
+      ],
+      "5+ years experience": [
+       0.134,
+       0.069
+      ]
+     },
+     "top_companies": {
+      "Tesla": 9,
+      "SOLV Energy": 4,
+      "Photon Brothers": 3,
+      "Apex Technology": 2,
+      "AES Corporation": 2
+     }
+    }
+   }
+  },
+  "Engineering": {
+   "n": 3037,
+   "companies": 1631,
+   "pay_med": 55.29,
+   "pay_share": 0.636,
+   "top_titles": {
+    "Mechanical Engineer": 158,
+    "Electrical Engineer": 148,
+    "Civil Engineer": 86,
+    "Project Engineer": 62,
+    "Project Manager": 55,
+    "Senior Electrical Engineer": 49,
+    "Mechanical Design Engineer": 46,
+    "Senior Mechanical Engineer": 38
+   },
+   "top_companies": {
+    "Anduril": 36,
+    "Farnsworth Group": 35,
+    "Eaton": 33,
+    "Amazon.com": 31,
+    "Egis Group": 28,
+    "ENFRA": 22,
+    "NV5": 22,
+    "Northrop Grumman": 21
+   },
+   "industries": {
+    "Consulting And Business Services": 217,
+    "Industrial Manufacturing": 87,
+    "Construction": 56,
+    "Government": 50,
+    "Energy And Utilities": 43
+   },
+   "national": {
+    "Valid driver's license": 0.033,
+    "Security clearance": 0.067,
+    "PE licence": 0.112,
+    "Microsoft Office / Excel": 0.297,
+    "SAP / Oracle / NetSuite ERP": 0.053,
+    "Python": 0.056,
+    "AI / LLM / GenAI": 0.07,
+    "AutoCAD / Revit / SolidWorks": 0.514,
+    "PLC / controls": 0.053,
+    "Procore / construction software": 0.057,
+    "Nights / overnight": 0.035,
+    "Weekends": 0.041,
+    "Overtime": 0.043,
+    "Travel required": 0.059,
+    "Lift 50+ lbs": 0.036,
+    "Outdoors / weather": 0.055,
+    "Drug screen": 0.089,
+    "Background check": 0.131,
+    "Tuition / training paid": 0.179,
+    "401(k) match": 0.297,
+    "Relocation": 0.067,
+    "Commission / bonus pay": 0.033,
+    "Employee discount": 0.037,
+    "Equity / stock": 0.139,
+    "No experience / entry level": 0.077,
+    "Bachelor's degree": 0.381,
+    "Master's / advanced degree": 0.113,
+    "5+ years experience": 0.487,
+    "Hybrid": 0.197
+   },
+   "regions": {
+    "Midwest": {
+     "n": 743,
+     "pay_med": 50.48,
+     "diffs": {},
+     "top_companies": {
+      "American Honda Motor": 15,
+      "Farnsworth Group": 12,
+      "American Electric Power": 11,
+      "Amazon.com": 10,
+      "Kansas City National Security Campus": 10
+     }
+    },
+    "Northeast": {
+     "n": 546,
+     "pay_med": 52.88,
+     "diffs": {
+      "Hybrid": [
+       0.258,
+       0.197
+      ]
+     },
+     "top_companies": {
+      "Eaton": 18,
+      "BAE Systems USA": 11,
+      "Naval Nuclear Laboratory": 8,
+      "Egis Group": 8,
+      "Civil & Environmental Consultants, Inc.": 8
+     }
+    },
+    "South": {
+     "n": 852,
+     "pay_med": 54.17,
+     "diffs": {
+      "Equity / stock": [
+       0.067,
+       0.139
+      ]
+     },
+     "top_companies": {
+      "ENFRA": 13,
+      "Robson Forensic": 11,
+      "Farnsworth Group": 10,
+      "Raytheon": 10,
+      "Schneider Electric": 10
+     }
+    },
+    "West": {
+     "n": 896,
+     "pay_med": 61.3,
+     "diffs": {
+      "Equity / stock": [
+       0.204,
+       0.139
+      ]
+     },
+     "top_companies": {
+      "Anduril": 24,
+      "Northrop Grumman": 20,
+      "Farnsworth Group": 13,
+      "Amazon.com": 12,
+      "Egis Group": 10
+     }
+    }
+   }
+  },
+  "Finance & accounting": {
+   "n": 2538,
+   "companies": 2149,
+   "pay_med": 37.85,
+   "pay_share": 0.698,
+   "top_titles": {
+    "Staff Accountant": 163,
+    "Financial Analyst": 129,
+    "Bookkeeper": 122,
+    "Controller": 91,
+    "Senior Financial Analyst": 71,
+    "Accountant": 62,
+    "Senior Accountant": 47,
+    "Assistant Controller": 44
+   },
+   "top_companies": {
+    "Amazon.com": 16,
+    "JPMorganChase": 15,
+    "H&R Block": 11,
+    "Baker Tilly Canada": 10,
+    "Google": 9,
+    "Raytheon": 8,
+    "PNC Financial Services Group": 8,
+    "Anduril": 7
+   },
+   "industries": {
+    "Industrial Manufacturing": 49,
+    "Banks And Financial Services": 41,
+    "Health Care": 37,
+    "Education And Schools": 33,
+    "Internet And Software": 32
+   },
+   "national": {
+    "CPA": 0.266,
+    "Microsoft Office / Excel": 0.712,
+    "SAP / Oracle / NetSuite ERP": 0.294,
+    "QuickBooks": 0.223,
+    "SQL": 0.07,
+    "Tableau / Power BI": 0.133,
+    "AI / LLM / GenAI": 0.087,
+    "Workday / ADP / HRIS": 0.058,
+    "Overtime": 0.032,
+    "Drug screen": 0.045,
+    "Background check": 0.078,
+    "Weekly / daily pay": 0.034,
+    "Tuition / training paid": 0.139,
+    "401(k) match": 0.226,
+    "Commission / bonus pay": 0.061,
+    "Employee discount": 0.059,
+    "Equity / stock": 0.149,
+    "Bilingual (Spanish)": 0.034,
+    "No experience / entry level": 0.032,
+    "High school / GED": 0.048,
+    "Bachelor's degree": 0.323,
+    "Master's / advanced degree": 0.127,
+    "5+ years experience": 0.317,
+    "Leadership / supervise others": 0.032,
+    "Remote": 0.042,
+    "Hybrid": 0.232,
+    "Part-time role": 0.104
+   },
+   "regions": {
+    "Midwest": {
+     "n": 551,
+     "pay_med": 37.5,
+     "diffs": {},
+     "top_companies": {
+      "JPMorganChase": 6,
+      "Kiewit Corporation": 5,
+      "U.S. Bank": 5,
+      "AbbVie": 4,
+      "Victoria's Secret": 4
+     }
+    },
+    "Northeast": {
+     "n": 505,
+     "pay_med": 34.92,
+     "diffs": {
+      "Part-time role": [
+       0.17,
+       0.104
+      ]
+     },
+     "top_companies": {
+      "PNC Financial Services Group": 8,
+      "Baker Tilly Canada": 6,
+      "BAE Systems USA": 6,
+      "WithumSmith+Brown": 4,
+      "FINRA": 3
+     }
+    },
+    "South": {
+     "n": 749,
+     "pay_med": 33.65,
+     "diffs": {},
+     "top_companies": {
+      "Amazon.com": 11,
+      "JPMorganChase": 9,
+      "H&R Block": 4,
+      "Oracle": 4,
+      "Raytheon": 4
+     }
+    },
+    "West": {
+     "n": 733,
+     "pay_med": 43.27,
+     "diffs": {},
+     "top_companies": {
+      "Google": 9,
+      "Anduril": 6,
+      "Lockheed Martin": 5,
+      "Amazon.com": 5,
+      "Northrop Grumman": 5
+     }
+    }
+   }
+  },
+  "Government & public safety": {
+   "n": 1334,
+   "companies": 507,
+   "pay_med": 21.0,
+   "pay_share": 0.93,
+   "top_titles": {
+    "Security Officer": 140,
+    "Police Officer": 66,
+    "Unarmed Security Officer": 58,
+    "Security Guard": 34,
+    "Part": 15,
+    "Detention Officer": 14,
+    "Deputy Sheriff": 12,
+    "Unarmed Security Guard": 12
+   },
+   "top_companies": {
+    "Allied Universal": 550,
+    "GardaWorld Security Services US": 34,
+    "Metro One LPSG": 24,
+    "Prosegur": 17,
+    "PalAmerican Security": 15,
+    "Securitas": 14,
+    "Denton County, TX": 7,
+    "Andy Frain Services": 6
+   },
+   "industries": {
+    "Government": 136,
+    "Consulting And Business Services": 68,
+    "Education And Schools": 40,
+    "Health Care": 20,
+    "Restaurants Travel And Leisure": 11
+   },
+   "national": {
+    "BLS / CPR / ACLS": 0.158,
+    "Clean driving record / MVR": 0.089,
+    "Valid driver's license": 0.086,
+    "Guard card / armed licence": 0.268,
+    "Microsoft Office / Excel": 0.043,
+    "Nights / overnight": 0.175,
+    "Weekends": 0.18,
+    "Overtime": 0.075,
+    "On-call": 0.033,
+    "Lift 50+ lbs": 0.055,
+    "Standing / on feet": 0.049,
+    "Outdoors / weather": 0.086,
+    "Drug screen": 0.618,
+    "Background check": 0.7,
+    "Weekly / daily pay": 0.091,
+    "Tuition / training paid": 0.473,
+    "401(k) match": 0.062,
+    "Commission / bonus pay": 0.061,
+    "Bilingual (Spanish)": 0.065,
+    "No experience / entry level": 0.043,
+    "High school / GED": 0.733,
+    "Bachelor's degree": 0.037,
+    "5+ years experience": 0.091,
+    "Customer-facing": 0.076,
+    "Part-time role": 0.481
+   },
+   "regions": {
+    "Midwest": {
+     "n": 313,
+     "pay_med": 20.5,
+     "diffs": {},
+     "top_companies": {
+      "Allied Universal": 150,
+      "PalAmerican Security": 7,
+      "GardaWorld Security Services US": 6,
+      "Metro One LPSG": 6,
+      "Securitas": 5
+     }
+    },
+    "Northeast": {
+     "n": 219,
+     "pay_med": 20.47,
+     "diffs": {},
+     "top_companies": {
+      "Allied Universal": 97,
+      "United Security Inc.": 6,
+      "Westmoreland County": 5,
+      "Metro One LPSG": 5,
+      "Signal of New England": 4
+     }
+    },
+    "South": {
+     "n": 421,
+     "pay_med": 19.5,
+     "diffs": {},
+     "top_companies": {
+      "Allied Universal": 170,
+      "GardaWorld Security Services US": 17,
+      "Metro One LPSG": 8,
+      "Denton County, TX": 7,
+      "Prosegur": 5
+     }
+    },
+    "West": {
+     "n": 381,
+     "pay_med": 23.5,
+     "diffs": {},
+     "top_companies": {
+      "Allied Universal": 133,
+      "GardaWorld Security Services US": 9,
+      "PalAmerican Security": 7,
+      "Securitas": 6,
+      "Prosegur": 5
+     }
+    }
+   }
+  },
+  "HR & recruiting": {
+   "n": 1625,
+   "companies": 1335,
+   "pay_med": 34.39,
+   "pay_share": 0.615,
+   "top_titles": {
+    "Human Resources Generalist": 199,
+    "HR Generalist": 142,
+    "Recruiter": 94,
+    "Talent Acquisition Specialist": 53,
+    "Staffing Coordinator": 45,
+    "Talent Acquisition Partner": 31,
+    "Recruiting Coordinator": 21,
+    "Human Resource Generalist": 20
+   },
+   "top_companies": {
+    "CLEAResult": 9,
+    "EmployBridge": 9,
+    "Dayton Freight": 7,
+    "Robert Half": 7,
+    "HealthTrust Workforce Solutions": 7,
+    "Staffmark": 7,
+    "Stevens Transport": 6,
+    "Senior Helpers": 6
+   },
+   "industries": {
+    "Health Care": 80,
+    "Industrial Manufacturing": 37,
+    "Education And Schools": 26,
+    "Human Resources And Staffing": 26,
+    "Consulting And Business Services": 25
+   },
+   "national": {
+    "Microsoft Office / Excel": 0.489,
+    "Salesforce / CRM": 0.053,
+    "AI / LLM / GenAI": 0.066,
+    "Workday / ADP / HRIS": 0.394,
+    "Nights / overnight": 0.03,
+    "Weekends": 0.063,
+    "Overtime": 0.036,
+    "Travel required": 0.041,
+    "Drug screen": 0.093,
+    "Background check": 0.22,
+    "Weekly / daily pay": 0.057,
+    "Tuition / training paid": 0.151,
+    "401(k) match": 0.217,
+    "Commission / bonus pay": 0.047,
+    "Employee discount": 0.052,
+    "Equity / stock": 0.138,
+    "Bilingual (Spanish)": 0.129,
+    "No experience / entry level": 0.052,
+    "High school / GED": 0.116,
+    "Bachelor's degree": 0.253,
+    "5+ years experience": 0.252,
+    "Leadership / supervise others": 0.031,
+    "Customer-facing": 0.034,
+    "Remote": 0.033,
+    "Hybrid": 0.161,
+    "Part-time role": 0.054
+   },
+   "regions": {
+    "Midwest": {
+     "n": 383,
+     "pay_med": 33.0,
+     "diffs": {},
+     "top_companies": {
+      "Dayton Freight": 5,
+      "Healthcare Plus": 3,
+      "CLEAResult": 3,
+      "Horizontal": 3,
+      "The Marzetti Company": 3
+     }
+    },
+    "Northeast": {
+     "n": 299,
+     "pay_med": 34.15,
+     "diffs": {},
+     "top_companies": {
+      "Staffmark": 3,
+      "Towne Park": 3,
+      "Caring Angels Home Care": 2,
+      "Organon Pharmaceuticals": 2,
+      "Sky Zone": 2
+     }
+    },
+    "South": {
+     "n": 495,
+     "pay_med": 31.25,
+     "diffs": {},
+     "top_companies": {
+      "HealthTrust Workforce Solutions": 7,
+      "Marriott International": 4,
+      "HealthTrust Workforce Solutions WFH": 4,
+      "Hayes Locums, LLC": 4,
+      "Qcells": 3
+     }
+    },
+    "West": {
+     "n": 448,
+     "pay_med": 37.14,
+     "diffs": {},
+     "top_companies": {
+      "EmployBridge": 5,
+      "Verstela": 4,
+      "Brex": 4,
+      "Standish Management": 4,
+      "Think Together": 4
+     }
+    }
+   }
+  },
+  "Healthcare": {
+   "n": 4162,
+   "companies": 2466,
+   "pay_med": 46.84,
+   "pay_share": 0.666,
+   "top_titles": {
+    "Medical Assistant": 431,
+    "Physical Therapist": 421,
+    "Registered Nurse": 291,
+    "Physical Therapist Assistant": 173,
+    "Physician Assistant": 63,
+    "Certified Medical Assistant": 53,
+    "Physician": 52,
+    "RN": 46
+   },
+   "top_companies": {
+    "MedCBO": 31,
+    "Optum": 27,
+    "Providence": 26,
+    "Ascension": 24,
+    "Henry Ford Health": 24,
+    "Penn Medicine": 24,
+    "Northwestern Medicine": 23,
+    "EmpowerMe Wellness": 21
+   },
+   "industries": {
+    "Health Care": 702,
+    "Education And Schools": 24,
+    "Government": 12,
+    "Organization": 3,
+    "Industrial Manufacturing": 2
+   },
+   "national": {
+    "Active RN license": 0.148,
+    "BLS / CPR / ACLS": 0.324,
+    "LPN/LVN": 0.044,
+    "Microsoft Office / Excel": 0.063,
+    "Epic / Cerner EHR": 0.32,
+    "AI / LLM / GenAI": 0.031,
+    "Nights / overnight": 0.087,
+    "Weekends": 0.191,
+    "On-call": 0.068,
+    "PRN / per diem": 0.178,
+    "Lift 50+ lbs": 0.033,
+    "Outdoors / weather": 0.03,
+    "Drug screen": 0.049,
+    "Background check": 0.063,
+    "Sign-on bonus": 0.073,
+    "Weekly / daily pay": 0.033,
+    "Tuition / training paid": 0.172,
+    "401(k) match": 0.213,
+    "Shift differential": 0.046,
+    "Relocation": 0.033,
+    "Employee discount": 0.064,
+    "Equity / stock": 0.049,
+    "Bilingual (Spanish)": 0.085,
+    "No experience / entry level": 0.03,
+    "High school / GED": 0.111,
+    "Bachelor's degree": 0.042,
+    "Master's / advanced degree": 0.038,
+    "5+ years experience": 0.037,
+    "Hybrid": 0.04,
+    "Part-time role": 0.352
+   },
+   "regions": {
+    "Midwest": {
+     "n": 1014,
+     "pay_med": 43.27,
+     "diffs": {},
+     "top_companies": {
+      "Henry Ford Health": 24,
+      "Northwestern Medicine": 23,
+      "Adena Health System": 17,
+      "Pediatric Home Service": 14,
+      "OhioHealth": 12
+     }
+    },
+    "Northeast": {
+     "n": 707,
+     "pay_med": 50.0,
+     "diffs": {},
+     "top_companies": {
+      "Penn Medicine": 23,
+      "Independence Health System": 13,
+      "Ivy Health": 12,
+      "BAYADA Home Health Care": 11,
+      "Caring Angels Home Care": 10
+     }
+    },
+    "South": {
+     "n": 1245,
+     "pay_med": 44.0,
+     "diffs": {},
+     "top_companies": {
+      "Ascension": 21,
+      "Results Physiotherapy": 19,
+      "Novant Health": 19,
+      "The Lakes Home Care": 16,
+      "TriStar Health": 14
+     }
+    },
+    "West": {
+     "n": 1196,
+     "pay_med": 50.0,
+     "diffs": {},
+     "top_companies": {
+      "Providence": 26,
+      "Kaiser Permanente": 18,
+      "Intermountain Health": 16,
+      "MedCBO": 15,
+      "UCHealth": 12
+     }
+    }
+   }
+  },
+  "Legal": {
+   "n": 1903,
+   "companies": 1313,
+   "pay_med": 43.27,
+   "pay_share": 0.719,
+   "top_titles": {
+    "Legal Assistant": 153,
+    "Paralegal": 130,
+    "Associate Attorney": 95,
+    "Litigation Paralegal": 43,
+    "Attorney": 28,
+    "Associate General Counsel": 25,
+    "Legal Assistant/Paralegal": 22,
+    "Corporate Counsel": 21
+   },
+   "top_companies": {
+    "Aligned Talent Acquisition": 133,
+    "US Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys": 19,
+    "State of Washington": 17,
+    "Tyson & Mendes": 9,
+    "Kanner & Pintaluga, P.A": 9,
+    "Morgan & Morgan": 9,
+    "Dorsey & Whitney": 8,
+    "Aionios": 7
+   },
+   "industries": {
+    "Government": 72,
+    "Consulting And Business Services": 61,
+    "Organization": 12,
+    "Education And Schools": 12,
+    "Banks And Financial Services": 11
+   },
+   "national": {
+    "Bar admission": 0.081,
+    "Microsoft Office / Excel": 0.333,
+    "AI / LLM / GenAI": 0.074,
+    "Workday / ADP / HRIS": 0.033,
+    "Travel required": 0.031,
+    "Drug screen": 0.038,
+    "Background check": 0.077,
+    "Tuition / training paid": 0.071,
+    "401(k) match": 0.208,
+    "Commission / bonus pay": 0.06,
+    "Equity / stock": 0.133,
+    "Bilingual (Spanish)": 0.111,
+    "No experience / entry level": 0.039,
+    "High school / GED": 0.067,
+    "Bachelor's degree": 0.075,
+    "Master's / advanced degree": 0.049,
+    "5+ years experience": 0.263,
+    "Customer-facing": 0.032,
+    "Remote": 0.043,
+    "Hybrid": 0.263,
+    "Part-time role": 0.075
+   },
+   "regions": {
+    "Midwest": {
+     "n": 421,
+     "pay_med": 42.07,
+     "diffs": {
+      "Bilingual (Spanish)": [
+       0.055,
+       0.111
+      ]
+     },
+     "top_companies": {
+      "Aligned Talent Acquisition": 41,
+      "Morgan & Morgan": 4,
+      "Faegre Drinker Biddle & Reath LLP": 4,
+      "Travelers": 4,
+      "Bodman PLC": 4
+     }
+    },
+    "Northeast": {
+     "n": 331,
+     "pay_med": 39.47,
+     "diffs": {
+      "Part-time role": [
+       0.139,
+       0.075
+      ]
+     },
+     "top_companies": {
+      "Westmoreland County": 5,
+      "Aligned Talent Acquisition": 4,
+      "TALNT": 4,
+      "Essex District Attorney's Office": 4,
+      "Aionios": 4
+     }
+    },
+    "South": {
+     "n": 590,
+     "pay_med": 37.2,
+     "diffs": {
+      "Equity / stock": [
+       0.08,
+       0.133
+      ]
+     },
+     "top_companies": {
+      "Aligned Talent Acquisition": 80,
+      "Kanner & Pintaluga, P.A": 9,
+      "US Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys": 8,
+      "Mayersohn Law Group, P.A.": 5,
+      "Flint, Connolly & Walker": 5
+     }
+    },
+    "West": {
+     "n": 561,
+     "pay_med": 49.56,
+     "diffs": {
+      "Equity / stock": [
+       0.193,
+       0.133
+      ]
+     },
+     "top_companies": {
+      "State of Washington": 17,
+      "Aligned Talent Acquisition": 8,
+      "US Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys": 6,
+      "Tyson & Mendes": 5,
+      "Providence": 5
+     }
+    }
+   }
+  },
+  "Manufacturing": {
+   "n": 3714,
+   "companies": 2629,
+   "pay_med": 27.64,
+   "pay_share": 0.717,
+   "top_titles": {
+    "Production Supervisor": 201,
+    "Quality Inspector": 132,
+    "Machine Operator": 130,
+    "CNC Machinist": 116,
+    "Quality Control Inspector": 92,
+    "Production Manager": 85,
+    "Machinist": 52,
+    "Production Lead": 35
+   },
+   "top_companies": {
+    "Eaton": 21,
+    "Lockheed Martin": 19,
+    "Atkore": 18,
+    "Sanmina": 18,
+    "Precision CastParts": 15,
+    "BAE Systems USA": 14,
+    "Accenture": 13,
+    "Northrop Grumman": 13
+   },
+   "industries": {
+    "Industrial Manufacturing": 265,
+    "Aerospace And Defense": 43,
+    "Consumer Goods And Services": 37,
+    "Transport And Freight": 27,
+    "Construction": 25
+   },
+   "national": {
+    "Microsoft Office / Excel": 0.226,
+    "SAP / Oracle / NetSuite ERP": 0.124,
+    "AutoCAD / Revit / SolidWorks": 0.074,
+    "Workday / ADP / HRIS": 0.038,
+    "Hand & power tools": 0.106,
+    "Nights / overnight": 0.12,
+    "Weekends": 0.138,
+    "Overtime": 0.187,
+    "Lift 50+ lbs": 0.237,
+    "Standing / on feet": 0.096,
+    "Outdoors / weather": 0.05,
+    "Drug screen": 0.079,
+    "Background check": 0.082,
+    "Tuition / training paid": 0.199,
+    "401(k) match": 0.281,
+    "Shift differential": 0.059,
+    "Employee discount": 0.054,
+    "Equity / stock": 0.062,
+    "Bilingual (Spanish)": 0.05,
+    "No experience / entry level": 0.041,
+    "High school / GED": 0.394,
+    "Bachelor's degree": 0.068,
+    "5+ years experience": 0.233,
+    "Leadership / supervise others": 0.05,
+    "Part-time role": 0.035
+   },
+   "regions": {
+    "Midwest": {
+     "n": 870,
+     "pay_med": 26.51,
+     "diffs": {},
+     "top_companies": {
+      "Nexus Employment Solutions Plus, Inc": 7,
+      "Ultra Machining Company, Inc (UMC)": 7,
+      "rms Company": 5,
+      "Thread Craft Inc.": 5,
+      "AbbVie": 5
+     }
+    },
+    "Northeast": {
+     "n": 713,
+     "pay_med": 28.41,
+     "diffs": {},
+     "top_companies": {
+      "Eaton": 10,
+      "BAE Systems USA": 6,
+      "Lockheed Martin": 6,
+      "Thorlabs Inc": 5,
+      "TALNT": 5
+     }
+    },
+    "South": {
+     "n": 1042,
+     "pay_med": 24.0,
+     "diffs": {},
+     "top_companies": {
+      "Atkore": 11,
+      "Tesla": 11,
+      "Eaton": 9,
+      "Hunting Energy Services": 6,
+      "Accenture": 6
+     }
+    },
+    "West": {
+     "n": 1089,
+     "pay_med": 31.5,
+     "diffs": {},
+     "top_companies": {
+      "Sanmina": 15,
+      "CMI Group Aerospace & Defense": 13,
+      "Northrop Grumman": 11,
+      "Lockheed Martin": 10,
+      "Precision CastParts": 10
+     }
+    }
+   }
+  },
+  "Marketing": {
+   "n": 1696,
+   "companies": 1480,
+   "pay_med": 28.85,
+   "pay_share": 0.755,
+   "top_titles": {
+    "Marketing Coordinator": 59,
+    "Marketing Manager": 46,
+    "Part": 44,
+    "Social Media Manager": 39,
+    "Marketing Specialist": 23,
+    "Brand Ambassador": 21,
+    "Social Media Content Creator": 21,
+    "Social Media Coordinator": 20
+   },
+   "top_companies": {
+    "lululemon": 22,
+    "Urban Outfitters": 13,
+    "L'Or\u00e9al": 11,
+    "Macy's": 7,
+    "Deloitte": 5,
+    "DSI Holdings Corporation": 5,
+    "Chick-fil-A Restaurants": 5,
+    "Sky Zone": 4
+   },
+   "industries": {
+    "Retail": 45,
+    "Education And Schools": 33,
+    "Restaurants Travel And Leisure": 21,
+    "Consumer Goods And Services": 16,
+    "Health Care": 13
+   },
+   "national": {
+    "Microsoft Office / Excel": 0.216,
+    "Salesforce / CRM": 0.185,
+    "AI / LLM / GenAI": 0.098,
+    "POS systems": 0.048,
+    "Nights / overnight": 0.046,
+    "Weekends": 0.184,
+    "Travel required": 0.033,
+    "Outdoors / weather": 0.05,
+    "Background check": 0.048,
+    "Tuition / training paid": 0.101,
+    "401(k) match": 0.167,
+    "Commission / bonus pay": 0.051,
+    "Employee discount": 0.129,
+    "Equity / stock": 0.11,
+    "Bilingual (Spanish)": 0.048,
+    "No experience / entry level": 0.035,
+    "High school / GED": 0.055,
+    "Bachelor's degree": 0.196,
+    "Master's / advanced degree": 0.048,
+    "5+ years experience": 0.246,
+    "Leadership / supervise others": 0.037,
+    "Customer-facing": 0.089,
+    "Remote": 0.035,
+    "Hybrid": 0.279,
+    "Part-time role": 0.291
+   },
+   "regions": {
+    "Midwest": {
+     "n": 392,
+     "pay_med": 27.64,
+     "diffs": {},
+     "top_companies": {
+      "lululemon": 7,
+      "Deloitte": 3,
+      "Abercrombie & Fitch": 3,
+      "Urban Outfitters": 3,
+      "Primrose Retirement Communities": 2
+     }
+    },
+    "Northeast": {
+     "n": 312,
+     "pay_med": 31.25,
+     "diffs": {
+      "5+ years experience": [
+       0.324,
+       0.246
+      ]
+     },
+     "top_companies": {
+      "L'Or\u00e9al": 10,
+      "Next Level Marketing": 3,
+      "Farm Credit East": 3,
+      "MSA Safety": 2,
+      "Carnegie Mellon University": 2
+     }
+    },
+    "South": {
+     "n": 497,
+     "pay_med": 24.44,
+     "diffs": {},
+     "top_companies": {
+      "lululemon": 7,
+      "Macy's": 6,
+      "Angel Companions": 4,
+      "Ramsey Solutions": 4,
+      "Urban Outfitters": 4
+     }
+    },
+    "West": {
+     "n": 495,
+     "pay_med": 31.25,
+     "diffs": {},
+     "top_companies": {
+      "lululemon": 6,
+      "Happen Bank": 4,
+      "Urban Outfitters": 4,
+      "Gen Digital Inc.": 3,
+      "Vantage": 3
+     }
+    }
+   }
+  },
+  "Pharma & life sciences": {
+   "n": 3736,
+   "companies": 1553,
+   "pay_med": 30.0,
+   "pay_share": 0.668,
+   "top_titles": {
+    "Pharmacy Technician": 338,
+    "Pharmacist": 185,
+    "Staff Pharmacist": 92,
+    "Clinical Research Coordinator": 77,
+    "Certified Pharmacy Technician": 74,
+    "Lab Technician": 57,
+    "Pharmacy Manager": 54,
+    "Clinical Pharmacist": 54
+   },
+   "top_companies": {
+    "CVS Health": 150,
+    "Walgreens": 129,
+    "Walmart": 81,
+    "Optum": 47,
+    "IQVIA": 39,
+    "University of Utah": 32,
+    "The University of Michigan": 31,
+    "Henry Ford Health": 30
+   },
+   "industries": {
+    "Health Care": 389,
+    "Retail": 238,
+    "Education And Schools": 230,
+    "Pharmaceuticals": 50,
+    "Industrial Manufacturing": 33
+   },
+   "national": {
+    "BLS / CPR / ACLS": 0.069,
+    "Pharmacy licence / PTCB": 0.32,
+    "Microsoft Office / Excel": 0.203,
+    "Epic / Cerner EHR": 0.093,
+    "Cloud (AWS/Azure/GCP)": 0.097,
+    "Workday / ADP / HRIS": 0.049,
+    "Nights / overnight": 0.083,
+    "Weekends": 0.217,
+    "Overtime": 0.046,
+    "On-call": 0.041,
+    "PRN / per diem": 0.07,
+    "Lift 50+ lbs": 0.058,
+    "Standing / on feet": 0.057,
+    "Drug screen": 0.082,
+    "Background check": 0.093,
+    "Tuition / training paid": 0.157,
+    "401(k) match": 0.142,
+    "Shift differential": 0.047,
+    "Commission / bonus pay": 0.038,
+    "Employee discount": 0.123,
+    "Equity / stock": 0.112,
+    "Bilingual (Spanish)": 0.05,
+    "No experience / entry level": 0.052,
+    "High school / GED": 0.238,
+    "Bachelor's degree": 0.193,
+    "Master's / advanced degree": 0.081,
+    "5+ years experience": 0.086,
+    "Customer-facing": 0.061,
+    "Hybrid": 0.059,
+    "Part-time role": 0.228
+   },
+   "regions": {
+    "Midwest": {
+     "n": 923,
+     "pay_med": 27.89,
+     "diffs": {
+      "Drug screen": [
+       0.133,
+       0.082
+      ],
+      "Background check": [
+       0.148,
+       0.093
+      ]
+     },
+     "top_companies": {
+      "CVS Health": 38,
+      "The University of Michigan": 31,
+      "Henry Ford Health": 30,
+      "Walgreens": 29,
+      "The Ohio State University Wexner Medical Center": 29
+     }
+    },
+    "Northeast": {
+     "n": 685,
+     "pay_med": 28.7,
+     "diffs": {},
+     "top_companies": {
+      "CVS Health": 28,
+      "UPMC": 27,
+      "University of Pittsburgh": 19,
+      "Walgreens": 18,
+      "Rutgers University": 10
+     }
+    },
+    "South": {
+     "n": 1038,
+     "pay_med": 27.32,
+     "diffs": {},
+     "top_companies": {
+      "CVS Health": 48,
+      "Walgreens": 43,
+      "Walmart": 29,
+      "Atrium Health": 21,
+      "Emory University": 19
+     }
+    },
+    "West": {
+     "n": 1090,
+     "pay_med": 32.45,
+     "diffs": {},
+     "top_companies": {
+      "Walgreens": 39,
+      "CVS Health": 36,
+      "University of Utah": 32,
+      "University of Colorado": 24,
+      "ECN Clinical": 23
+     }
+    }
+   }
+  },
+  "Real estate & property": {
+   "n": 2112,
+   "companies": 1182,
+   "pay_med": 31.98,
+   "pay_share": 0.794,
+   "top_titles": {
+    "Leasing Consultant": 164,
+    "Real Estate Agent": 142,
+    "Property Manager": 127,
+    "Assistant Property Manager": 91,
+    "Part": 44,
+    "Leasing Agent": 43,
+    "Community Manager": 42,
+    "Real Estate Sales Agent": 39
+   },
+   "top_companies": {
+    "Keller Williams Realty": 42,
+    "Cushman & Wakefield": 37,
+    "Asset Living": 33,
+    "CubeSmart Self Storage": 27,
+    "Marcus & Millichap": 18,
+    "Willow Bridge Property Company": 18,
+    "Apartment Management Consultants": 16,
+    "Public Storage": 12
+   },
+   "industries": {
+    "Real Estate": 248,
+    "Organization": 15,
+    "Construction": 13,
+    "Health Care": 13,
+    "Government": 7
+   },
+   "national": {
+    "Valid driver's license": 0.077,
+    "Real estate licence": 0.274,
+    "Microsoft Office / Excel": 0.366,
+    "Salesforce / CRM": 0.181,
+    "POS systems": 0.035,
+    "Yardi / RealPage / AppFolio": 0.167,
+    "Weekends": 0.232,
+    "Outdoors / weather": 0.087,
+    "Drug screen": 0.054,
+    "Background check": 0.095,
+    "Tuition / training paid": 0.114,
+    "401(k) match": 0.23,
+    "Commission / bonus pay": 0.303,
+    "Employee discount": 0.034,
+    "Equity / stock": 0.048,
+    "Bilingual (Spanish)": 0.077,
+    "No experience / entry level": 0.048,
+    "High school / GED": 0.229,
+    "Bachelor's degree": 0.047,
+    "5+ years experience": 0.054,
+    "Customer-facing": 0.127,
+    "Hybrid": 0.083,
+    "Part-time role": 0.162
+   },
+   "regions": {
+    "Midwest": {
+     "n": 455,
+     "pay_med": 28.92,
+     "diffs": {
+      "Real estate licence": [
+       0.185,
+       0.274
+      ]
+     },
+     "top_companies": {
+      "Marcus & Millichap": 9,
+      "Pawlak Properties": 8,
+      "Keller Williams Realty": 7,
+      "Willow Bridge Property Company": 7,
+      "Asset Living": 6
+     }
+    },
+    "Northeast": {
+     "n": 358,
+     "pay_med": 33.0,
+     "diffs": {
+      "Weekends": [
+       0.151,
+       0.232
+      ],
+      "Hybrid": [
+       0.134,
+       0.083
+      ]
+     },
+     "top_companies": {
+      "Keller Williams Realty": 12,
+      "Century 21 Action Plus Realty": 7,
+      "Cushman & Wakefield": 7,
+      "CubeSmart Self Storage": 5,
+      "Matt Durbin Team": 5
+     }
+    },
+    "South": {
+     "n": 660,
+     "pay_med": 33.65,
+     "diffs": {},
+     "top_companies": {
+      "CubeSmart Self Storage": 13,
+      "Howard Hanna Real Estate Services": 11,
+      "Cushman & Wakefield": 10,
+      "RAM Partners LLC": 10,
+      "Willow Bridge Property Company": 9
+     }
+    },
+    "West": {
+     "n": 639,
+     "pay_med": 32.07,
+     "diffs": {},
+     "top_companies": {
+      "Keller Williams Realty": 19,
+      "Asset Living": 18,
+      "Cushman & Wakefield": 17,
+      "Apartment Management Consultants": 12,
+      "CubeSmart Self Storage": 7
+     }
+    }
+   }
+  },
+  "Restaurants & hospitality": {
+   "n": 4169,
+   "companies": 2627,
+   "pay_med": 19.5,
+   "pay_share": 0.761,
+   "top_titles": {
+    "Server": 374,
+    "Line Cook": 246,
+    "Front Desk Agent": 231,
+    "Assistant Manager": 131,
+    "Night Auditor": 115,
+    "Line Cook/Prep Cook": 109,
+    "Cook": 76,
+    "Restaurant Manager": 76
+   },
+   "top_companies": {
+    "Chick-fil-A Restaurants": 65,
+    "Marriott International": 63,
+    "Panda Restaurant Group": 38,
+    "First Watch": 37,
+    "Hilton": 35,
+    "Holiday Inn Express and Suites": 28,
+    "Highgate": 25,
+    "Hampton by Hilton": 25
+   },
+   "industries": {
+    "Restaurants Travel And Leisure": 920,
+    "Food And Beverages": 91,
+    "Retail": 41,
+    "Health Care": 31,
+    "Real Estate": 5
+   },
+   "national": {
+    "Food handler / ServSafe": 0.106,
+    "Microsoft Office / Excel": 0.072,
+    "POS systems": 0.169,
+    "Nights / overnight": 0.204,
+    "Weekends": 0.365,
+    "Lift 50+ lbs": 0.13,
+    "Standing / on feet": 0.128,
+    "Outdoors / weather": 0.04,
+    "Background check": 0.062,
+    "Weekly / daily pay": 0.064,
+    "Tuition / training paid": 0.228,
+    "401(k) match": 0.144,
+    "Employee discount": 0.344,
+    "Tips": 0.112,
+    "Bilingual (Spanish)": 0.051,
+    "High school / GED": 0.189,
+    "Leadership / supervise others": 0.031,
+    "Customer-facing": 0.097,
+    "Part-time role": 0.562
+   },
+   "regions": {
+    "Midwest": {
+     "n": 1006,
+     "pay_med": 18.5,
+     "diffs": {},
+     "top_companies": {
+      "Marriott International": 15,
+      "Holiday Inn Express and Suites": 12,
+      "First Watch": 10,
+      "Panda Restaurant Group": 10,
+      "Hampton by Hilton": 10
+     }
+    },
+    "Northeast": {
+     "n": 725,
+     "pay_med": 20.5,
+     "diffs": {},
+     "top_companies": {
+      "Red Robin": 8,
+      "Highgate": 6,
+      "Whole Foods Market": 5,
+      "Dunkin'": 5,
+      "Domino's": 5
+     }
+    },
+    "South": {
+     "n": 1244,
+     "pay_med": 18.0,
+     "diffs": {},
+     "top_companies": {
+      "Chick-fil-A Restaurants": 35,
+      "First Watch": 17,
+      "Marriott International": 16,
+      "Outback Steakhouse": 16,
+      "Hilton": 11
+     }
+    },
+    "West": {
+     "n": 1194,
+     "pay_med": 20.5,
+     "diffs": {
+      "Food handler / ServSafe": [
+       0.157,
+       0.106
+      ]
+     },
+     "top_companies": {
+      "Marriott International": 27,
+      "Chick-fil-A Restaurants": 17,
+      "Hilton": 15,
+      "Panda Restaurant Group": 14,
+      "Hyatt": 9
+     }
+    }
+   }
+  },
+  "Retail": {
+   "n": 3043,
+   "companies": 1056,
+   "pay_med": 18.22,
+   "pay_share": 0.755,
+   "top_titles": {
+    "Cashier": 275,
+    "Retail Sales Associate": 196,
+    "Store Manager": 114,
+    "Assistant Store Manager": 105,
+    "Part": 98,
+    "Seasonal Retail Sales Associate": 58,
+    "Sales Associate": 51,
+    "Guest Advocate": 38
+   },
+   "top_companies": {
+    "Macy's": 92,
+    "Dollar General": 67,
+    "Walmart": 66,
+    "Target": 64,
+    "Whole Foods Market": 58,
+    "Sprouts Farmers Market": 48,
+    "Marshalls": 46,
+    "Harbor Freight Tools": 40
+   },
+   "industries": {
+    "Retail": 667,
+    "Restaurants Travel And Leisure": 82,
+    "Consumer Goods And Services": 55,
+    "Food And Beverages": 54,
+    "Organization": 8
+   },
+   "national": {
+    "Food handler / ServSafe": 0.033,
+    "Microsoft Office / Excel": 0.067,
+    "POS systems": 0.222,
+    "WMS / scanners / RF": 0.032,
+    "Workday / ADP / HRIS": 0.044,
+    "Nights / overnight": 0.245,
+    "Weekends": 0.5,
+    "Overtime": 0.034,
+    "Lift 50+ lbs": 0.224,
+    "Standing / on feet": 0.121,
+    "Outdoors / weather": 0.063,
+    "Background check": 0.062,
+    "Weekly / daily pay": 0.096,
+    "Tuition / training paid": 0.169,
+    "401(k) match": 0.224,
+    "Commission / bonus pay": 0.045,
+    "Employee discount": 0.373,
+    "Equity / stock": 0.066,
+    "Tips": 0.038,
+    "Bilingual (Spanish)": 0.066,
+    "No experience / entry level": 0.047,
+    "High school / GED": 0.26,
+    "Bachelor's degree": 0.043,
+    "Leadership / supervise others": 0.05,
+    "Customer-facing": 0.179,
+    "Part-time role": 0.628
+   },
+   "regions": {
+    "Midwest": {
+     "n": 724,
+     "pay_med": 17.26,
+     "diffs": {},
+     "top_companies": {
+      "Walmart": 30,
+      "Meijer": 17,
+      "Dollar General": 16,
+      "Kroger": 15,
+      "Whole Foods Market": 14
+     }
+    },
+    "Northeast": {
+     "n": 524,
+     "pay_med": 18.5,
+     "diffs": {},
+     "top_companies": {
+      "Macy's": 23,
+      "Whole Foods Market": 17,
+      "Target": 14,
+      "Walmart": 14,
+      "Harbor Freight Tools": 11
+     }
+    },
+    "South": {
+     "n": 928,
+     "pay_med": 16.5,
+     "diffs": {},
+     "top_companies": {
+      "Dollar General": 37,
+      "Macy's": 33,
+      "Sprouts Farmers Market": 16,
+      "Marshalls": 16,
+      "Burlington Stores": 15
+     }
+    },
+    "West": {
+     "n": 867,
+     "pay_med": 19.85,
+     "diffs": {},
+     "top_companies": {
+      "Safeway": 28,
+      "Sprouts Farmers Market": 24,
+      "Target": 23,
+      "Macy's": 22,
+      "Whole Foods Market": 20
+     }
+    }
+   }
+  },
+  "Sales": {
+   "n": 1916,
+   "companies": 1370,
+   "pay_med": 40.87,
+   "pay_share": 0.816,
+   "top_titles": {
+    "Sales Representative": 105,
+    "Account Executive": 101,
+    "Outside Sales Representative": 65,
+    "Inside Sales Representative": 63,
+    "Account Manager": 61,
+    "Entry": 28,
+    "Membership Sales Representative": 22,
+    "In": 18
+   },
+   "top_companies": {
+    "National Federation of Independent Business": 25,
+    "Devine Business Group": 23,
+    "LA Fitness": 16,
+    "Prism Biotech": 15,
+    "Power Home Remodeling": 15,
+    "Hibu": 12,
+    "State Farm": 12,
+    "Allied Universal": 11
+   },
+   "industries": {
+    "Consumer Goods And Services": 38,
+    "Insurance": 23,
+    "Food And Beverages": 22,
+    "Health Care": 22,
+    "Retail": 18
+   },
+   "national": {
+    "Clean driving record / MVR": 0.054,
+    "Valid driver's license": 0.06,
+    "Microsoft Office / Excel": 0.241,
+    "Salesforce / CRM": 0.305,
+    "SAP / Oracle / NetSuite ERP": 0.032,
+    "AI / LLM / GenAI": 0.049,
+    "Nights / overnight": 0.051,
+    "Weekends": 0.142,
+    "Travel required": 0.05,
+    "Lift 50+ lbs": 0.043,
+    "Outdoors / weather": 0.05,
+    "Drug screen": 0.044,
+    "Background check": 0.071,
+    "Weekly / daily pay": 0.045,
+    "Tuition / training paid": 0.198,
+    "401(k) match": 0.224,
+    "Commission / bonus pay": 0.466,
+    "Employee discount": 0.103,
+    "Equity / stock": 0.095,
+    "Bilingual (Spanish)": 0.066,
+    "No experience / entry level": 0.095,
+    "High school / GED": 0.136,
+    "Bachelor's degree": 0.105,
+    "5+ years experience": 0.149,
+    "Customer-facing": 0.115,
+    "Remote": 0.058,
+    "Hybrid": 0.179,
+    "Part-time role": 0.135
+   },
+   "regions": {
+    "Midwest": {
+     "n": 473,
+     "pay_med": 36.06,
+     "diffs": {},
+     "top_companies": {
+      "Prism Biotech": 8,
+      "Henkel": 6,
+      "Edina Realty": 6,
+      "Allied Universal": 5,
+      "Farmers Insurance Group": 4
+     }
+    },
+    "Northeast": {
+     "n": 337,
+     "pay_med": 43.27,
+     "diffs": {},
+     "top_companies": {
+      "National Federation of Independent Business": 9,
+      "LA Fitness": 5,
+      "ADP": 5,
+      "Hibu": 4,
+      "AVI Foodsystems, Inc": 4
+     }
+    },
+    "South": {
+     "n": 555,
+     "pay_med": 40.87,
+     "diffs": {},
+     "top_companies": {
+      "Cleft of the Rock, Inc.": 9,
+      "Power Home Remodeling": 9,
+      "Allegiant Business Group": 8,
+      "Fitness Connection": 5,
+      "Miami water and air": 5
+     }
+    },
+    "West": {
+     "n": 551,
+     "pay_med": 42.55,
+     "diffs": {},
+     "top_companies": {
+      "Devine Business Group": 23,
+      "LA Fitness": 9,
+      "National Federation of Independent Business": 8,
+      "H&M": 7,
+      "Keller Williams Realty": 6
+     }
+    }
+   }
+  },
+  "Senior & home care": {
+   "n": 1856,
+   "companies": 1177,
+   "pay_med": 19.5,
+   "pay_share": 0.765,
+   "top_titles": {
+    "Certified Nursing Assistant": 210,
+    "Caregiver": 100,
+    "Home Health Aide": 67,
+    "CNA": 64,
+    "In Home Caregiver": 56,
+    "Direct Support Professional": 34,
+    "In": 23,
+    "Part": 22
+   },
+   "top_companies": {
+    "Cornerstone Caregiving": 60,
+    "Right At Home": 24,
+    "ExpertCare": 21,
+    "BAYADA Home Health Care": 21,
+    "SYNERGY HomeCare": 20,
+    "Visiting Angels": 13,
+    "Flat Irons Flex Care": 13,
+    "Helping Hearts USA LLC": 12
+   },
+   "industries": {
+    "Health Care": 365,
+    "Organization": 3,
+    "Government": 2,
+    "Insurance": 2,
+    "Transport And Freight": 2
+   },
+   "national": {
+    "BLS / CPR / ACLS": 0.295,
+    "CNA / HHA certification": 0.191,
+    "Clean driving record / MVR": 0.032,
+    "Valid driver's license": 0.081,
+    "Epic / Cerner EHR": 0.055,
+    "Nights / overnight": 0.158,
+    "Weekends": 0.237,
+    "Overtime": 0.054,
+    "12-hour shifts": 0.044,
+    "On-call": 0.036,
+    "PRN / per diem": 0.117,
+    "Lift 50+ lbs": 0.074,
+    "Drug screen": 0.062,
+    "Background check": 0.277,
+    "Sign-on bonus": 0.041,
+    "Weekly / daily pay": 0.207,
+    "Tuition / training paid": 0.279,
+    "401(k) match": 0.137,
+    "Shift differential": 0.071,
+    "Employee discount": 0.032,
+    "Bilingual (Spanish)": 0.042,
+    "No experience / entry level": 0.037,
+    "High school / GED": 0.237,
+    "Part-time role": 0.623
+   },
+   "regions": {
+    "Midwest": {
+     "n": 475,
+     "pay_med": 19.0,
+     "diffs": {},
+     "top_companies": {
+      "ExpertCare": 21,
+      "Cornerstone Caregiving": 17,
+      "Always Best Care Senior Services - DuPage/ Cook and Will County": 6,
+      "National Church Residences": 6,
+      "Home Health Care, Inc.": 6
+     }
+    },
+    "Northeast": {
+     "n": 337,
+     "pay_med": 21.0,
+     "diffs": {
+      "BLS / CPR / ACLS": [
+       0.178,
+       0.295
+      ],
+      "Background check": [
+       0.184,
+       0.277
+      ]
+     },
+     "top_companies": {
+      "BAYADA Home Health Care": 11,
+      "SYNERGY HomeCare": 8,
+      "Atlantic Health": 7,
+      "Griswold": 6,
+      "Castle Rock Home Care": 6
+     }
+    },
+    "South": {
+     "n": 513,
+     "pay_med": 17.0,
+     "diffs": {
+      "Drug screen": [
+       0.117,
+       0.062
+      ]
+     },
+     "top_companies": {
+      "Cornerstone Caregiving": 21,
+      "Right At Home": 18,
+      "Helping Hearts USA LLC": 12,
+      "Hope Private In-Home Care LLC": 11,
+      "Visiting Angels": 9
+     }
+    },
+    "West": {
+     "n": 531,
+     "pay_med": 21.0,
+     "diffs": {
+      "BLS / CPR / ACLS": [
+       0.399,
+       0.295
+      ]
+     },
+     "top_companies": {
+      "Cornerstone Caregiving": 17,
+      "Flat Irons Flex Care": 13,
+      "Family and Friends homecare": 9,
+      "Western States Lodging and Management": 8,
+      "ComForCare": 6
+     }
+    }
+   }
+  },
+  "Skilled trades": {
+   "n": 4712,
+   "companies": 3498,
+   "pay_med": 31.25,
+   "pay_share": 0.772,
+   "top_titles": {
+    "Maintenance Technician": 244,
+    "Welder": 178,
+    "Electrician": 153,
+    "HVAC Service Technician": 126,
+    "Plumber": 89,
+    "HVAC Technician": 87,
+    "Journeyman Electrician": 76,
+    "Welder/Fabricator": 69
+   },
+   "top_companies": {
+    "IES Residential": 44,
+    "Walmart": 28,
+    "Asset Living": 22,
+    "EMCOR": 19,
+    "Service Experts": 17,
+    "Gaylor Electric": 14,
+    "ARS/Rescue Rooter": 14,
+    "Power Design, Inc.": 12
+   },
+   "industries": {
+    "Construction": 139,
+    "Industrial Manufacturing": 85,
+    "Restaurants Travel And Leisure": 53,
+    "Education And Schools": 46,
+    "Government": 42
+   },
+   "national": {
+    "Clean driving record / MVR": 0.195,
+    "Valid driver's license": 0.179,
+    "OSHA 10/30": 0.038,
+    "Journeyman / master licence": 0.201,
+    "EPA 608": 0.05,
+    "Microsoft Office / Excel": 0.076,
+    "Cloud (AWS/Azure/GCP)": 0.032,
+    "PLC / controls": 0.054,
+    "Workday / ADP / HRIS": 0.034,
+    "Hand & power tools": 0.291,
+    "Nights / overnight": 0.07,
+    "Weekends": 0.167,
+    "Overtime": 0.159,
+    "On-call": 0.123,
+    "Lift 50+ lbs": 0.247,
+    "Standing / on feet": 0.043,
+    "Outdoors / weather": 0.147,
+    "Drug screen": 0.119,
+    "Background check": 0.145,
+    "Sign-on bonus": 0.032,
+    "Weekly / daily pay": 0.053,
+    "Tuition / training paid": 0.221,
+    "401(k) match": 0.265,
+    "Commission / bonus pay": 0.07,
+    "Employee discount": 0.063,
+    "Equity / stock": 0.034,
+    "Bilingual (Spanish)": 0.03,
+    "No experience / entry level": 0.052,
+    "High school / GED": 0.282,
+    "5+ years experience": 0.164,
+    "Customer-facing": 0.092,
+    "Part-time role": 0.071
+   },
+   "regions": {
+    "Midwest": {
+     "n": 1118,
+     "pay_med": 31.0,
+     "diffs": {},
+     "top_companies": {
+      "R & T Yoder Electric, Plumbing & HVAC, Inc.": 8,
+      "Walmart": 7,
+      "Fire and Ice Heating and Air Conditioning": 6,
+      "ARS/Rescue Rooter": 6,
+      "KEP Electric": 6
+     }
+    },
+    "Northeast": {
+     "n": 821,
+     "pay_med": 32.5,
+     "diffs": {},
+     "top_companies": {
+      "GE Mechanical LLC": 8,
+      "Heroic Home Comfort LLC": 7,
+      "Rodenhiser Home Services": 7,
+      "Klover Contracting": 7,
+      "Sila Heating & Air Conditioning": 6
+     }
+    },
+    "South": {
+     "n": 1409,
+     "pay_med": 27.88,
+     "diffs": {},
+     "top_companies": {
+      "IES Residential": 31,
+      "Gaylor Electric": 10,
+      "EMCOR": 9,
+      "All Native Group": 9,
+      "Walmart": 8
+     }
+    },
+    "West": {
+     "n": 1364,
+     "pay_med": 33.94,
+     "diffs": {},
+     "top_companies": {
+      "Asset Living": 15,
+      "Walmart": 11,
+      "IES Residential": 10,
+      "Power Design, Inc.": 9,
+      "EMCOR": 7
+     }
+    }
+   }
+  },
+  "Social services": {
+   "n": 2937,
+   "companies": 2059,
+   "pay_med": 25.62,
+   "pay_share": 0.781,
+   "top_titles": {
+    "Case Manager": 199,
+    "Behavior Technician": 124,
+    "Registered Behavior Technician": 105,
+    "Behavioral Health Technician": 86,
+    "Social Worker": 81,
+    "Mental Health Technician": 33,
+    "Mental Health Therapist": 31,
+    "RN Case Manager": 31
+   },
+   "top_companies": {
+    "Heartland ABA": 37,
+    "OOS Management Corp.": 28,
+    "Positive Behavior Supports": 17,
+    "Telecare Corporation": 15,
+    "Bristol Hospice": 15,
+    "Maxim Healthcare": 13,
+    "Action Behavior Centers - ABA Therapy for Autism": 13,
+    "Open Sky Community Services": 12
+   },
+   "industries": {
+    "Health Care": 311,
+    "Organization": 74,
+    "Government": 55,
+    "Education And Schools": 31,
+    "Industrial Manufacturing": 2
+   },
+   "national": {
+    "Active RN license": 0.052,
+    "BLS / CPR / ACLS": 0.193,
+    "Clean driving record / MVR": 0.064,
+    "Valid driver's license": 0.073,
+    "Social work licence (LCSW/LMSW)": 0.181,
+    "Microsoft Office / Excel": 0.13,
+    "Epic / Cerner EHR": 0.154,
+    "Nights / overnight": 0.074,
+    "Weekends": 0.209,
+    "On-call": 0.076,
+    "PRN / per diem": 0.066,
+    "Lift 50+ lbs": 0.053,
+    "Drug screen": 0.069,
+    "Background check": 0.205,
+    "Sign-on bonus": 0.034,
+    "Weekly / daily pay": 0.041,
+    "Tuition / training paid": 0.232,
+    "401(k) match": 0.174,
+    "Shift differential": 0.051,
+    "Employee discount": 0.042,
+    "Equity / stock": 0.068,
+    "Bilingual (Spanish)": 0.129,
+    "No experience / entry level": 0.043,
+    "High school / GED": 0.288,
+    "Bachelor's degree": 0.168,
+    "Master's / advanced degree": 0.108,
+    "5+ years experience": 0.052,
+    "Hybrid": 0.102,
+    "Part-time role": 0.362
+   },
+   "regions": {
+    "Midwest": {
+     "n": 705,
+     "pay_med": 24.5,
+     "diffs": {},
+     "top_companies": {
+      "Heartland ABA": 30,
+      "CVS Health": 8,
+      "St. Croix Hospice": 7,
+      "Nationwide Children's Hospital": 6,
+      "State of Missouri": 5
+     }
+    },
+    "Northeast": {
+     "n": 532,
+     "pay_med": 26.5,
+     "diffs": {
+      "BLS / CPR / ACLS": [
+       0.13,
+       0.193
+      ],
+      "Background check": [
+       0.126,
+       0.205
+      ]
+     },
+     "top_companies": {
+      "OOS Management Corp.": 19,
+      "Open Sky Community Services": 12,
+      "UPMC": 6,
+      "Penn Medicine": 6,
+      "Commonwealth of Pennsylvania": 6
+     }
+    },
+    "South": {
+     "n": 852,
+     "pay_med": 24.75,
+     "diffs": {},
+     "top_companies": {
+      "Heartlinks ABA": 10,
+      "Centerstone": 10,
+      "Action Behavior Centers - ABA Therapy for Autism": 8,
+      "Youth Villages": 8,
+      "Medical City Healthcare": 8
+     }
+    },
+    "West": {
+     "n": 848,
+     "pay_med": 27.0,
+     "diffs": {
+      "BLS / CPR / ACLS": [
+       0.259,
+       0.193
+      ],
+      "Bilingual (Spanish)": [
+       0.183,
+       0.129
+      ]
+     },
+     "top_companies": {
+      "Telecare Corporation": 15,
+      "Maxim Healthcare": 11,
+      "OOS Management Corp.": 9,
+      "Kaiser Permanente": 8,
+      "Heartland ABA": 7
+     }
+    }
+   }
+  },
+  "Software & IT": {
+   "n": 3862,
+   "companies": 2308,
+   "pay_med": 58.98,
+   "pay_share": 0.691,
+   "top_titles": {
+    "Software Engineer": 129,
+    "Data Engineer": 94,
+    "Senior Software Engineer": 62,
+    "IT Support Specialist": 54,
+    "Senior Data Engineer": 47,
+    "Staff Software Engineer": 43,
+    "Data Engineer II": 25,
+    "IT Support Technician": 24
+   },
+   "top_companies": {
+    "Deloitte": 137,
+    "Amazon.com": 56,
+    "Accenture": 53,
+    "JPMorganChase": 50,
+    "Anduril": 30,
+    "Lockheed Martin": 27,
+    "CVS Health": 26,
+    "AppFolio Inc": 25
+   },
+   "industries": {
+    "Internet And Software": 142,
+    "Education And Schools": 78,
+    "Health Care": 57,
+    "Industrial Manufacturing": 56,
+    "Consulting And Business Services": 50
+   },
+   "national": {
+    "Security clearance": 0.066,
+    "Cyber certs (Security+/CISSP)": 0.207,
+    "Microsoft Office / Excel": 0.208,
+    "Salesforce / CRM": 0.051,
+    "SAP / Oracle / NetSuite ERP": 0.093,
+    "SQL": 0.234,
+    "Python": 0.297,
+    "Cloud (AWS/Azure/GCP)": 0.36,
+    "Kubernetes / Docker": 0.136,
+    "Tableau / Power BI": 0.063,
+    "AI / LLM / GenAI": 0.267,
+    "Workday / ADP / HRIS": 0.036,
+    "Weekends": 0.073,
+    "On-call": 0.092,
+    "Travel required": 0.053,
+    "Lift 50+ lbs": 0.043,
+    "Drug screen": 0.045,
+    "Background check": 0.099,
+    "Tuition / training paid": 0.134,
+    "401(k) match": 0.193,
+    "Shift differential": 0.043,
+    "Relocation": 0.046,
+    "Commission / bonus pay": 0.059,
+    "Employee discount": 0.038,
+    "Equity / stock": 0.194,
+    "No experience / entry level": 0.037,
+    "High school / GED": 0.07,
+    "Bachelor's degree": 0.292,
+    "Master's / advanced degree": 0.085,
+    "5+ years experience": 0.414,
+    "Customer-facing": 0.107,
+    "Remote": 0.035,
+    "Hybrid": 0.259,
+    "Part-time role": 0.031
+   },
+   "regions": {
+    "Midwest": {
+     "n": 902,
+     "pay_med": 52.88,
+     "diffs": {
+      "Tuition / training paid": [
+       0.215,
+       0.134
+      ]
+     },
+     "top_companies": {
+      "Deloitte": 43,
+      "JPMorganChase": 33,
+      "General Motors (GM)": 18,
+      "Garmin": 18,
+      "Accenture": 17
+     }
+    },
+    "Northeast": {
+     "n": 685,
+     "pay_med": 60.95,
+     "diffs": {},
+     "top_companies": {
+      "Deloitte": 26,
+      "Eaton": 10,
+      "PNC Financial Services Group": 9,
+      "Accenture": 9,
+      "CVS Health": 7
+     }
+    },
+    "South": {
+     "n": 1150,
+     "pay_med": 57.69,
+     "diffs": {
+      "Equity / stock": [
+       0.111,
+       0.194
+      ]
+     },
+     "top_companies": {
+      "Deloitte": 51,
+      "Oracle": 20,
+      "Accenture": 20,
+      "JPMorganChase": 13,
+      "AppFolio Inc": 12
+     }
+    },
+    "West": {
+     "n": 1125,
+     "pay_med": 65.91,
+     "diffs": {
+      "Equity / stock": [
+       0.3,
+       0.194
+      ]
+     },
+     "top_companies": {
+      "Amazon.com": 31,
+      "Anduril": 28,
+      "Deloitte": 17,
+      "Northrop Grumman": 12,
+      "Google": 12
+     }
+    }
+   }
+  },
+  "Transportation": {
+   "n": 2944,
+   "companies": 2112,
+   "pay_med": 25.5,
+   "pay_share": 0.823,
+   "top_titles": {
+    "Delivery Driver": 234,
+    "Dispatcher": 160,
+    "CDL": 72,
+    "Non": 34,
+    "Truck Driver": 33,
+    "Driver": 28,
+    "Part": 24,
+    "Box Truck Driver": 22
+   },
+   "top_companies": {
+    "Allied Universal": 62,
+    "Ryder System": 41,
+    "GEX Transport": 23,
+    "UPS": 19,
+    "Domino's": 19,
+    "MedSpeed": 16,
+    "Overhaul Carriers": 13,
+    "AutoZone": 12
+   },
+   "industries": {
+    "Transport And Freight": 132,
+    "Health Care": 47,
+    "Food And Beverages": 38,
+    "Restaurants Travel And Leisure": 32,
+    "Government": 32
+   },
+   "national": {
+    "CDL Class A": 0.204,
+    "CDL (any)": 0.38,
+    "Clean driving record / MVR": 0.349,
+    "Valid driver's license": 0.106,
+    "Microsoft Office / Excel": 0.152,
+    "SAP / Oracle / NetSuite ERP": 0.032,
+    "Workday / ADP / HRIS": 0.045,
+    "Nights / overnight": 0.12,
+    "Weekends": 0.227,
+    "Overtime": 0.105,
+    "On-call": 0.031,
+    "Lift 50+ lbs": 0.175,
+    "Outdoors / weather": 0.091,
+    "Drug screen": 0.243,
+    "Background check": 0.19,
+    "Sign-on bonus": 0.031,
+    "Weekly / daily pay": 0.133,
+    "Tuition / training paid": 0.256,
+    "401(k) match": 0.217,
+    "Employee discount": 0.079,
+    "Bilingual (Spanish)": 0.059,
+    "No experience / entry level": 0.046,
+    "High school / GED": 0.248,
+    "5+ years experience": 0.081,
+    "Customer-facing": 0.122,
+    "Part-time role": 0.222
+   },
+   "regions": {
+    "Midwest": {
+     "n": 719,
+     "pay_med": 25.22,
+     "diffs": {},
+     "top_companies": {
+      "Allied Universal": 15,
+      "All Fleet Inc": 12,
+      "MedSpeed": 11,
+      "Ryder System": 9,
+      "Domino's": 8
+     }
+    },
+    "Northeast": {
+     "n": 524,
+     "pay_med": 25.75,
+     "diffs": {},
+     "top_companies": {
+      "Allied Universal": 14,
+      "Ryder System": 8,
+      "UPS": 7,
+      "GEX Transport": 6,
+      "Republic Services": 4
+     }
+    },
+    "South": {
+     "n": 869,
+     "pay_med": 24.5,
+     "diffs": {},
+     "top_companies": {
+      "Allied Universal": 22,
+      "Ryder System": 20,
+      "Waste Pro": 9,
+      "GEX Transport": 8,
+      "Domino's": 6
+     }
+    },
+    "West": {
+     "n": 832,
+     "pay_med": 26.52,
+     "diffs": {},
+     "top_companies": {
+      "Allied Universal": 11,
+      "Transporting Logistics": 7,
+      "Waste Connections": 7,
+      "Salt City Trucking": 6,
+      "Jimmy John's Sandwiches": 5
+     }
+    }
+   }
+  },
+  "Warehouse & logistics": {
+   "n": 3212,
+   "companies": 2296,
+   "pay_med": 22.88,
+   "pay_share": 0.724,
+   "top_titles": {
+    "Warehouse Associate": 221,
+    "Logistics Coordinator": 107,
+    "Forklift Operator": 62,
+    "Material Handler": 58,
+    "Warehouse Worker": 37,
+    "Inventory Coordinator": 28,
+    "Inventory Analyst": 26,
+    "Pricing Analyst": 26
+   },
+   "top_companies": {
+    "DHL": 36,
+    "Ryder System": 29,
+    "Best Buy": 21,
+    "Lowe's Home Improvement": 21,
+    "Walmart": 19,
+    "CJ Logistics America": 17,
+    "Tractor Supply": 15,
+    "48forty Solutions, LLC": 14
+   },
+   "industries": {
+    "Industrial Manufacturing": 121,
+    "Retail": 111,
+    "Transport And Freight": 89,
+    "Construction": 40,
+    "Consumer Goods And Services": 40
+   },
+   "national": {
+    "Clean driving record / MVR": 0.043,
+    "Forklift certification": 0.119,
+    "Microsoft Office / Excel": 0.371,
+    "SAP / Oracle / NetSuite ERP": 0.205,
+    "SQL": 0.04,
+    "Tableau / Power BI": 0.058,
+    "AI / LLM / GenAI": 0.033,
+    "POS systems": 0.036,
+    "WMS / scanners / RF": 0.127,
+    "Workday / ADP / HRIS": 0.05,
+    "Hand & power tools": 0.041,
+    "Nights / overnight": 0.09,
+    "Weekends": 0.142,
+    "Overtime": 0.145,
+    "Lift 50+ lbs": 0.292,
+    "Standing / on feet": 0.082,
+    "Outdoors / weather": 0.062,
+    "Drug screen": 0.09,
+    "Background check": 0.094,
+    "Weekly / daily pay": 0.05,
+    "Tuition / training paid": 0.197,
+    "401(k) match": 0.246,
+    "Shift differential": 0.04,
+    "Employee discount": 0.113,
+    "Equity / stock": 0.069,
+    "Bilingual (Spanish)": 0.07,
+    "High school / GED": 0.373,
+    "Bachelor's degree": 0.106,
+    "5+ years experience": 0.097,
+    "Customer-facing": 0.054,
+    "Hybrid": 0.062,
+    "Part-time role": 0.116
+   },
+   "regions": {
+    "Midwest": {
+     "n": 745,
+     "pay_med": 22.5,
+     "diffs": {},
+     "top_companies": {
+      "Ryder System": 10,
+      "DHL": 8,
+      "All Fleet Inc": 7,
+      "DSV": 6,
+      "CJ Logistics America": 6
+     }
+    },
+    "Northeast": {
+     "n": 572,
+     "pay_med": 23.5,
+     "diffs": {},
+     "top_companies": {
+      "Lowe's Home Improvement": 10,
+      "Drive Medical": 5,
+      "Allen Distribution": 5,
+      "Tractor Supply": 4,
+      "Encore Fire Protection": 4
+     }
+    },
+    "South": {
+     "n": 982,
+     "pay_med": 21.5,
+     "diffs": {},
+     "top_companies": {
+      "Ryder System": 15,
+      "DHL": 13,
+      "Walmart": 7,
+      "Tractor Supply": 7,
+      "Lowe's Home Improvement": 7
+     }
+    },
+    "West": {
+     "n": 913,
+     "pay_med": 24.0,
+     "diffs": {},
+     "top_companies": {
+      "DHL": 14,
+      "Staples": 9,
+      "Northrop Grumman": 8,
+      "Best Buy": 7,
+      "Walmart": 7
+     }
+    }
+   }
+  }
+ },
+ "region_profile": {
+  "Midwest": {
+   "n": 18017,
+   "pay_med": 25.62,
+   "over": {
+    "Weekly / daily pay": [
+     0.058,
+     0.048
+    ]
+   },
+   "under": {
+    "Bilingual (Spanish)": [
+     0.04,
+     0.067
+    ]
+   }
+  },
+  "Northeast": {
+   "n": 13616,
+   "pay_med": 27.97,
+   "over": {},
+   "under": {
+    "Outdoors / weather": [
+     0.047,
+     0.064
+    ],
+    "Drug screen": [
+     0.055,
+     0.078
+    ],
+    "Background check": [
+     0.097,
+     0.126
+    ],
+    "Bilingual (Spanish)": [
+     0.052,
+     0.067
+    ]
+   }
+  },
+  "South": {
+   "n": 22610,
+   "pay_med": 24.38,
+   "over": {
+    "Bilingual (Spanish)": [
+     0.087,
+     0.067
+    ]
+   },
+   "under": {
+    "Equity / stock": [
+     0.049,
+     0.076
+    ]
+   }
+  },
+  "West": {
+   "n": 22006,
+   "pay_med": 29.33,
+   "over": {
+    "Outdoors / weather": [
+     0.077,
+     0.064
+    ],
+    "Equity / stock": [
+     0.102,
+     0.076
+    ]
+   },
+   "under": {}
+  }
+ },
+ "ngrams": {
+  "Government & public safety": {
+   "employers": 424,
+   "top": [
+    [
+     "law enforcement",
+     0.434,
+     190.1
+    ],
+    [
+     "background investigation",
+     0.158,
+     46.5
+    ],
+    [
+     "criminal justice",
+     0.144,
+     51.6
+    ],
+    [
+     "police officer",
+     0.116,
+     4353.7
+    ],
+    [
+     "peace officer",
+     0.108,
+     817.4
+    ],
+    [
+     "security officer",
+     0.097,
+     520.4
+    ],
+    [
+     "report writing",
+     0.078,
+     34.5
+    ],
+    [
+     "remain calm",
+     0.104,
+     14.5
+    ],
+    [
+     "s license",
+     0.455,
+     3.3
+    ],
+    [
+     "successfully complete",
+     0.113,
+     13.1
+    ],
+    [
+     "driver s",
+     0.448,
+     3.3
+    ],
+    [
+     "driver s license",
+     0.446,
+     3.3
+    ],
+    [
+     "guard card",
+     0.073,
+     550.9
+    ],
+    [
+     "security guard",
+     0.071,
+     533.1
+    ],
+    [
+     "security license",
+     0.068,
+     429.4
+    ],
+    [
+     "military service",
+     0.068,
+     24.5
+    ],
+    [
+     "public safety",
+     0.066,
+     38.3
+    ],
+    [
+     "access control",
+     0.066,
+     27.0
+    ],
+    [
+     "physical fitness",
+     0.064,
+     100.0
+    ],
+    [
+     "emergency response",
+     0.064,
+     27.6
+    ],
+    [
+     "high school",
+     0.55,
+     2.2
+    ],
+    [
+     "possess a valid",
+     0.097,
+     12.2
+    ],
+    [
+     "police department",
+     0.059,
+     222.1
+    ],
+    [
+     "enforcement officer",
+     0.052,
+     1954.7
+    ],
+    [
+     "law enforcement officer",
+     0.052,
+     1954.7
+    ],
+    [
+     "medical examination",
+     0.05,
+     207.3
+    ],
+    [
+     "security law",
+     0.05,
+     932.9
+    ],
+    [
+     "security law enforcement",
+     0.05,
+     932.9
+    ],
+    [
+     "conflict management",
+     0.047,
+     33.5
+    ],
+    [
+     "standards and training",
+     0.045,
+     844.1
+    ],
+    [
+     "class c",
+     0.045,
+     20.3
+    ],
+    [
+     "criminal history",
+     0.066,
+     13.5
+    ],
+    [
+     "emergency situations",
+     0.066,
+     13.4
+    ],
+    [
+     "safety and security",
+     0.042,
+     38.1
+    ],
+    [
+     "psychological evaluation",
+     0.042,
+     228.5
+    ],
+    [
+     "officer standards",
+     0.042,
+     799.7
+    ],
+    [
+     "officer certification",
+     0.042,
+     533.1
+    ],
+    [
+     "enforcement training",
+     0.042,
+     1599.3
+    ],
+    [
+     "law enforcement training",
+     0.042,
+     1599.3
+    ],
+    [
+     "school diploma",
+     0.41,
+     2.0
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 71,
+     "top": [
+      [
+       "pennsylvania driver s",
+       0.085,
+       32.3
+      ],
+      [
+       "valid pennsylvania",
+       0.085,
+       32.3
+      ],
+      [
+       "act certification",
+       0.085,
+       16.1
+      ],
+      [
+       "pennsylvania driver",
+       0.085,
+       32.3
+      ],
+      [
+       "valid pennsylvania driver",
+       0.085,
+       32.3
+      ],
+      [
+       "access control",
+       0.127,
+       2.1
+      ],
+      [
+       "physical fitness",
+       0.113,
+       2.2
+      ],
+      [
+       "security military",
+       0.085,
+       2.7
+      ],
+      [
+       "guard license",
+       0.085,
+       2.7
+      ],
+      [
+       "general public",
+       0.085,
+       2.2
+      ],
+      [
+       "prior security",
+       0.085,
+       2.2
+      ],
+      [
+       "training program",
+       0.085,
+       1.9
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 94,
+     "top": [
+      [
+       "illinois law",
+       0.085,
+       30.6
+      ],
+      [
+       "illinois law enforcement",
+       0.074,
+       26.7
+      ],
+      [
+       "valid illinois",
+       0.064,
+       22.9
+      ],
+      [
+       "ohio peace",
+       0.064,
+       22.9
+      ],
+      [
+       "standards board",
+       0.064,
+       22.9
+      ],
+      [
+       "officer training",
+       0.064,
+       7.6
+      ],
+      [
+       "bachelor s",
+       0.181,
+       2.0
+      ],
+      [
+       "security procedures",
+       0.074,
+       4.5
+      ],
+      [
+       "drug screening",
+       0.138,
+       2.2
+      ],
+      [
+       "associate s",
+       0.096,
+       2.5
+      ],
+      [
+       "weather conditions",
+       0.117,
+       2.0
+      ],
+      [
+       "background checks",
+       0.074,
+       3.0
+      ],
+      [
+       "physical examination",
+       0.064,
+       3.3
+      ],
+      [
+       "age or older",
+       0.096,
+       2.0
+      ],
+      [
+       "hands and arms",
+       0.074,
+       2.4
+      ],
+      [
+       "verbal communication",
+       0.085,
+       1.9
+      ]
+     ]
+    },
+    "South": {
+     "employers": 150,
+     "top": [
+      [
+       "basic law",
+       0.093,
+       9.4
+      ],
+      [
+       "basic law enforcement",
+       0.093,
+       9.4
+      ],
+      [
+       "texas driver s",
+       0.08,
+       24.2
+      ],
+      [
+       "texas driver",
+       0.08,
+       24.2
+      ],
+      [
+       "valid texas",
+       0.08,
+       24.2
+      ],
+      [
+       "north carolina",
+       0.08,
+       12.1
+      ],
+      [
+       "texas commission",
+       0.073,
+       22.2
+      ],
+      [
+       "officer license",
+       0.067,
+       10.1
+      ],
+      [
+       "commission on law",
+       0.073,
+       7.4
+      ],
+      [
+       "moral character",
+       0.067,
+       6.7
+      ],
+      [
+       "good moral",
+       0.067,
+       6.7
+      ],
+      [
+       "good moral character",
+       0.067,
+       6.7
+      ],
+      [
+       "class d",
+       0.06,
+       6.1
+      ],
+      [
+       "visual acuity",
+       0.06,
+       6.1
+      ],
+      [
+       "equivalent combination",
+       0.087,
+       2.0
+      ],
+      [
+       "maintain effective",
+       0.087,
+       2.0
+      ],
+      [
+       "state and federal",
+       0.073,
+       2.2
+      ],
+      [
+       "stooping kneeling",
+       0.06,
+       2.6
+      ],
+      [
+       "pass a physical",
+       0.06,
+       2.6
+      ],
+      [
+       "officer certification",
+       0.067,
+       2.2
+      ]
+     ]
+    },
+    "West": {
+     "employers": 137,
+     "top": [
+      [
+       "valid california",
+       0.153,
+       48.4
+      ],
+      [
+       "guard card",
+       0.19,
+       6.7
+      ],
+      [
+       "california driver",
+       0.095,
+       30.0
+      ],
+      [
+       "washington state",
+       0.073,
+       23.1
+      ],
+      [
+       "california driver s",
+       0.066,
+       20.8
+      ],
+      [
+       "valid california driver",
+       0.066,
+       20.8
+      ],
+      [
+       "graduation from high",
+       0.08,
+       6.3
+      ],
+      [
+       "driving record",
+       0.248,
+       2.0
+      ],
+      [
+       "driver license",
+       0.102,
+       4.6
+      ],
+      [
+       "stand walk",
+       0.102,
+       2.3
+      ],
+      [
+       "clean driving record",
+       0.102,
+       2.2
+      ],
+      [
+       "verbal and written",
+       0.102,
+       2.2
+      ],
+      [
+       "security guard",
+       0.109,
+       2.0
+      ],
+      [
+       "felony convictions",
+       0.073,
+       2.9
+      ],
+      [
+       "clean driving",
+       0.102,
+       1.9
+      ],
+      [
+       "professional appearance",
+       0.088,
+       1.8
+      ],
+      [
+       "class c",
+       0.066,
+       1.9
+      ]
+     ]
+    }
+   }
+  },
+  "Healthcare": {
+   "employers": 1895,
+   "top": [
+    [
+     "medical assistant",
+     0.208,
+     90.7
+    ],
+    [
+     "physical therapy",
+     0.178,
+     280.7
+    ],
+    [
+     "physical therapist",
+     0.163,
+     1475.8
+    ],
+    [
+     "registered nurse",
+     0.134,
+     33.7
+    ],
+    [
+     "rn license",
+     0.13,
+     54.6
+    ],
+    [
+     "patient care",
+     0.167,
+     14.1
+    ],
+    [
+     "bls certification",
+     0.106,
+     39.6
+    ],
+    [
+     "assistant program",
+     0.09,
+     125.6
+    ],
+    [
+     "life support",
+     0.094,
+     17.0
+    ],
+    [
+     "basic life support",
+     0.08,
+     19.0
+    ],
+    [
+     "electronic medical",
+     0.074,
+     22.5
+    ],
+    [
+     "certified medical",
+     0.064,
+     82.6
+    ],
+    [
+     "physician assistant",
+     0.064,
+     256.8
+    ],
+    [
+     "certified medical assistant",
+     0.063,
+     108.3
+    ],
+    [
+     "accredited physical",
+     0.061,
+     2197.0
+    ],
+    [
+     "emr systems",
+     0.06,
+     40.7
+    ],
+    [
+     "medical license",
+     0.06,
+     136.1
+    ],
+    [
+     "medical terminology",
+     0.123,
+     9.5
+    ],
+    [
+     "accredited school",
+     0.065,
+     17.8
+    ],
+    [
+     "registered nurse rn",
+     0.056,
+     41.3
+    ],
+    [
+     "nurse rn",
+     0.056,
+     38.9
+    ],
+    [
+     "therapist assistant",
+     0.056,
+     2044.1
+    ],
+    [
+     "physical therapist assistant",
+     0.056,
+     2025.0
+    ],
+    [
+     "primary care",
+     0.055,
+     58.4
+    ],
+    [
+     "vital signs",
+     0.053,
+     24.8
+    ],
+    [
+     "internal medicine",
+     0.053,
+     159.2
+    ],
+    [
+     "life support bls",
+     0.055,
+     19.1
+    ],
+    [
+     "support bls",
+     0.055,
+     19.1
+    ],
+    [
+     "electronic medical records",
+     0.052,
+     22.0
+    ],
+    [
+     "accredited medical",
+     0.052,
+     124.8
+    ],
+    [
+     "nurse practitioner",
+     0.052,
+     187.2
+    ],
+    [
+     "assistant certification",
+     0.05,
+     43.2
+    ],
+    [
+     "medical assistant certification",
+     0.049,
+     125.5
+    ],
+    [
+     "therapy license",
+     0.049,
+     878.8
+    ],
+    [
+     "basic life",
+     0.081,
+     11.9
+    ],
+    [
+     "physical therapist license",
+     0.048,
+     579.5
+    ],
+    [
+     "therapist license",
+     0.048,
+     579.5
+    ],
+    [
+     "cpr certification",
+     0.099,
+     9.6
+    ],
+    [
+     "therapy program",
+     0.047,
+     573.1
+    ],
+    [
+     "board certification",
+     0.046,
+     28.7
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 354,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 470,
+     "top": [
+      [
+       "medical assistant program",
+       0.07,
+       1.8
+      ]
+     ]
+    },
+    "South": {
+     "employers": 630,
+     "top": []
+    },
+    "West": {
+     "employers": 590,
+     "top": []
+    }
+   }
+  },
+  "Real estate & property": {
+   "employers": 880,
+   "top": [
+    [
+     "real estate",
+     0.453,
+     50.8
+    ],
+    [
+     "property management",
+     0.353,
+     48.5
+    ],
+    [
+     "estate license",
+     0.243,
+     312.1
+    ],
+    [
+     "real estate license",
+     0.243,
+     312.1
+    ],
+    [
+     "property management software",
+     0.123,
+     120.2
+    ],
+    [
+     "fair housing",
+     0.119,
+     170.8
+    ],
+    [
+     "estate sales",
+     0.092,
+     285.5
+    ],
+    [
+     "real estate sales",
+     0.092,
+     285.5
+    ],
+    [
+     "lead generation",
+     0.065,
+     38.9
+    ],
+    [
+     "sales professional",
+     0.062,
+     211.5
+    ],
+    [
+     "licensed real estate",
+     0.06,
+     747.2
+    ],
+    [
+     "licensed real",
+     0.06,
+     747.2
+    ],
+    [
+     "active real",
+     0.06,
+     747.2
+    ],
+    [
+     "active real estate",
+     0.06,
+     747.2
+    ],
+    [
+     "real estate professional",
+     0.057,
+     704.9
+    ],
+    [
+     "estate professional",
+     0.057,
+     704.9
+    ],
+    [
+     "competitive spirit",
+     0.056,
+     259.0
+    ],
+    [
+     "building rapport",
+     0.055,
+     101.5
+    ],
+    [
+     "scripts and dialogues",
+     0.053,
+     662.6
+    ],
+    [
+     "overcoming objections",
+     0.052,
+     243.2
+    ],
+    [
+     "rapport listening",
+     0.052,
+     648.5
+    ],
+    [
+     "identifying solutions",
+     0.052,
+     389.1
+    ],
+    [
+     "prospecting and lead",
+     0.052,
+     243.2
+    ],
+    [
+     "learning based",
+     0.052,
+     648.5
+    ],
+    [
+     "needs of others",
+     0.051,
+     65.6
+    ],
+    [
+     "building rapport listening",
+     0.051,
+     634.4
+    ],
+    [
+     "motivated sales",
+     0.051,
+     475.8
+    ],
+    [
+     "motivated sales professional",
+     0.051,
+     951.6
+    ],
+    [
+     "others and identifying",
+     0.051,
+     951.6
+    ],
+    [
+     "intrinsically motivated",
+     0.05,
+     930.4
+    ],
+    [
+     "intrinsically motivated sales",
+     0.05,
+     930.4
+    ],
+    [
+     "committed to service",
+     0.05,
+     465.2
+    ],
+    [
+     "communicator and committed",
+     0.05,
+     930.4
+    ],
+    [
+     "management software",
+     0.139,
+     7.1
+    ],
+    [
+     "overcoming objections comes",
+     0.049,
+     909.3
+    ],
+    [
+     "comes naturally",
+     0.049,
+     606.2
+    ],
+    [
+     "solutions prospecting",
+     0.049,
+     909.3
+    ],
+    [
+     "identifying solutions prospecting",
+     0.049,
+     909.3
+    ],
+    [
+     "objections comes naturally",
+     0.049,
+     909.3
+    ],
+    [
+     "objections comes",
+     0.049,
+     909.3
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 189,
+     "top": [
+      [
+       "housing regulations",
+       0.069,
+       2.0
+      ],
+      [
+       "type full-time",
+       0.069,
+       1.9
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 227,
+     "top": [
+      [
+       "affordable housing",
+       0.079,
+       2.2
+      ]
+     ]
+    },
+    "South": {
+     "employers": 290,
+     "top": [
+      [
+       "social media",
+       0.093,
+       2.2
+      ]
+     ]
+    },
+    "West": {
+     "employers": 295,
+     "top": []
+    }
+   }
+  },
+  "Marketing": {
+   "employers": 1040,
+   "top": [
+    [
+     "social media",
+     0.461,
+     77.9
+    ],
+    [
+     "digital marketing",
+     0.221,
+     303.5
+    ],
+    [
+     "marketing communications",
+     0.206,
+     282.4
+    ],
+    [
+     "adobe creative",
+     0.171,
+     373.1
+    ],
+    [
+     "graphic design",
+     0.165,
+     266.5
+    ],
+    [
+     "content creation",
+     0.157,
+     252.5
+    ],
+    [
+     "creative suite",
+     0.142,
+     351.6
+    ],
+    [
+     "adobe creative suite",
+     0.141,
+     349.2
+    ],
+    [
+     "media platforms",
+     0.126,
+     93.4
+    ],
+    [
+     "social media platforms",
+     0.124,
+     93.8
+    ],
+    [
+     "public relations",
+     0.121,
+     89.8
+    ],
+    [
+     "media management",
+     0.119,
+     245.5
+    ],
+    [
+     "social media management",
+     0.116,
+     253.6
+    ],
+    [
+     "google analytics",
+     0.115,
+     213.8
+    ],
+    [
+     "video editing",
+     0.113,
+     420.5
+    ],
+    [
+     "email marketing",
+     0.094,
+     268.6
+    ],
+    [
+     "marketing business",
+     0.078,
+     151.9
+    ],
+    [
+     "content management",
+     0.071,
+     175.8
+    ],
+    [
+     "media content",
+     0.071,
+     239.7
+    ],
+    [
+     "social media content",
+     0.071,
+     239.7
+    ],
+    [
+     "marketing automation",
+     0.067,
+     356.3
+    ],
+    [
+     "media marketing",
+     0.066,
+     153.7
+    ],
+    [
+     "communications business",
+     0.06,
+     276.1
+    ],
+    [
+     "social media marketing",
+     0.06,
+     147.3
+    ],
+    [
+     "marketing campaigns",
+     0.059,
+     362.3
+    ],
+    [
+     "analytics tools",
+     0.056,
+     24.3
+    ],
+    [
+     "marketing communications business",
+     0.056,
+     688.9
+    ],
+    [
+     "marketing strategies",
+     0.054,
+     95.0
+    ],
+    [
+     "web analytics",
+     0.052,
+     240.5
+    ],
+    [
+     "marketing platforms",
+     0.05,
+     185.3
+    ],
+    [
+     "digital media",
+     0.049,
+     201.9
+    ],
+    [
+     "integrated marketing",
+     0.048,
+     445.4
+    ],
+    [
+     "short-form video",
+     0.048,
+     445.4
+    ],
+    [
+     "adobe photoshop",
+     0.046,
+     190.0
+    ],
+    [
+     "writing editing",
+     0.045,
+     239.2
+    ],
+    [
+     "editing software",
+     0.045,
+     186.1
+    ],
+    [
+     "content management systems",
+     0.045,
+     239.2
+    ],
+    [
+     "instagram tiktok",
+     0.045,
+     558.2
+    ],
+    [
+     "managing social",
+     0.044,
+     409.8
+    ],
+    [
+     "managing social media",
+     0.042,
+     391.9
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 200,
+     "top": [
+      [
+       "short-form video",
+       0.08,
+       2.0
+      ],
+      [
+       "business administration",
+       0.065,
+       2.0
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 264,
+     "top": []
+    },
+    "South": {
+     "employers": 299,
+     "top": [
+      [
+       "media marketing",
+       0.097,
+       1.9
+      ],
+      [
+       "social media marketing",
+       0.087,
+       1.9
+      ],
+      [
+       "high school",
+       0.084,
+       1.9
+      ],
+      [
+       "extended periods",
+       0.064,
+       2.1
+      ],
+      [
+       "school diploma",
+       0.064,
+       2.0
+      ],
+      [
+       "high school diploma",
+       0.064,
+       2.0
+      ],
+      [
+       "up to pounds",
+       0.064,
+       1.9
+      ],
+      [
+       "instagram tiktok",
+       0.067,
+       1.8
+      ]
+     ]
+    },
+    "West": {
+     "employers": 323,
+     "top": [
+      [
+       "tools like",
+       0.062,
+       2.3
+      ]
+     ]
+    }
+   }
+  },
+  "AI & data": {
+   "employers": 943,
+   "top": [
+    [
+     "computer science",
+     0.417,
+     16.8
+    ],
+    [
+     "machine learning",
+     0.256,
+     94.0
+    ],
+    [
+     "power bi",
+     0.252,
+     23.6
+    ],
+    [
+     "data science",
+     0.201,
+     57.6
+    ],
+    [
+     "data analytics",
+     0.183,
+     41.8
+    ],
+    [
+     "information systems",
+     0.192,
+     17.6
+    ],
+    [
+     "data analysis",
+     0.201,
+     15.9
+    ],
+    [
+     "business intelligence",
+     0.145,
+     36.0
+    ],
+    [
+     "data visualization",
+     0.135,
+     37.6
+    ],
+    [
+     "data modeling",
+     0.107,
+     23.5
+    ],
+    [
+     "bachelor s",
+     0.615,
+     3.0
+    ],
+    [
+     "data quality",
+     0.091,
+     30.5
+    ],
+    [
+     "software engineering",
+     0.115,
+     14.1
+    ],
+    [
+     "data engineering",
+     0.087,
+     18.5
+    ],
+    [
+     "visualization tools",
+     0.077,
+     35.1
+    ],
+    [
+     "business analysis",
+     0.073,
+     68.0
+    ],
+    [
+     "data management",
+     0.084,
+     17.1
+    ],
+    [
+     "generative ai",
+     0.071,
+     34.3
+    ],
+    [
+     "data governance",
+     0.071,
+     36.7
+    ],
+    [
+     "data platforms",
+     0.07,
+     22.6
+    ],
+    [
+     "science engineering",
+     0.074,
+     18.8
+    ],
+    [
+     "science computer",
+     0.069,
+     31.6
+    ],
+    [
+     "data pipelines",
+     0.066,
+     21.6
+    ],
+    [
+     "business analytics",
+     0.064,
+     30.7
+    ],
+    [
+     "statistical analysis",
+     0.062,
+     35.2
+    ],
+    [
+     "technical and non-technical",
+     0.074,
+     16.7
+    ],
+    [
+     "non-technical audiences",
+     0.06,
+     27.7
+    ],
+    [
+     "science information",
+     0.083,
+     14.4
+    ],
+    [
+     "large datasets",
+     0.059,
+     26.0
+    ],
+    [
+     "software development",
+     0.102,
+     11.4
+    ],
+    [
+     "computer science engineering",
+     0.058,
+     20.3
+    ],
+    [
+     "master s",
+     0.201,
+     5.7
+    ],
+    [
+     "proficiency in python",
+     0.056,
+     27.5
+    ],
+    [
+     "complex data",
+     0.055,
+     22.0
+    ],
+    [
+     "science information systems",
+     0.055,
+     20.9
+    ],
+    [
+     "artificial intelligence",
+     0.065,
+     16.8
+    ],
+    [
+     "business requirements",
+     0.054,
+     28.7
+    ],
+    [
+     "data visualization tools",
+     0.052,
+     34.5
+    ],
+    [
+     "science data",
+     0.051,
+     43.0
+    ],
+    [
+     "understanding of data",
+     0.05,
+     22.3
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 211,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 228,
+     "top": [
+      [
+       "mechanical engineering",
+       0.092,
+       2.7
+      ],
+      [
+       "business analysis",
+       0.11,
+       1.9
+      ],
+      [
+       "complex technical",
+       0.075,
+       2.0
+      ],
+      [
+       "continuous improvement",
+       0.07,
+       2.0
+      ],
+      [
+       "technical teams",
+       0.061,
+       2.2
+      ],
+      [
+       "computer science data",
+       0.066,
+       1.9
+      ],
+      [
+       "proficiency in sql",
+       0.066,
+       1.8
+      ]
+     ]
+    },
+    "South": {
+     "employers": 303,
+     "top": [
+      [
+       "analytical and problem-solving",
+       0.125,
+       2.0
+      ],
+      [
+       "data governance",
+       0.099,
+       1.8
+      ],
+      [
+       "pivot tables",
+       0.076,
+       1.9
+      ],
+      [
+       "translate business",
+       0.063,
+       2.2
+      ],
+      [
+       "analytics business",
+       0.066,
+       2.1
+      ],
+      [
+       "multiple projects",
+       0.066,
+       1.8
+      ]
+     ]
+    },
+    "West": {
+     "employers": 324,
+     "top": [
+      [
+       "cloud data",
+       0.071,
+       2.1
+      ],
+      [
+       "python r",
+       0.068,
+       2.1
+      ],
+      [
+       "computer vision",
+       0.068,
+       2.1
+      ],
+      [
+       "deep learning",
+       0.065,
+       1.9
+      ]
+     ]
+    }
+   }
+  },
+  "Admin & office": {
+   "employers": 1875,
+   "top": [
+    [
+     "office management",
+     0.148,
+     48.8
+    ],
+    [
+     "front desk",
+     0.146,
+     16.5
+    ],
+    [
+     "phone systems",
+     0.074,
+     19.6
+    ],
+    [
+     "multi-line phone",
+     0.07,
+     22.6
+    ],
+    [
+     "multi-line phone systems",
+     0.061,
+     22.9
+    ],
+    [
+     "medical office",
+     0.075,
+     14.9
+    ],
+    [
+     "phone etiquette",
+     0.091,
+     11.6
+    ],
+    [
+     "microsoft office",
+     0.336,
+     2.8
+    ],
+    [
+     "customer service",
+     0.388,
+     2.4
+    ],
+    [
+     "office administration",
+     0.045,
+     25.0
+    ],
+    [
+     "administrative support",
+     0.057,
+     15.2
+    ],
+    [
+     "suite word excel",
+     0.078,
+     10.9
+    ],
+    [
+     "computer literacy",
+     0.074,
+     11.4
+    ],
+    [
+     "front office",
+     0.042,
+     37.2
+    ],
+    [
+     "personal assistant",
+     0.041,
+     37.6
+    ],
+    [
+     "office suite word",
+     0.079,
+     10.2
+    ],
+    [
+     "suite word",
+     0.079,
+     10.0
+    ],
+    [
+     "word excel",
+     0.177,
+     4.4
+    ],
+    [
+     "data entry",
+     0.114,
+     5.8
+    ],
+    [
+     "word excel outlook",
+     0.085,
+     7.1
+    ],
+    [
+     "bilingual abilities",
+     0.054,
+     10.5
+    ],
+    [
+     "excel outlook",
+     0.091,
+     6.2
+    ],
+    [
+     "proficiency in microsoft",
+     0.139,
+     4.0
+    ],
+    [
+     "attention to detail",
+     0.327,
+     1.7
+    ],
+    [
+     "high school",
+     0.365,
+     1.5
+    ],
+    [
+     "prioritize tasks",
+     0.089,
+     5.8
+    ],
+    [
+     "microsoft office suite",
+     0.143,
+     3.6
+    ],
+    [
+     "office suite",
+     0.151,
+     3.3
+    ],
+    [
+     "school diploma",
+     0.294,
+     1.5
+    ],
+    [
+     "high school diploma",
+     0.294,
+     1.5
+    ],
+    [
+     "google workspace",
+     0.051,
+     8.6
+    ],
+    [
+     "tasks effectively",
+     0.043,
+     8.0
+    ],
+    [
+     "fast-paced environment",
+     0.161,
+     2.0
+    ],
+    [
+     "office equipment",
+     0.067,
+     4.3
+    ],
+    [
+     "diploma or equivalent",
+     0.167,
+     1.7
+    ],
+    [
+     "office environment",
+     0.049,
+     5.1
+    ],
+    [
+     "verbal and written",
+     0.131,
+     1.7
+    ],
+    [
+     "confidential information",
+     0.048,
+     4.5
+    ],
+    [
+     "location in person",
+     0.144,
+     1.5
+    ],
+    [
+     "verbal communication",
+     0.119,
+     1.5
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 367,
+     "top": [
+      [
+       "maintain confidentiality",
+       0.074,
+       1.8
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 436,
+     "top": []
+    },
+    "South": {
+     "employers": 595,
+     "top": [
+      [
+       "bilingual abilities",
+       0.081,
+       1.9
+      ]
+     ]
+    },
+    "West": {
+     "employers": 557,
+     "top": []
+    }
+   }
+  },
+  "Retail": {
+   "employers": 731,
+   "top": [
+    [
+     "pos systems",
+     0.159,
+     26.0
+    ],
+    [
+     "retail sales",
+     0.12,
+     28.5
+    ],
+    [
+     "cash handling",
+     0.144,
+     13.3
+    ],
+    [
+     "cash register",
+     0.089,
+     73.8
+    ],
+    [
+     "retail environment",
+     0.086,
+     57.5
+    ],
+    [
+     "basic math",
+     0.22,
+     7.5
+    ],
+    [
+     "customer service",
+     0.506,
+     3.1
+    ],
+    [
+     "familiarity with pos",
+     0.078,
+     28.0
+    ],
+    [
+     "weekends and holidays",
+     0.172,
+     8.8
+    ],
+    [
+     "retail math",
+     0.074,
+     65.7
+    ],
+    [
+     "previous retail",
+     0.066,
+     70.1
+    ],
+    [
+     "retail management",
+     0.063,
+     168.0
+    ],
+    [
+     "flexible schedule",
+     0.119,
+     9.6
+    ],
+    [
+     "retail store",
+     0.055,
+     37.2
+    ],
+    [
+     "store operations",
+     0.052,
+     88.3
+    ],
+    [
+     "cash transactions",
+     0.051,
+     28.7
+    ],
+    [
+     "handling cash",
+     0.051,
+     31.5
+    ],
+    [
+     "point of sale",
+     0.048,
+     45.9
+    ],
+    [
+     "store manager",
+     0.048,
+     178.9
+    ],
+    [
+     "sales floor",
+     0.047,
+     248.3
+    ],
+    [
+     "transactions accurately",
+     0.047,
+     25.2
+    ],
+    [
+     "evenings weekends",
+     0.093,
+     10.0
+    ],
+    [
+     "throughout the store",
+     0.041,
+     170.4
+    ],
+    [
+     "nights weekends",
+     0.075,
+     10.3
+    ],
+    [
+     "food service",
+     0.092,
+     6.7
+    ],
+    [
+     "food safety",
+     0.105,
+     5.4
+    ],
+    [
+     "handling procedures",
+     0.052,
+     10.7
+    ],
+    [
+     "age or older",
+     0.067,
+     6.6
+    ],
+    [
+     "extended periods",
+     0.146,
+     2.9
+    ],
+    [
+     "fast-paced environment",
+     0.182,
+     2.2
+    ],
+    [
+     "stand for extended",
+     0.071,
+     5.6
+    ],
+    [
+     "food industry",
+     0.053,
+     6.3
+    ],
+    [
+     "up to lbs",
+     0.126,
+     2.6
+    ],
+    [
+     "high school",
+     0.279,
+     1.1
+    ],
+    [
+     "food handling",
+     0.052,
+     5.6
+    ],
+    [
+     "positive attitude",
+     0.093,
+     2.9
+    ],
+    [
+     "up to pounds",
+     0.116,
+     1.8
+    ],
+    [
+     "types full-time",
+     0.059,
+     3.5
+    ],
+    [
+     "types full-time part-time",
+     0.057,
+     3.6
+    ],
+    [
+     "school diploma",
+     0.2,
+     1.0
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 193,
+     "top": [
+      [
+       "inventory management",
+       0.062,
+       1.8
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 221,
+     "top": [
+      [
+       "background check",
+       0.063,
+       2.0
+      ]
+     ]
+    },
+    "South": {
+     "employers": 291,
+     "top": [
+      [
+       "food industry",
+       0.062,
+       2.0
+      ]
+     ]
+    },
+    "West": {
+     "employers": 279,
+     "top": [
+      [
+       "food handler",
+       0.079,
+       7.0
+      ],
+      [
+       "point of sale",
+       0.075,
+       2.0
+      ]
+     ]
+    }
+   }
+  },
+  "Sales": {
+   "employers": 955,
+   "top": [
+    [
+     "account management",
+     0.124,
+     59.6
+    ],
+    [
+     "business development",
+     0.118,
+     23.3
+    ],
+    [
+     "outside sales",
+     0.079,
+     47.0
+    ],
+    [
+     "b2b sales",
+     0.063,
+     155.6
+    ],
+    [
+     "inside sales",
+     0.048,
+     57.7
+    ],
+    [
+     "sales targets",
+     0.047,
+     56.5
+    ],
+    [
+     "track record",
+     0.159,
+     5.7
+    ],
+    [
+     "business marketing",
+     0.045,
+     44.0
+    ],
+    [
+     "customer relationships",
+     0.045,
+     31.0
+    ],
+    [
+     "crm software",
+     0.044,
+     22.4
+    ],
+    [
+     "crm systems",
+     0.064,
+     13.6
+    ],
+    [
+     "meeting or exceeding",
+     0.041,
+     33.0
+    ],
+    [
+     "proven track",
+     0.091,
+     6.4
+    ],
+    [
+     "proven track record",
+     0.091,
+     6.4
+    ],
+    [
+     "customer needs",
+     0.044,
+     9.2
+    ],
+    [
+     "customer service",
+     0.26,
+     1.5
+    ],
+    [
+     "relationship management",
+     0.045,
+     7.6
+    ],
+    [
+     "bachelor s",
+     0.267,
+     1.2
+    ],
+    [
+     "demonstrated success",
+     0.051,
+     6.1
+    ],
+    [
+     "driver s",
+     0.181,
+     1.3
+    ],
+    [
+     "driver s license",
+     0.18,
+     1.3
+    ],
+    [
+     "s license",
+     0.18,
+     1.3
+    ],
+    [
+     "microsoft office",
+     0.173,
+     1.3
+    ],
+    [
+     "valid driver",
+     0.14,
+     1.5
+    ],
+    [
+     "valid driver s",
+     0.14,
+     1.5
+    ],
+    [
+     "verbal and written",
+     0.104,
+     1.3
+    ],
+    [
+     "reliable transportation",
+     0.071,
+     1.6
+    ],
+    [
+     "manage multiple",
+     0.094,
+     1.2
+    ],
+    [
+     "written communication",
+     0.092,
+     1.2
+    ],
+    [
+     "office suite",
+     0.07,
+     1.4
+    ],
+    [
+     "high school",
+     0.159,
+     0.6
+    ],
+    [
+     "microsoft office suite",
+     0.064,
+     1.4
+    ],
+    [
+     "word excel",
+     0.059,
+     1.3
+    ],
+    [
+     "school diploma",
+     0.127,
+     0.6
+    ],
+    [
+     "high school diploma",
+     0.126,
+     0.6
+    ],
+    [
+     "essential functions",
+     0.051,
+     1.4
+    ],
+    [
+     "written and verbal",
+     0.077,
+     0.9
+    ],
+    [
+     "attention to detail",
+     0.114,
+     0.6
+    ],
+    [
+     "fast-paced environment",
+     0.074,
+     0.9
+    ],
+    [
+     "verbal communication",
+     0.071,
+     0.9
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 186,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 272,
+     "top": []
+    },
+    "South": {
+     "employers": 320,
+     "top": []
+    },
+    "West": {
+     "employers": 308,
+     "top": [
+      [
+       "location in person",
+       0.094,
+       2.6
+      ],
+      [
+       "sales targets",
+       0.068,
+       2.0
+      ]
+     ]
+    }
+   }
+  },
+  "Manufacturing": {
+   "employers": 2116,
+   "top": [
+    [
+     "manufacturing environment",
+     0.222,
+     15.8
+    ],
+    [
+     "gd t",
+     0.109,
+     27.5
+    ],
+    [
+     "quality control",
+     0.114,
+     16.5
+    ],
+    [
+     "lean manufacturing",
+     0.075,
+     32.2
+    ],
+    [
+     "precision measuring",
+     0.07,
+     114.4
+    ],
+    [
+     "cnc machining",
+     0.063,
+     98.3
+    ],
+    [
+     "engineering drawings",
+     0.07,
+     17.5
+    ],
+    [
+     "measuring instruments",
+     0.058,
+     42.3
+    ],
+    [
+     "cnc programming",
+     0.053,
+     213.5
+    ],
+    [
+     "read and interpret",
+     0.145,
+     7.2
+    ],
+    [
+     "measuring tools",
+     0.052,
+     46.8
+    ],
+    [
+     "calipers micrometers",
+     0.052,
+     53.4
+    ],
+    [
+     "production environment",
+     0.067,
+     15.3
+    ],
+    [
+     "quality inspection",
+     0.05,
+     128.7
+    ],
+    [
+     "high school",
+     0.444,
+     1.8
+    ],
+    [
+     "quality management",
+     0.042,
+     18.7
+    ],
+    [
+     "school diploma",
+     0.389,
+     2.0
+    ],
+    [
+     "high school diploma",
+     0.387,
+     2.0
+    ],
+    [
+     "mechanical aptitude",
+     0.086,
+     8.1
+    ],
+    [
+     "manufacturing processes",
+     0.055,
+     11.6
+    ],
+    [
+     "continuous improvement",
+     0.094,
+     6.5
+    ],
+    [
+     "attention to detail",
+     0.309,
+     1.6
+    ],
+    [
+     "six sigma",
+     0.046,
+     10.2
+    ],
+    [
+     "quality standards",
+     0.052,
+     8.6
+    ],
+    [
+     "quality assurance",
+     0.051,
+     8.7
+    ],
+    [
+     "diploma or equivalent",
+     0.191,
+     2.0
+    ],
+    [
+     "basic math",
+     0.105,
+     3.6
+    ],
+    [
+     "diploma or ged",
+     0.148,
+     2.4
+    ],
+    [
+     "lift up",
+     0.113,
+     2.9
+    ],
+    [
+     "up to lbs",
+     0.119,
+     2.6
+    ],
+    [
+     "technical drawings",
+     0.057,
+     5.2
+    ],
+    [
+     "extended periods",
+     0.112,
+     2.3
+    ],
+    [
+     "up to pounds",
+     0.121,
+     2.0
+    ],
+    [
+     "read and understand",
+     0.042,
+     5.4
+    ],
+    [
+     "basic computer",
+     0.082,
+     2.6
+    ],
+    [
+     "protective equipment",
+     0.044,
+     4.8
+    ],
+    [
+     "personal protective equipment",
+     0.042,
+     4.9
+    ],
+    [
+     "personal protective",
+     0.042,
+     4.9
+    ],
+    [
+     "stand for extended",
+     0.046,
+     3.9
+    ],
+    [
+     "hand tools",
+     0.066,
+     2.2
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 459,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 515,
+     "top": []
+    },
+    "South": {
+     "employers": 632,
+     "top": []
+    },
+    "West": {
+     "employers": 648,
+     "top": []
+    }
+   }
+  },
+  "Warehouse & logistics": {
+   "employers": 1776,
+   "top": [
+    [
+     "supply chain",
+     0.19,
+     21.9
+    ],
+    [
+     "inventory management",
+     0.105,
+     16.3
+    ],
+    [
+     "warehouse operations",
+     0.07,
+     35.0
+    ],
+    [
+     "warehouse environment",
+     0.067,
+     35.3
+    ],
+    [
+     "inventory control",
+     0.073,
+     18.2
+    ],
+    [
+     "warehouse management",
+     0.058,
+     65.8
+    ],
+    [
+     "chain management",
+     0.056,
+     28.5
+    ],
+    [
+     "supply chain management",
+     0.056,
+     29.3
+    ],
+    [
+     "forklift certification",
+     0.053,
+     24.0
+    ],
+    [
+     "pallet jacks",
+     0.048,
+     18.5
+    ],
+    [
+     "warehouse equipment",
+     0.043,
+     78.7
+    ],
+    [
+     "material handling",
+     0.055,
+     11.9
+    ],
+    [
+     "high school",
+     0.392,
+     1.6
+    ],
+    [
+     "attention to detail",
+     0.339,
+     1.7
+    ],
+    [
+     "school diploma",
+     0.337,
+     1.7
+    ],
+    [
+     "high school diploma",
+     0.335,
+     1.7
+    ],
+    [
+     "microsoft excel",
+     0.097,
+     4.1
+    ],
+    [
+     "erp systems",
+     0.055,
+     6.7
+    ],
+    [
+     "diploma or equivalent",
+     0.163,
+     1.7
+    ],
+    [
+     "up to lbs",
+     0.113,
+     2.4
+    ],
+    [
+     "management systems",
+     0.081,
+     3.2
+    ],
+    [
+     "microsoft office",
+     0.181,
+     1.4
+    ],
+    [
+     "up to pounds",
+     0.118,
+     1.9
+    ],
+    [
+     "basic math",
+     0.082,
+     2.7
+    ],
+    [
+     "basic computer",
+     0.085,
+     2.6
+    ],
+    [
+     "bachelor s",
+     0.208,
+     1.0
+    ],
+    [
+     "diploma or ged",
+     0.114,
+     1.8
+    ],
+    [
+     "lift up",
+     0.09,
+     2.2
+    ],
+    [
+     "fast-paced environment",
+     0.125,
+     1.5
+    ],
+    [
+     "extended periods",
+     0.093,
+     1.9
+    ],
+    [
+     "written and verbal",
+     0.12,
+     1.4
+    ],
+    [
+     "power bi",
+     0.05,
+     3.3
+    ],
+    [
+     "customer service",
+     0.158,
+     0.9
+    ],
+    [
+     "proficiency in microsoft",
+     0.073,
+     1.9
+    ],
+    [
+     "written communication",
+     0.102,
+     1.3
+    ],
+    [
+     "verbal communication",
+     0.099,
+     1.3
+    ],
+    [
+     "manage multiple",
+     0.097,
+     1.3
+    ],
+    [
+     "data analysis",
+     0.043,
+     2.7
+    ],
+    [
+     "multiple priorities",
+     0.063,
+     1.7
+    ],
+    [
+     "stand walk",
+     0.044,
+     2.3
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 361,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 460,
+     "top": []
+    },
+    "South": {
+     "employers": 594,
+     "top": [
+      [
+       "business administration",
+       0.076,
+       2.4
+      ]
+     ]
+    },
+    "West": {
+     "employers": 548,
+     "top": [
+      [
+       "driving record",
+       0.06,
+       1.9
+      ]
+     ]
+    }
+   }
+  },
+  "Education": {
+   "employers": 1146,
+   "top": [
+    [
+     "special education",
+     0.326,
+     61.2
+    ],
+    [
+     "early childhood",
+     0.298,
+     23.1
+    ],
+    [
+     "childhood education",
+     0.25,
+     22.5
+    ],
+    [
+     "early childhood education",
+     0.248,
+     22.7
+    ],
+    [
+     "classroom management",
+     0.173,
+     28.8
+    ],
+    [
+     "child development",
+     0.168,
+     22.5
+    ],
+    [
+     "young children",
+     0.148,
+     23.1
+    ],
+    [
+     "behavior management",
+     0.133,
+     28.7
+    ],
+    [
+     "childhood development",
+     0.126,
+     22.2
+    ],
+    [
+     "management techniques",
+     0.113,
+     22.5
+    ],
+    [
+     "special needs",
+     0.093,
+     26.5
+    ],
+    [
+     "development principles",
+     0.094,
+     19.1
+    ],
+    [
+     "first aid",
+     0.168,
+     9.6
+    ],
+    [
+     "childhood development principles",
+     0.074,
+     20.8
+    ],
+    [
+     "curriculum development",
+     0.067,
+     23.2
+    ],
+    [
+     "young learners",
+     0.062,
+     27.9
+    ],
+    [
+     "management strategies",
+     0.063,
+     19.2
+    ],
+    [
+     "behavior management techniques",
+     0.058,
+     29.2
+    ],
+    [
+     "lesson planning",
+     0.055,
+     29.4
+    ],
+    [
+     "literacy education",
+     0.054,
+     30.3
+    ],
+    [
+     "classroom management techniques",
+     0.054,
+     30.8
+    ],
+    [
+     "aid and cpr",
+     0.072,
+     14.6
+    ],
+    [
+     "autism spectrum",
+     0.051,
+     32.8
+    ],
+    [
+     "learning environment",
+     0.051,
+     22.3
+    ],
+    [
+     "development associate",
+     0.051,
+     24.7
+    ],
+    [
+     "child development associate",
+     0.051,
+     25.4
+    ],
+    [
+     "students with disabilities",
+     0.048,
+     591.1
+    ],
+    [
+     "children with disabilities",
+     0.047,
+     36.3
+    ],
+    [
+     "children parents",
+     0.052,
+     17.9
+    ],
+    [
+     "behavior management strategies",
+     0.045,
+     26.2
+    ],
+    [
+     "early intervention",
+     0.044,
+     19.4
+    ],
+    [
+     "certification in first",
+     0.053,
+     16.0
+    ],
+    [
+     "education practices",
+     0.042,
+     36.8
+    ],
+    [
+     "teaching certification",
+     0.041,
+     168.4
+    ],
+    [
+     "developmental disabilities",
+     0.062,
+     13.1
+    ],
+    [
+     "child care",
+     0.045,
+     15.7
+    ],
+    [
+     "children s",
+     0.051,
+     13.1
+    ],
+    [
+     "high school",
+     0.351,
+     1.4
+    ],
+    [
+     "aid certification",
+     0.061,
+     8.0
+    ],
+    [
+     "cpr and first",
+     0.046,
+     10.5
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 215,
+     "top": [
+      [
+       "child abuse",
+       0.084,
+       6.8
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 285,
+     "top": [
+      [
+       "early intervention",
+       0.07,
+       2.1
+      ],
+      [
+       "literacy education",
+       0.081,
+       1.8
+      ]
+     ]
+    },
+    "South": {
+     "employers": 372,
+     "top": [
+      [
+       "communicate effectively",
+       0.113,
+       2.7
+      ],
+      [
+       "diploma or ged",
+       0.124,
+       2.1
+      ],
+      [
+       "children with disabilities",
+       0.078,
+       2.5
+      ],
+      [
+       "verbal and written",
+       0.075,
+       2.2
+      ],
+      [
+       "classroom management techniques",
+       0.081,
+       2.0
+      ],
+      [
+       "education practices",
+       0.062,
+       2.0
+      ]
+     ]
+    },
+    "West": {
+     "employers": 321,
+     "top": [
+      [
+       "fingerprint clearance",
+       0.078,
+       9.7
+      ],
+      [
+       "s license",
+       0.1,
+       1.8
+      ]
+     ]
+    }
+   }
+  },
+  "Social services": {
+   "employers": 1666,
+   "top": [
+    [
+     "mental health",
+     0.21,
+     37.3
+    ],
+    [
+     "case management",
+     0.195,
+     37.6
+    ],
+    [
+     "behavioral health",
+     0.184,
+     23.8
+    ],
+    [
+     "human services",
+     0.147,
+     61.6
+    ],
+    [
+     "social worker",
+     0.104,
+     270.2
+    ],
+    [
+     "master s",
+     0.229,
+     7.5
+    ],
+    [
+     "social services",
+     0.083,
+     55.9
+    ],
+    [
+     "crisis intervention",
+     0.079,
+     66.6
+    ],
+    [
+     "substance use",
+     0.067,
+     54.4
+    ],
+    [
+     "community resources",
+     0.067,
+     121.4
+    ],
+    [
+     "social work psychology",
+     0.065,
+     214.7
+    ],
+    [
+     "clinical social",
+     0.058,
+     524.8
+    ],
+    [
+     "rbt certification",
+     0.055,
+     64.9
+    ],
+    [
+     "clinical social worker",
+     0.053,
+     481.1
+    ],
+    [
+     "psychology social",
+     0.052,
+     104.5
+    ],
+    [
+     "behavior technician",
+     0.05,
+     52.5
+    ],
+    [
+     "marriage and family",
+     0.042,
+     382.7
+    ],
+    [
+     "registered behavior",
+     0.041,
+     53.1
+    ],
+    [
+     "registered behavior technician",
+     0.04,
+     52.3
+    ],
+    [
+     "case manager",
+     0.04,
+     66.6
+    ],
+    [
+     "developmental disabilities",
+     0.056,
+     13.5
+    ],
+    [
+     "diverse populations",
+     0.042,
+     16.1
+    ],
+    [
+     "s license",
+     0.285,
+     2.1
+    ],
+    [
+     "driver s",
+     0.283,
+     2.1
+    ],
+    [
+     "driver s license",
+     0.282,
+     2.1
+    ],
+    [
+     "bachelor s",
+     0.315,
+     1.5
+    ],
+    [
+     "reliable transportation",
+     0.136,
+     3.4
+    ],
+    [
+     "registered nurse",
+     0.059,
+     7.1
+    ],
+    [
+     "valid driver",
+     0.175,
+     1.9
+    ],
+    [
+     "valid driver s",
+     0.173,
+     1.9
+    ],
+    [
+     "high school",
+     0.276,
+     1.1
+    ],
+    [
+     "health care",
+     0.056,
+     5.4
+    ],
+    [
+     "electronic health",
+     0.041,
+     6.6
+    ],
+    [
+     "background check",
+     0.117,
+     2.2
+    ],
+    [
+     "school diploma",
+     0.228,
+     1.1
+    ],
+    [
+     "high school diploma",
+     0.227,
+     1.1
+    ],
+    [
+     "medical records",
+     0.043,
+     5.6
+    ],
+    [
+     "cpr certification",
+     0.052,
+     3.9
+    ],
+    [
+     "patient care",
+     0.054,
+     3.0
+    ],
+    [
+     "first aid",
+     0.056,
+     2.8
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 322,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 413,
+     "top": []
+    },
+    "South": {
+     "employers": 500,
+     "top": [
+      [
+       "rbt certification",
+       0.098,
+       2.2
+      ],
+      [
+       "registered behavior",
+       0.066,
+       2.1
+      ],
+      [
+       "registered behavior technician",
+       0.064,
+       2.0
+      ]
+     ]
+    },
+    "West": {
+     "employers": 510,
+     "top": [
+      [
+       "first aid",
+       0.094,
+       2.2
+      ]
+     ]
+    }
+   }
+  },
+  "Energy & utilities": {
+   "employers": 157,
+   "top": [
+    [
+     "power plant",
+     0.153,
+     187.1
+    ],
+    [
+     "solar installation",
+     0.121,
+     510.2
+    ],
+    [
+     "high voltage",
+     0.102,
+     45.0
+    ],
+    [
+     "renewable energy",
+     0.089,
+     52.0
+    ],
+    [
+     "weather conditions",
+     0.153,
+     7.8
+    ],
+    [
+     "electrical systems",
+     0.134,
+     8.7
+    ],
+    [
+     "climb ladders",
+     0.083,
+     12.0
+    ],
+    [
+     "high school",
+     0.478,
+     1.9
+    ],
+    [
+     "high school diploma",
+     0.395,
+     1.9
+    ],
+    [
+     "school diploma",
+     0.395,
+     1.9
+    ],
+    [
+     "driver s license",
+     0.325,
+     2.3
+    ],
+    [
+     "driver s",
+     0.325,
+     2.3
+    ],
+    [
+     "s license",
+     0.325,
+     2.3
+    ],
+    [
+     "hand tools",
+     0.14,
+     4.5
+    ],
+    [
+     "valid driver",
+     0.242,
+     2.5
+    ],
+    [
+     "valid driver s",
+     0.236,
+     2.5
+    ],
+    [
+     "power tools",
+     0.115,
+     4.4
+    ],
+    [
+     "read and interpret",
+     0.115,
+     4.3
+    ],
+    [
+     "safety procedures",
+     0.076,
+     5.4
+    ],
+    [
+     "diploma or equivalent",
+     0.197,
+     2.0
+    ],
+    [
+     "driving record",
+     0.121,
+     2.5
+    ],
+    [
+     "diploma or ged",
+     0.14,
+     2.1
+    ],
+    [
+     "clean driving",
+     0.083,
+     3.2
+    ],
+    [
+     "up to lbs",
+     0.115,
+     2.3
+    ],
+    [
+     "up to pounds",
+     0.127,
+     2.0
+    ],
+    [
+     "lift up",
+     0.102,
+     2.4
+    ],
+    [
+     "clean driving record",
+     0.076,
+     3.0
+    ],
+    [
+     "background check",
+     0.108,
+     1.9
+    ],
+    [
+     "attention to detail",
+     0.204,
+     1.0
+    ],
+    [
+     "reliable transportation",
+     0.076,
+     1.7
+    ],
+    [
+     "extended periods",
+     0.076,
+     1.5
+    ],
+    [
+     "customer service",
+     0.127,
+     0.7
+    ],
+    [
+     "verbal and written",
+     0.076,
+     1.0
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 45,
+     "top": [
+      [
+       "renewable energy",
+       0.156,
+       2.5
+      ]
+     ]
+    },
+    "South": {
+     "employers": 46,
+     "top": []
+    },
+    "West": {
+     "employers": 46,
+     "top": [
+      [
+       "solar installation",
+       0.196,
+       2.3
+      ],
+      [
+       "lift up",
+       0.174,
+       2.5
+      ],
+      [
+       "driving record",
+       0.217,
+       2.0
+      ],
+      [
+       "written and verbal",
+       0.13,
+       3.3
+      ],
+      [
+       "clean driving",
+       0.152,
+       2.8
+      ],
+      [
+       "background check",
+       0.174,
+       2.2
+      ],
+      [
+       "up to lbs",
+       0.174,
+       1.9
+      ],
+      [
+       "clean driving record",
+       0.13,
+       2.4
+      ],
+      [
+       "electrical equipment",
+       0.13,
+       1.9
+      ]
+     ]
+    }
+   }
+  },
+  "Software & IT": {
+   "employers": 1908,
+   "top": [
+    [
+     "computer science",
+     0.424,
+     30.5
+    ],
+    [
+     "information technology",
+     0.199,
+     55.4
+    ],
+    [
+     "software development",
+     0.158,
+     45.1
+    ],
+    [
+     "software engineering",
+     0.149,
+     43.6
+    ],
+    [
+     "operating systems",
+     0.133,
+     54.5
+    ],
+    [
+     "active directory",
+     0.121,
+     365.1
+    ],
+    [
+     "science information",
+     0.106,
+     42.6
+    ],
+    [
+     "computer science information",
+     0.102,
+     45.7
+    ],
+    [
+     "information systems",
+     0.133,
+     14.4
+    ],
+    [
+     "technical support",
+     0.09,
+     46.3
+    ],
+    [
+     "information security",
+     0.089,
+     89.6
+    ],
+    [
+     "data engineering",
+     0.088,
+     35.8
+    ],
+    [
+     "incident response",
+     0.085,
+     99.1
+    ],
+    [
+     "help desk",
+     0.085,
+     180.7
+    ],
+    [
+     "ci/cd pipelines",
+     0.07,
+     54.8
+    ],
+    [
+     "entra id",
+     0.067,
+     220.7
+    ],
+    [
+     "comptia a+",
+     0.067,
+     269.8
+    ],
+    [
+     "version control",
+     0.064,
+     39.5
+    ],
+    [
+     "relational databases",
+     0.063,
+     38.9
+    ],
+    [
+     "cloud security",
+     0.062,
+     161.2
+    ],
+    [
+     "sql server",
+     0.062,
+     43.4
+    ],
+    [
+     "cloud platforms",
+     0.062,
+     44.8
+    ],
+    [
+     "technology computer",
+     0.062,
+     75.2
+    ],
+    [
+     "data modeling",
+     0.069,
+     17.9
+    ],
+    [
+     "vulnerability management",
+     0.061,
+     244.5
+    ],
+    [
+     "information technology computer",
+     0.061,
+     138.7
+    ],
+    [
+     "technology computer science",
+     0.059,
+     111.8
+    ],
+    [
+     "desktop support",
+     0.058,
+     701.8
+    ],
+    [
+     "computer engineering",
+     0.063,
+     18.1
+    ],
+    [
+     "data pipelines",
+     0.055,
+     28.5
+    ],
+    [
+     "bachelor s",
+     0.464,
+     2.3
+    ],
+    [
+     "network security",
+     0.052,
+     158.1
+    ],
+    [
+     "computer science engineering",
+     0.052,
+     30.6
+    ],
+    [
+     "distributed systems",
+     0.052,
+     39.1
+    ],
+    [
+     "rest apis",
+     0.052,
+     90.3
+    ],
+    [
+     "science information technology",
+     0.051,
+     66.4
+    ],
+    [
+     "technical issues",
+     0.051,
+     20.0
+    ],
+    [
+     "science engineering",
+     0.056,
+     18.1
+    ],
+    [
+     "science software",
+     0.05,
+     66.7
+    ],
+    [
+     "equivalent practical",
+     0.059,
+     16.7
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 388,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 478,
+     "top": []
+    },
+    "South": {
+     "employers": 614,
+     "top": [
+      [
+       "networking concepts",
+       0.06,
+       1.8
+      ]
+     ]
+    },
+    "West": {
+     "employers": 606,
+     "top": []
+    }
+   }
+  },
+  "Skilled trades": {
+   "employers": 2713,
+   "top": [
+    [
+     "hand tools",
+     0.193,
+     10.0
+    ],
+    [
+     "power tools",
+     0.154,
+     9.1
+    ],
+    [
+     "epa certification",
+     0.069,
+     105.5
+    ],
+    [
+     "electrical systems",
+     0.108,
+     12.2
+    ],
+    [
+     "s license",
+     0.372,
+     3.0
+    ],
+    [
+     "driver s",
+     0.367,
+     3.0
+    ],
+    [
+     "plumbing systems",
+     0.055,
+     69.4
+    ],
+    [
+     "driver s license",
+     0.365,
+     3.0
+    ],
+    [
+     "hvac systems",
+     0.052,
+     21.1
+    ],
+    [
+     "valid driver",
+     0.267,
+     3.2
+    ],
+    [
+     "valid driver s",
+     0.263,
+     3.2
+    ],
+    [
+     "read blueprints",
+     0.046,
+     13.7
+    ],
+    [
+     "driving record",
+     0.158,
+     3.9
+    ],
+    [
+     "confined spaces",
+     0.048,
+     12.5
+    ],
+    [
+     "tools power tools",
+     0.054,
+     9.1
+    ],
+    [
+     "hand tools power",
+     0.053,
+     8.9
+    ],
+    [
+     "clean driving record",
+     0.097,
+     4.8
+    ],
+    [
+     "clean driving",
+     0.099,
+     4.7
+    ],
+    [
+     "tools power",
+     0.055,
+     8.1
+    ],
+    [
+     "high school",
+     0.323,
+     1.3
+    ],
+    [
+     "technical drawings",
+     0.063,
+     6.5
+    ],
+    [
+     "read and interpret",
+     0.091,
+     4.1
+    ],
+    [
+     "climb ladders",
+     0.04,
+     8.6
+    ],
+    [
+     "school diploma",
+     0.261,
+     1.3
+    ],
+    [
+     "high school diploma",
+     0.26,
+     1.3
+    ],
+    [
+     "mechanical systems",
+     0.04,
+     8.1
+    ],
+    [
+     "mechanical aptitude",
+     0.055,
+     4.7
+    ],
+    [
+     "safety procedures",
+     0.052,
+     4.5
+    ],
+    [
+     "location in person",
+     0.146,
+     1.5
+    ],
+    [
+     "type full-time",
+     0.078,
+     2.2
+    ],
+    [
+     "diploma or ged",
+     0.101,
+     1.6
+    ],
+    [
+     "weather conditions",
+     0.052,
+     2.9
+    ],
+    [
+     "if you re",
+     0.062,
+     2.4
+    ],
+    [
+     "diploma or equivalent",
+     0.121,
+     1.2
+    ],
+    [
+     "up to pounds",
+     0.091,
+     1.5
+    ],
+    [
+     "up to lbs",
+     0.079,
+     1.6
+    ],
+    [
+     "attention to detail",
+     0.155,
+     0.8
+    ],
+    [
+     "customer service",
+     0.147,
+     0.8
+    ],
+    [
+     "reliable transportation",
+     0.07,
+     1.6
+    ],
+    [
+     "background check",
+     0.078,
+     1.4
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 500,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 695,
+     "top": []
+    },
+    "South": {
+     "employers": 837,
+     "top": []
+    },
+    "West": {
+     "employers": 831,
+     "top": []
+    }
+   }
+  },
+  "Automotive": {
+   "employers": 980,
+   "top": [
+    [
+     "heavy equipment",
+     0.157,
+     20.8
+    ],
+    [
+     "automotive repair",
+     0.144,
+     410.8
+    ],
+    [
+     "automotive service",
+     0.098,
+     279.7
+    ],
+    [
+     "vehicle maintenance",
+     0.095,
+     153.1
+    ],
+    [
+     "driver s",
+     0.466,
+     3.5
+    ],
+    [
+     "s license",
+     0.464,
+     3.5
+    ],
+    [
+     "driver s license",
+     0.464,
+     3.5
+    ],
+    [
+     "diesel engines",
+     0.081,
+     598.4
+    ],
+    [
+     "valid driver",
+     0.366,
+     4.0
+    ],
+    [
+     "valid driver s",
+     0.358,
+     4.0
+    ],
+    [
+     "automotive diagnostics",
+     0.07,
+     326.7
+    ],
+    [
+     "diesel engine",
+     0.07,
+     373.3
+    ],
+    [
+     "engine repair",
+     0.065,
+     606.0
+    ],
+    [
+     "diagnostic equipment",
+     0.061,
+     42.9
+    ],
+    [
+     "own tools",
+     0.057,
+     48.2
+    ],
+    [
+     "diesel mechanic",
+     0.057,
+     2121.0
+    ],
+    [
+     "ase certifications",
+     0.054,
+     401.5
+    ],
+    [
+     "welding equipment",
+     0.054,
+     22.8
+    ],
+    [
+     "hand tools",
+     0.173,
+     6.2
+    ],
+    [
+     "automotive technician",
+     0.053,
+     393.9
+    ],
+    [
+     "electrical systems",
+     0.118,
+     8.9
+    ],
+    [
+     "auto body",
+     0.05,
+     185.6
+    ],
+    [
+     "ase certification",
+     0.05,
+     185.6
+    ],
+    [
+     "maintenance and repair",
+     0.051,
+     19.5
+    ],
+    [
+     "hand tools power",
+     0.082,
+     11.1
+    ],
+    [
+     "tools power tools",
+     0.082,
+     11.0
+    ],
+    [
+     "body repair",
+     0.045,
+     555.5
+    ],
+    [
+     "tire service",
+     0.045,
+     416.6
+    ],
+    [
+     "tools welding",
+     0.045,
+     61.7
+    ],
+    [
+     "hydraulic systems",
+     0.044,
+     50.9
+    ],
+    [
+     "diesel engine repair",
+     0.044,
+     814.3
+    ],
+    [
+     "tools welding equipment",
+     0.044,
+     74.0
+    ],
+    [
+     "oil changes",
+     0.042,
+     1552.9
+    ],
+    [
+     "equipment repair",
+     0.042,
+     21.3
+    ],
+    [
+     "power tools",
+     0.14,
+     5.9
+    ],
+    [
+     "power tools welding",
+     0.041,
+     75.7
+    ],
+    [
+     "service technician",
+     0.05,
+     16.4
+    ],
+    [
+     "tools power",
+     0.082,
+     9.9
+    ],
+    [
+     "diagnostic tools",
+     0.045,
+     16.7
+    ],
+    [
+     "mechanical aptitude",
+     0.097,
+     7.7
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 207,
+     "top": [
+      [
+       "auto body",
+       0.082,
+       2.0
+      ],
+      [
+       "body repair",
+       0.068,
+       1.9
+      ],
+      [
+       "tools welding equipment",
+       0.063,
+       1.8
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 270,
+     "top": [
+      [
+       "ase certifications",
+       0.093,
+       2.1
+      ]
+     ]
+    },
+    "South": {
+     "employers": 308,
+     "top": []
+    },
+    "West": {
+     "employers": 312,
+     "top": []
+    }
+   }
+  },
+  "Finance & accounting": {
+   "employers": 1703,
+   "top": [
+    [
+     "accounting finance",
+     0.238,
+     157.4
+    ],
+    [
+     "accounting principles",
+     0.18,
+     145.3
+    ],
+    [
+     "microsoft excel",
+     0.238,
+     14.0
+    ],
+    [
+     "finance accounting",
+     0.151,
+     90.4
+    ],
+    [
+     "financial reporting",
+     0.142,
+     85.8
+    ],
+    [
+     "financial analysis",
+     0.132,
+     63.3
+    ],
+    [
+     "accounting software",
+     0.126,
+     51.1
+    ],
+    [
+     "financial modeling",
+     0.112,
+     135.3
+    ],
+    [
+     "general ledger",
+     0.111,
+     310.7
+    ],
+    [
+     "bachelor s",
+     0.594,
+     3.0
+    ],
+    [
+     "public accounting",
+     0.088,
+     267.1
+    ],
+    [
+     "advanced excel",
+     0.087,
+     31.2
+    ],
+    [
+     "accounting or finance",
+     0.082,
+     270.0
+    ],
+    [
+     "financial statements",
+     0.078,
+     97.3
+    ],
+    [
+     "pivot tables",
+     0.077,
+     21.5
+    ],
+    [
+     "finance business",
+     0.074,
+     65.7
+    ],
+    [
+     "financial information",
+     0.072,
+     50.1
+    ],
+    [
+     "accounting economics",
+     0.072,
+     217.3
+    ],
+    [
+     "quickbooks online",
+     0.069,
+     100.9
+    ],
+    [
+     "accounts payable",
+     0.069,
+     46.7
+    ],
+    [
+     "financial data",
+     0.068,
+     46.8
+    ],
+    [
+     "finance accounting economics",
+     0.066,
+     217.6
+    ],
+    [
+     "progressive accounting",
+     0.065,
+     790.7
+    ],
+    [
+     "cost accounting",
+     0.063,
+     95.3
+    ],
+    [
+     "journal entries",
+     0.061,
+     740.8
+    ],
+    [
+     "month-end close",
+     0.056,
+     293.1
+    ],
+    [
+     "complex financial",
+     0.056,
+     128.2
+    ],
+    [
+     "financial planning",
+     0.056,
+     59.7
+    ],
+    [
+     "accounts receivable",
+     0.053,
+     28.6
+    ],
+    [
+     "corporate finance",
+     0.053,
+     121.5
+    ],
+    [
+     "ledger accounting",
+     0.052,
+     470.2
+    ],
+    [
+     "general ledger accounting",
+     0.052,
+     470.2
+    ],
+    [
+     "variance analysis",
+     0.052,
+     125.4
+    ],
+    [
+     "accounting finance business",
+     0.052,
+     211.3
+    ],
+    [
+     "internal controls",
+     0.05,
+     100.9
+    ],
+    [
+     "budgeting forecasting",
+     0.05,
+     58.6
+    ],
+    [
+     "erp systems",
+     0.082,
+     11.7
+    ],
+    [
+     "accepted accounting",
+     0.046,
+     166.7
+    ],
+    [
+     "accounting business",
+     0.046,
+     64.1
+    ],
+    [
+     "financial systems",
+     0.045,
+     40.6
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 355,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 372,
+     "top": [
+      [
+       "business intelligence",
+       0.078,
+       2.3
+      ],
+      [
+       "accounting finance business",
+       0.083,
+       1.9
+      ],
+      [
+       "problem solving",
+       0.065,
+       1.8
+      ]
+     ]
+    },
+    "South": {
+     "employers": 521,
+     "top": [
+      [
+       "school diploma",
+       0.061,
+       1.8
+      ],
+      [
+       "high school diploma",
+       0.061,
+       1.8
+      ]
+     ]
+    },
+    "West": {
+     "employers": 514,
+     "top": [
+      [
+       "variance analysis",
+       0.082,
+       2.0
+      ],
+      [
+       "combination of education",
+       0.064,
+       2.0
+      ],
+      [
+       "finance economics",
+       0.06,
+       2.0
+      ]
+     ]
+    }
+   }
+  },
+  "Engineering": {
+   "employers": 1380,
+   "top": [
+    [
+     "mechanical engineering",
+     0.301,
+     65.1
+    ],
+    [
+     "electrical engineering",
+     0.299,
+     45.6
+    ],
+    [
+     "civil engineering",
+     0.259,
+     65.7
+    ],
+    [
+     "professional engineer",
+     0.186,
+     115.4
+    ],
+    [
+     "pe license",
+     0.125,
+     118.0
+    ],
+    [
+     "bachelor s",
+     0.687,
+     3.4
+    ],
+    [
+     "engineering discipline",
+     0.114,
+     75.1
+    ],
+    [
+     "engineer pe",
+     0.113,
+     122.1
+    ],
+    [
+     "professional engineer pe",
+     0.113,
+     122.1
+    ],
+    [
+     "mechanical design",
+     0.096,
+     176.9
+    ],
+    [
+     "bachelor of science",
+     0.086,
+     19.8
+    ],
+    [
+     "cad software",
+     0.084,
+     49.8
+    ],
+    [
+     "civil d",
+     0.084,
+     140.3
+    ],
+    [
+     "engineering design",
+     0.08,
+     66.5
+    ],
+    [
+     "engineer pe license",
+     0.08,
+     118.1
+    ],
+    [
+     "product development",
+     0.075,
+     30.4
+    ],
+    [
+     "d cad",
+     0.072,
+     138.6
+    ],
+    [
+     "engineering principles",
+     0.068,
+     49.0
+    ],
+    [
+     "design software",
+     0.065,
+     34.7
+    ],
+    [
+     "manufacturing processes",
+     0.079,
+     16.1
+    ],
+    [
+     "professional engineering",
+     0.057,
+     129.7
+    ],
+    [
+     "technical writing",
+     0.055,
+     30.2
+    ],
+    [
+     "electrical design",
+     0.054,
+     221.7
+    ],
+    [
+     "engineering or equivalent",
+     0.054,
+     23.2
+    ],
+    [
+     "structural engineering",
+     0.054,
+     153.5
+    ],
+    [
+     "engineering technology",
+     0.054,
+     24.6
+    ],
+    [
+     "gd t",
+     0.086,
+     12.4
+    ],
+    [
+     "power distribution",
+     0.051,
+     43.3
+    ],
+    [
+     "autocad civil d",
+     0.051,
+     232.8
+    ],
+    [
+     "autocad civil",
+     0.051,
+     236.1
+    ],
+    [
+     "project management",
+     0.195,
+     5.0
+    ],
+    [
+     "system design",
+     0.049,
+     18.8
+    ],
+    [
+     "power systems",
+     0.046,
+     37.2
+    ],
+    [
+     "engineering mechanical",
+     0.046,
+     32.9
+    ],
+    [
+     "manufacturing engineering",
+     0.049,
+     18.1
+    ],
+    [
+     "engineering electrical",
+     0.044,
+     21.6
+    ],
+    [
+     "power electronics",
+     0.041,
+     87.6
+    ],
+    [
+     "sheet metal",
+     0.049,
+     15.9
+    ],
+    [
+     "engineering drawings",
+     0.065,
+     11.7
+    ],
+    [
+     "master s",
+     0.155,
+     4.4
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 294,
+     "top": [
+      [
+       "land development",
+       0.065,
+       2.9
+      ],
+      [
+       "test equipment",
+       0.061,
+       2.0
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 372,
+     "top": []
+    },
+    "South": {
+     "employers": 444,
+     "top": []
+    },
+    "West": {
+     "employers": 467,
+     "top": []
+    }
+   }
+  },
+  "Banking & insurance": {
+   "employers": 793,
+   "top": [
+    [
+     "cash handling",
+     0.233,
+     26.8
+    ],
+    [
+     "insurance license",
+     0.103,
+     124.4
+    ],
+    [
+     "property casualty",
+     0.102,
+     200.5
+    ],
+    [
+     "products and services",
+     0.096,
+     35.1
+    ],
+    [
+     "retail sales",
+     0.086,
+     18.0
+    ],
+    [
+     "credit union",
+     0.076,
+     47.0
+    ],
+    [
+     "insurance sales",
+     0.072,
+     223.4
+    ],
+    [
+     "casualty insurance",
+     0.069,
+     136.2
+    ],
+    [
+     "sales retail",
+     0.064,
+     133.3
+    ],
+    [
+     "customer service",
+     0.449,
+     2.7
+    ],
+    [
+     "insurance industry",
+     0.057,
+     96.2
+    ],
+    [
+     "outside sales",
+     0.055,
+     22.3
+    ],
+    [
+     "casualty license",
+     0.054,
+     168.6
+    ],
+    [
+     "claims handling",
+     0.052,
+     642.9
+    ],
+    [
+     "property and casualty",
+     0.052,
+     120.5
+    ],
+    [
+     "property casualty insurance",
+     0.048,
+     162.5
+    ],
+    [
+     "financial institution",
+     0.048,
+     33.1
+    ],
+    [
+     "commercial insurance",
+     0.047,
+     116.0
+    ],
+    [
+     "insurance products",
+     0.045,
+     141.1
+    ],
+    [
+     "high school",
+     0.464,
+     1.9
+    ],
+    [
+     "workers compensation",
+     0.047,
+     18.5
+    ],
+    [
+     "property casualty license",
+     0.04,
+     167.3
+    ],
+    [
+     "life insurance",
+     0.098,
+     6.9
+    ],
+    [
+     "high school diploma",
+     0.368,
+     1.8
+    ],
+    [
+     "school diploma",
+     0.368,
+     1.8
+    ],
+    [
+     "health insurance",
+     0.063,
+     10.5
+    ],
+    [
+     "client needs",
+     0.061,
+     10.2
+    ],
+    [
+     "financial services",
+     0.064,
+     8.8
+    ],
+    [
+     "diploma or equivalent",
+     0.19,
+     1.9
+    ],
+    [
+     "microsoft office",
+     0.213,
+     1.6
+    ],
+    [
+     "crm systems",
+     0.042,
+     7.6
+    ],
+    [
+     "written communication",
+     0.134,
+     1.7
+    ],
+    [
+     "verbal and written",
+     0.132,
+     1.7
+    ],
+    [
+     "willingness to obtain",
+     0.045,
+     4.6
+    ],
+    [
+     "track record",
+     0.072,
+     2.4
+    ],
+    [
+     "six months",
+     0.043,
+     3.9
+    ],
+    [
+     "bachelor s",
+     0.178,
+     0.8
+    ],
+    [
+     "office equipment",
+     0.049,
+     2.8
+    ],
+    [
+     "attention to detail",
+     0.161,
+     0.8
+    ],
+    [
+     "microsoft office applications",
+     0.044,
+     2.9
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 170,
+     "top": [
+      [
+       "valid driver",
+       0.106,
+       2.4
+      ],
+      [
+       "valid driver s",
+       0.1,
+       2.5
+      ],
+      [
+       "driver s license",
+       0.118,
+       2.0
+      ],
+      [
+       "driver s",
+       0.118,
+       2.0
+      ],
+      [
+       "reasonable accommodations",
+       0.071,
+       2.2
+      ],
+      [
+       "oral and written",
+       0.076,
+       2.0
+      ],
+      [
+       "made to enable",
+       0.071,
+       2.1
+      ],
+      [
+       "perform the essential",
+       0.076,
+       1.9
+      ],
+      [
+       "individuals with disabilities",
+       0.076,
+       1.9
+      ],
+      [
+       "disabilities to perform",
+       0.071,
+       1.9
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 212,
+     "top": [
+      [
+       "basic math",
+       0.071,
+       2.0
+      ],
+      [
+       "up to pounds",
+       0.066,
+       2.0
+      ],
+      [
+       "multiple tasks",
+       0.066,
+       1.9
+      ],
+      [
+       "crm systems",
+       0.061,
+       1.9
+      ]
+     ]
+    },
+    "South": {
+     "employers": 313,
+     "top": []
+    },
+    "West": {
+     "employers": 245,
+     "top": [
+      [
+       "high level",
+       0.086,
+       2.1
+      ],
+      [
+       "financial institution",
+       0.069,
+       2.0
+      ]
+     ]
+    }
+   }
+  },
+  "HR & recruiting": {
+   "employers": 1083,
+   "top": [
+    [
+     "human resources",
+     0.506,
+     60.6
+    ],
+    [
+     "resources business",
+     0.258,
+     501.9
+    ],
+    [
+     "human resources business",
+     0.258,
+     529.7
+    ],
+    [
+     "applicant tracking",
+     0.212,
+     357.3
+    ],
+    [
+     "resources business administration",
+     0.178,
+     732.9
+    ],
+    [
+     "talent acquisition",
+     0.174,
+     103.6
+    ],
+    [
+     "tracking systems",
+     0.159,
+     79.4
+    ],
+    [
+     "applicant tracking systems",
+     0.157,
+     968.4
+    ],
+    [
+     "employee relations",
+     0.136,
+     179.4
+    ],
+    [
+     "business administration",
+     0.208,
+     11.2
+    ],
+    [
+     "hiring managers",
+     0.098,
+     258.8
+    ],
+    [
+     "hr generalist",
+     0.083,
+     3076.0
+    ],
+    [
+     "full-cycle recruiting",
+     0.077,
+     945.6
+    ],
+    [
+     "bachelor s",
+     0.551,
+     2.7
+    ],
+    [
+     "employment laws",
+     0.15,
+     9.4
+    ],
+    [
+     "employment law",
+     0.07,
+     56.5
+    ],
+    [
+     "linkedin recruiter",
+     0.064,
+     1179.1
+    ],
+    [
+     "hris systems",
+     0.063,
+     581.0
+    ],
+    [
+     "performance management",
+     0.054,
+     20.4
+    ],
+    [
+     "confidential information",
+     0.102,
+     10.3
+    ],
+    [
+     "systems ats",
+     0.052,
+     273.4
+    ],
+    [
+     "tracking systems ats",
+     0.051,
+     939.9
+    ],
+    [
+     "hr certification",
+     0.051,
+     1879.8
+    ],
+    [
+     "tracking system",
+     0.042,
+     68.4
+    ],
+    [
+     "applicant tracking system",
+     0.042,
+     120.9
+    ],
+    [
+     "manage multiple",
+     0.244,
+     3.3
+    ],
+    [
+     "microsoft office",
+     0.318,
+     2.5
+    ],
+    [
+     "handle sensitive",
+     0.062,
+     12.4
+    ],
+    [
+     "multiple priorities",
+     0.162,
+     4.6
+    ],
+    [
+     "manage multiple priorities",
+     0.134,
+     5.0
+    ],
+    [
+     "sound judgment",
+     0.106,
+     6.1
+    ],
+    [
+     "information with discretion",
+     0.044,
+     14.3
+    ],
+    [
+     "laws and regulations",
+     0.055,
+     11.0
+    ],
+    [
+     "sensitive information",
+     0.057,
+     9.5
+    ],
+    [
+     "handle confidential",
+     0.047,
+     8.5
+    ],
+    [
+     "attention to detail",
+     0.28,
+     1.4
+    ],
+    [
+     "maintain confidentiality",
+     0.071,
+     5.5
+    ],
+    [
+     "proficiency with microsoft",
+     0.096,
+     4.0
+    ],
+    [
+     "office suite",
+     0.13,
+     2.7
+    ],
+    [
+     "federal and state",
+     0.042,
+     8.2
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 229,
+     "top": [
+      [
+       "associate s",
+       0.083,
+       2.7
+      ],
+      [
+       "interpersonal and communication",
+       0.07,
+       1.9
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 272,
+     "top": [
+      [
+       "hr best",
+       0.062,
+       2.1
+      ]
+     ]
+    },
+    "South": {
+     "employers": 350,
+     "top": []
+    },
+    "West": {
+     "employers": 305,
+     "top": []
+    }
+   }
+  },
+  "Pharma & life sciences": {
+   "employers": 1320,
+   "top": [
+    [
+     "pharmacy technician",
+     0.245,
+     429.9
+    ],
+    [
+     "clinical research",
+     0.134,
+     159.1
+    ],
+    [
+     "pharmacist license",
+     0.123,
+     1504.5
+    ],
+    [
+     "board of pharmacy",
+     0.113,
+     1037.8
+    ],
+    [
+     "technician certification",
+     0.076,
+     58.0
+    ],
+    [
+     "doctor of pharmacy",
+     0.076,
+     696.5
+    ],
+    [
+     "pharmacy technician certification",
+     0.07,
+     863.7
+    ],
+    [
+     "clinical trials",
+     0.064,
+     182.2
+    ],
+    [
+     "state board",
+     0.063,
+     36.1
+    ],
+    [
+     "technician license",
+     0.063,
+     115.6
+    ],
+    [
+     "pharmacy technician license",
+     0.062,
+     571.2
+    ],
+    [
+     "hospital pharmacy",
+     0.058,
+     2145.3
+    ],
+    [
+     "school of pharmacy",
+     0.055,
+     1016.9
+    ],
+    [
+     "certified pharmacy",
+     0.053,
+     390.1
+    ],
+    [
+     "certified pharmacy technician",
+     0.052,
+     378.9
+    ],
+    [
+     "registered pharmacist",
+     0.048,
+     891.6
+    ],
+    [
+     "clinical trial",
+     0.045,
+     278.6
+    ],
+    [
+     "pharmacy software",
+     0.044,
+     1616.0
+    ],
+    [
+     "clinical pharmacy",
+     0.044,
+     538.7
+    ],
+    [
+     "retail pharmacy",
+     0.041,
+     376.1
+    ],
+    [
+     "pharmacy residency",
+     0.04,
+     1476.7
+    ],
+    [
+     "pharmacy operations",
+     0.04,
+     246.1
+    ],
+    [
+     "medical terminology",
+     0.105,
+     6.8
+    ],
+    [
+     "patient care",
+     0.096,
+     5.7
+    ],
+    [
+     "attention to detail",
+     0.313,
+     1.6
+    ],
+    [
+     "high school",
+     0.342,
+     1.4
+    ],
+    [
+     "good standing",
+     0.08,
+     5.8
+    ],
+    [
+     "life support",
+     0.061,
+     7.6
+    ],
+    [
+     "license in good",
+     0.044,
+     9.3
+    ],
+    [
+     "school diploma",
+     0.275,
+     1.4
+    ],
+    [
+     "high school diploma",
+     0.274,
+     1.4
+    ],
+    [
+     "accredited school",
+     0.043,
+     7.9
+    ],
+    [
+     "basic life support",
+     0.047,
+     7.1
+    ],
+    [
+     "basic life",
+     0.054,
+     6.0
+    ],
+    [
+     "bachelor of science",
+     0.043,
+     7.2
+    ],
+    [
+     "bachelor s",
+     0.255,
+     1.2
+    ],
+    [
+     "data entry",
+     0.076,
+     3.3
+    ],
+    [
+     "diploma or equivalent",
+     0.149,
+     1.5
+    ],
+    [
+     "microsoft office",
+     0.167,
+     1.3
+    ],
+    [
+     "word excel",
+     0.092,
+     2.0
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 315,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 323,
+     "top": []
+    },
+    "South": {
+     "employers": 414,
+     "top": []
+    },
+    "West": {
+     "employers": 417,
+     "top": [
+      [
+       "good standing",
+       0.12,
+       1.9
+      ],
+      [
+       "technician license",
+       0.096,
+       1.9
+      ],
+      [
+       "pharmacy technician license",
+       0.094,
+       1.9
+      ]
+     ]
+    }
+   }
+  },
+  "Restaurants & hospitality": {
+   "employers": 1808,
+   "top": [
+    [
+     "food safety",
+     0.306,
+     44.0
+    ],
+    [
+     "food service",
+     0.243,
+     62.9
+    ],
+    [
+     "food preparation",
+     0.186,
+     120.8
+    ],
+    [
+     "food handling",
+     0.17,
+     79.3
+    ],
+    [
+     "food industry",
+     0.152,
+     68.1
+    ],
+    [
+     "fine dining",
+     0.124,
+     562.0
+    ],
+    [
+     "kitchen equipment",
+     0.107,
+     104.7
+    ],
+    [
+     "pos systems",
+     0.103,
+     23.6
+    ],
+    [
+     "dietary aide",
+     0.088,
+     638.3
+    ],
+    [
+     "food safety management",
+     0.082,
+     141.5
+    ],
+    [
+     "safety management",
+     0.082,
+     46.7
+    ],
+    [
+     "dining experiences",
+     0.079,
+     259.1
+    ],
+    [
+     "front desk",
+     0.126,
+     12.5
+    ],
+    [
+     "guest relations",
+     0.075,
+     160.6
+    ],
+    [
+     "weekends and holidays",
+     0.152,
+     9.5
+    ],
+    [
+     "food handler",
+     0.071,
+     25.7
+    ],
+    [
+     "handling procedures",
+     0.07,
+     26.9
+    ],
+    [
+     "meal preparation",
+     0.067,
+     134.9
+    ],
+    [
+     "dietary department",
+     0.066,
+     2408.6
+    ],
+    [
+     "food safety standards",
+     0.065,
+     57.3
+    ],
+    [
+     "line cook",
+     0.06,
+     1083.9
+    ],
+    [
+     "hotel front",
+     0.059,
+     101.3
+    ],
+    [
+     "hospitality management",
+     0.058,
+     58.5
+    ],
+    [
+     "menu planning",
+     0.058,
+     526.9
+    ],
+    [
+     "food handling procedures",
+     0.058,
+     116.0
+    ],
+    [
+     "aloha pos",
+     0.058,
+     72.7
+    ],
+    [
+     "sanitation practices",
+     0.056,
+     33.8
+    ],
+    [
+     "guest service",
+     0.056,
+     27.0
+    ],
+    [
+     "preparation techniques",
+     0.056,
+     70.6
+    ],
+    [
+     "guest experiences",
+     0.055,
+     54.2
+    ],
+    [
+     "hotel front desk",
+     0.055,
+     124.2
+    ],
+    [
+     "micros pos",
+     0.055,
+     71.7
+    ],
+    [
+     "kitchen equipment safely",
+     0.054,
+     218.6
+    ],
+    [
+     "proper food",
+     0.054,
+     63.5
+    ],
+    [
+     "restaurant management",
+     0.053,
+     642.3
+    ],
+    [
+     "proper food handling",
+     0.053,
+     64.2
+    ],
+    [
+     "memorable dining",
+     0.053,
+     272.4
+    ],
+    [
+     "service or restaurant",
+     0.052,
+     235.8
+    ],
+    [
+     "familiarity with pos",
+     0.052,
+     28.2
+    ],
+    [
+     "restaurant environments",
+     0.051,
+     143.6
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 373,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 458,
+     "top": []
+    },
+    "South": {
+     "employers": 597,
+     "top": []
+    },
+    "West": {
+     "employers": 582,
+     "top": [
+      [
+       "food handler",
+       0.12,
+       2.6
+      ]
+     ]
+    }
+   }
+  },
+  "Cleaning & facilities": {
+   "employers": 1568,
+   "top": [
+    [
+     "cleaning equipment",
+     0.094,
+     164.2
+    ],
+    [
+     "facilities management",
+     0.077,
+     39.2
+    ],
+    [
+     "floor care",
+     0.077,
+     352.4
+    ],
+    [
+     "commercial cleaning",
+     0.065,
+     264.0
+    ],
+    [
+     "cleaning techniques",
+     0.059,
+     153.1
+    ],
+    [
+     "facilities maintenance",
+     0.05,
+     30.2
+    ],
+    [
+     "residential cleaning",
+     0.046,
+     1677.4
+    ],
+    [
+     "maintenance management",
+     0.043,
+     30.5
+    ],
+    [
+     "janitorial or custodial",
+     0.043,
+     780.4
+    ],
+    [
+     "building systems",
+     0.048,
+     17.7
+    ],
+    [
+     "industrial cleaning",
+     0.042,
+     307.5
+    ],
+    [
+     "housekeeping management",
+     0.04,
+     489.2
+    ],
+    [
+     "building maintenance",
+     0.041,
+     18.9
+    ],
+    [
+     "manual handling",
+     0.045,
+     12.5
+    ],
+    [
+     "physical stamina",
+     0.053,
+     8.4
+    ],
+    [
+     "take pride",
+     0.041,
+     8.2
+    ],
+    [
+     "attention to detail",
+     0.253,
+     1.3
+    ],
+    [
+     "high school",
+     0.288,
+     1.1
+    ],
+    [
+     "heavy lifting",
+     0.062,
+     4.7
+    ],
+    [
+     "school diploma",
+     0.23,
+     1.1
+    ],
+    [
+     "high school diploma",
+     0.23,
+     1.1
+    ],
+    [
+     "tasks efficiently",
+     0.042,
+     5.7
+    ],
+    [
+     "safety procedures",
+     0.05,
+     3.9
+    ],
+    [
+     "up to pounds",
+     0.105,
+     1.7
+    ],
+    [
+     "customer service",
+     0.171,
+     1.0
+    ],
+    [
+     "follow instructions",
+     0.045,
+     3.8
+    ],
+    [
+     "good communication",
+     0.05,
+     3.1
+    ],
+    [
+     "reliable transportation",
+     0.08,
+     1.9
+    ],
+    [
+     "s license",
+     0.146,
+     1.0
+    ],
+    [
+     "driver s license",
+     0.145,
+     1.0
+    ],
+    [
+     "driver s",
+     0.145,
+     1.0
+    ],
+    [
+     "up to lbs",
+     0.082,
+     1.7
+    ],
+    [
+     "weekends and holidays",
+     0.054,
+     2.5
+    ],
+    [
+     "extended periods",
+     0.082,
+     1.6
+    ],
+    [
+     "background check",
+     0.082,
+     1.5
+    ],
+    [
+     "prioritize tasks",
+     0.047,
+     2.6
+    ],
+    [
+     "lift up",
+     0.071,
+     1.7
+    ],
+    [
+     "diploma or equivalent",
+     0.107,
+     1.1
+    ],
+    [
+     "read write",
+     0.041,
+     2.6
+    ],
+    [
+     "communicate effectively",
+     0.065,
+     1.6
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 319,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 414,
+     "top": []
+    },
+    "South": {
+     "employers": 510,
+     "top": []
+    },
+    "West": {
+     "employers": 479,
+     "top": []
+    }
+   }
+  },
+  "Senior & home care": {
+   "employers": 855,
+   "top": [
+    [
+     "nursing assistant",
+     0.239,
+     233.8
+    ],
+    [
+     "certified nursing",
+     0.182,
+     219.2
+    ],
+    [
+     "certified nursing assistant",
+     0.179,
+     246.8
+    ],
+    [
+     "home health",
+     0.168,
+     24.6
+    ],
+    [
+     "cna certification",
+     0.131,
+     375.3
+    ],
+    [
+     "personal care",
+     0.122,
+     151.0
+    ],
+    [
+     "home care",
+     0.119,
+     34.7
+    ],
+    [
+     "assisted living",
+     0.117,
+     72.6
+    ],
+    [
+     "assistant cna",
+     0.108,
+     308.3
+    ],
+    [
+     "nursing assistant cna",
+     0.103,
+     348.5
+    ],
+    [
+     "long-term care",
+     0.089,
+     19.6
+    ],
+    [
+     "health aide",
+     0.083,
+     343.6
+    ],
+    [
+     "home health aide",
+     0.081,
+     429.4
+    ],
+    [
+     "cna license",
+     0.071,
+     531.4
+    ],
+    [
+     "care plans",
+     0.068,
+     33.2
+    ],
+    [
+     "vital signs",
+     0.064,
+     19.6
+    ],
+    [
+     "alzheimer s",
+     0.062,
+     144.3
+    ],
+    [
+     "memory care",
+     0.06,
+     101.0
+    ],
+    [
+     "medication administration",
+     0.056,
+     23.2
+    ],
+    [
+     "senior care",
+     0.053,
+     81.7
+    ],
+    [
+     "nursing homes",
+     0.053,
+     245.0
+    ],
+    [
+     "cpr certification",
+     0.115,
+     9.2
+    ],
+    [
+     "hospice care",
+     0.048,
+     49.6
+    ],
+    [
+     "first aid",
+     0.13,
+     6.7
+    ],
+    [
+     "assistant cna certification",
+     0.043,
+     402.9
+    ],
+    [
+     "dementia care",
+     0.042,
+     82.5
+    ],
+    [
+     "compassionate patient",
+     0.042,
+     29.0
+    ],
+    [
+     "current cpr",
+     0.068,
+     12.3
+    ],
+    [
+     "individuals with developmental",
+     0.044,
+     18.8
+    ],
+    [
+     "previous caregiving",
+     0.041,
+     1524.5
+    ],
+    [
+     "hoyer lifts",
+     0.041,
+     1524.5
+    ],
+    [
+     "reliable transportation",
+     0.184,
+     4.4
+    ],
+    [
+     "developmental disabilities",
+     0.064,
+     12.5
+    ],
+    [
+     "tb test",
+     0.048,
+     14.8
+    ],
+    [
+     "patient care",
+     0.111,
+     6.4
+    ],
+    [
+     "current cpr certification",
+     0.048,
+     14.1
+    ],
+    [
+     "life support",
+     0.069,
+     8.1
+    ],
+    [
+     "auto insurance",
+     0.055,
+     9.9
+    ],
+    [
+     "background check",
+     0.17,
+     3.1
+    ],
+    [
+     "aid certification",
+     0.062,
+     7.7
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 156,
+     "top": [
+      [
+       "make a difference",
+       0.09,
+       3.7
+      ],
+      [
+       "nurse aide",
+       0.096,
+       3.1
+      ],
+      [
+       "aide certification",
+       0.064,
+       3.4
+      ],
+      [
+       "assistant cna certification",
+       0.071,
+       2.0
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 237,
+     "top": []
+    },
+    "South": {
+     "employers": 244,
+     "top": [
+      [
+       "location in person",
+       0.16,
+       1.9
+      ],
+      [
+       "auto insurance",
+       0.098,
+       2.2
+      ],
+      [
+       "individuals with developmental",
+       0.066,
+       1.9
+      ]
+     ]
+    },
+    "West": {
+     "employers": 267,
+     "top": [
+      [
+       "first aid",
+       0.195,
+       2.0
+      ],
+      [
+       "cpr/first aid",
+       0.071,
+       2.8
+      ],
+      [
+       "vital signs",
+       0.094,
+       1.9
+      ],
+      [
+       "aid certification",
+       0.09,
+       1.9
+      ],
+      [
+       "tb test",
+       0.071,
+       1.8
+      ],
+      [
+       "cpr and first",
+       0.064,
+       1.9
+      ]
+     ]
+    }
+   }
+  },
+  "Childcare": {
+   "employers": 804,
+   "top": [
+    [
+     "early childhood",
+     0.545,
+     53.7
+    ],
+    [
+     "childhood education",
+     0.481,
+     58.1
+    ],
+    [
+     "early childhood education",
+     0.474,
+     57.6
+    ],
+    [
+     "first aid",
+     0.325,
+     21.1
+    ],
+    [
+     "child development",
+     0.295,
+     47.8
+    ],
+    [
+     "classroom management",
+     0.264,
+     47.3
+    ],
+    [
+     "young children",
+     0.261,
+     49.4
+    ],
+    [
+     "childhood development",
+     0.239,
+     55.3
+    ],
+    [
+     "development principles",
+     0.197,
+     55.5
+    ],
+    [
+     "behavior management",
+     0.16,
+     30.8
+    ],
+    [
+     "childhood development principles",
+     0.154,
+     61.8
+    ],
+    [
+     "aid and cpr",
+     0.148,
+     38.3
+    ],
+    [
+     "management techniques",
+     0.147,
+     27.9
+    ],
+    [
+     "aid certification",
+     0.136,
+     20.9
+    ],
+    [
+     "children s",
+     0.127,
+     46.4
+    ],
+    [
+     "children parents",
+     0.127,
+     71.7
+    ],
+    [
+     "certification in first",
+     0.122,
+     52.9
+    ],
+    [
+     "curriculum development",
+     0.119,
+     50.6
+    ],
+    [
+     "child care",
+     0.109,
+     60.0
+    ],
+    [
+     "young learners",
+     0.101,
+     52.2
+    ],
+    [
+     "special education",
+     0.155,
+     13.0
+    ],
+    [
+     "first aid certification",
+     0.1,
+     26.1
+    ],
+    [
+     "mandated reporting",
+     0.095,
+     63.0
+    ],
+    [
+     "development associate",
+     0.095,
+     58.8
+    ],
+    [
+     "mandated reporting laws",
+     0.093,
+     71.0
+    ],
+    [
+     "reporting laws",
+     0.093,
+     69.6
+    ],
+    [
+     "cpr and first",
+     0.092,
+     24.2
+    ],
+    [
+     "child development associate",
+     0.092,
+     57.2
+    ],
+    [
+     "early intervention",
+     0.087,
+     51.5
+    ],
+    [
+     "management strategies",
+     0.085,
+     25.2
+    ],
+    [
+     "lesson planning",
+     0.085,
+     49.3
+    ],
+    [
+     "learning environment",
+     0.085,
+     42.6
+    ],
+    [
+     "literacy education",
+     0.081,
+     47.9
+    ],
+    [
+     "classroom management techniques",
+     0.08,
+     47.1
+    ],
+    [
+     "physical education",
+     0.075,
+     69.6
+    ],
+    [
+     "daycare preschool",
+     0.073,
+     68.4
+    ],
+    [
+     "young minds",
+     0.071,
+     82.6
+    ],
+    [
+     "behavior management techniques",
+     0.071,
+     32.2
+    ],
+    [
+     "cpr/first aid",
+     0.072,
+     18.2
+    ],
+    [
+     "behavior management strategies",
+     0.061,
+     33.9
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 155,
+     "top": [
+      [
+       "child abuse",
+       0.071,
+       4.4
+      ],
+      [
+       "meaningful difference",
+       0.084,
+       3.2
+      ],
+      [
+       "make a meaningful",
+       0.084,
+       2.3
+      ],
+      [
+       "children s lives",
+       0.077,
+       2.0
+      ],
+      [
+       "s lives",
+       0.077,
+       2.0
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 204,
+     "top": [
+      [
+       "bachelor s",
+       0.181,
+       1.9
+      ],
+      [
+       "literacy education",
+       0.123,
+       1.9
+      ],
+      [
+       "every child",
+       0.098,
+       2.2
+      ],
+      [
+       "behavior management techniques",
+       0.108,
+       1.9
+      ],
+      [
+       "principles and early",
+       0.074,
+       1.9
+      ],
+      [
+       "child development principles",
+       0.069,
+       1.8
+      ]
+     ]
+    },
+    "South": {
+     "employers": 263,
+     "top": [
+      [
+       "physical education",
+       0.106,
+       1.9
+      ],
+      [
+       "learning experiences",
+       0.072,
+       2.6
+      ],
+      [
+       "child welfare",
+       0.087,
+       1.9
+      ]
+     ]
+    },
+    "West": {
+     "employers": 215,
+     "top": [
+      [
+       "ece units",
+       0.102,
+       63.7
+      ],
+      [
+       "childhood education ece",
+       0.065,
+       10.1
+      ],
+      [
+       "education ece",
+       0.065,
+       10.1
+      ],
+      [
+       "tb test",
+       0.088,
+       4.2
+      ],
+      [
+       "mandated reporter",
+       0.06,
+       5.4
+      ],
+      [
+       "customer service",
+       0.088,
+       3.1
+      ]
+     ]
+    }
+   }
+  },
+  "Construction": {
+   "employers": 1678,
+   "top": [
+    [
+     "construction management",
+     0.294,
+     36.9
+    ],
+    [
+     "construction projects",
+     0.129,
+     43.6
+    ],
+    [
+     "understanding of construction",
+     0.106,
+     70.2
+    ],
+    [
+     "project management",
+     0.265,
+     7.7
+    ],
+    [
+     "commercial construction",
+     0.086,
+     69.5
+    ],
+    [
+     "construction project",
+     0.084,
+     50.2
+    ],
+    [
+     "construction site",
+     0.083,
+     21.5
+    ],
+    [
+     "construction estimating",
+     0.079,
+     137.5
+    ],
+    [
+     "project manager",
+     0.078,
+     56.9
+    ],
+    [
+     "construction industry",
+     0.078,
+     26.8
+    ],
+    [
+     "construction plans",
+     0.073,
+     51.9
+    ],
+    [
+     "management engineering",
+     0.07,
+     27.6
+    ],
+    [
+     "construction drawings",
+     0.069,
+     36.7
+    ],
+    [
+     "power tools",
+     0.166,
+     8.3
+    ],
+    [
+     "construction management engineering",
+     0.065,
+     62.3
+    ],
+    [
+     "construction sites",
+     0.072,
+     17.1
+    ],
+    [
+     "construction safety",
+     0.057,
+     89.6
+    ],
+    [
+     "familiarity with construction",
+     0.057,
+     46.3
+    ],
+    [
+     "project management software",
+     0.055,
+     34.8
+    ],
+    [
+     "construction management software",
+     0.055,
+     84.1
+    ],
+    [
+     "technical drawings",
+     0.101,
+     10.7
+    ],
+    [
+     "construction project management",
+     0.054,
+     54.9
+    ],
+    [
+     "interpret construction",
+     0.052,
+     46.1
+    ],
+    [
+     "engineering construction management",
+     0.048,
+     24.5
+    ],
+    [
+     "microsoft project",
+     0.048,
+     32.6
+    ],
+    [
+     "engineering construction",
+     0.054,
+     17.3
+    ],
+    [
+     "construction methods",
+     0.045,
+     36.2
+    ],
+    [
+     "osha certification",
+     0.041,
+     22.7
+    ],
+    [
+     "engineering architecture",
+     0.041,
+     30.6
+    ],
+    [
+     "hand tools",
+     0.141,
+     5.3
+    ],
+    [
+     "various weather conditions",
+     0.044,
+     16.9
+    ],
+    [
+     "various weather",
+     0.044,
+     16.0
+    ],
+    [
+     "management software",
+     0.113,
+     6.2
+    ],
+    [
+     "building codes",
+     0.055,
+     12.3
+    ],
+    [
+     "weather conditions",
+     0.104,
+     6.3
+    ],
+    [
+     "safety regulations",
+     0.072,
+     8.6
+    ],
+    [
+     "s license",
+     0.284,
+     2.1
+    ],
+    [
+     "driver s",
+     0.281,
+     2.1
+    ],
+    [
+     "driver s license",
+     0.28,
+     2.1
+    ],
+    [
+     "drawings specifications",
+     0.042,
+     13.4
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 323,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 421,
+     "top": []
+    },
+    "South": {
+     "employers": 541,
+     "top": []
+    },
+    "West": {
+     "employers": 502,
+     "top": []
+    }
+   }
+  },
+  "Agriculture & food processing": {
+   "employers": 200,
+   "top": [
+    [
+     "food production",
+     0.21,
+     71.1
+    ],
+    [
+     "food safety",
+     0.275,
+     13.9
+    ],
+    [
+     "meat processing",
+     0.15,
+     812.1
+    ],
+    [
+     "food manufacturing",
+     0.115,
+     50.7
+    ],
+    [
+     "meat cutting",
+     0.115,
+     1089.5
+    ],
+    [
+     "food processing",
+     0.095,
+     94.7
+    ],
+    [
+     "basic math",
+     0.225,
+     7.0
+    ],
+    [
+     "retail store",
+     0.075,
+     35.5
+    ],
+    [
+     "sanitizing procedures",
+     0.075,
+     56.8
+    ],
+    [
+     "slicing techniques",
+     0.065,
+     28.6
+    ],
+    [
+     "perishable goods",
+     0.065,
+     1231.7
+    ],
+    [
+     "food handling",
+     0.105,
+     10.9
+    ],
+    [
+     "food safety management",
+     0.06,
+     14.5
+    ],
+    [
+     "production environment",
+     0.075,
+     10.0
+    ],
+    [
+     "quality control",
+     0.095,
+     7.6
+    ],
+    [
+     "perform repetitive",
+     0.07,
+     9.8
+    ],
+    [
+     "lift up",
+     0.17,
+     4.0
+    ],
+    [
+     "safety management",
+     0.06,
+     11.3
+    ],
+    [
+     "up to lbs",
+     0.175,
+     3.5
+    ],
+    [
+     "stand for extended",
+     0.085,
+     6.3
+    ],
+    [
+     "manufacturing environment",
+     0.115,
+     4.6
+    ],
+    [
+     "school diploma",
+     0.33,
+     1.6
+    ],
+    [
+     "high school diploma",
+     0.325,
+     1.6
+    ],
+    [
+     "high school",
+     0.36,
+     1.4
+    ],
+    [
+     "extended periods",
+     0.16,
+     3.1
+    ],
+    [
+     "food preparation",
+     0.07,
+     7.0
+    ],
+    [
+     "food industry",
+     0.065,
+     7.2
+    ],
+    [
+     "attention to detail",
+     0.28,
+     1.4
+    ],
+    [
+     "inventory management",
+     0.065,
+     6.0
+    ],
+    [
+     "long periods",
+     0.075,
+     4.4
+    ],
+    [
+     "up to pounds",
+     0.135,
+     2.1
+    ],
+    [
+     "fast-paced environment",
+     0.155,
+     1.8
+    ],
+    [
+     "diploma or ged",
+     0.125,
+     1.9
+    ],
+    [
+     "diploma or equivalent",
+     0.15,
+     1.5
+    ],
+    [
+     "safety standards",
+     0.07,
+     3.1
+    ],
+    [
+     "read write",
+     0.06,
+     3.5
+    ],
+    [
+     "while maintaining",
+     0.085,
+     2.0
+    ],
+    [
+     "communicate effectively",
+     0.08,
+     2.0
+    ],
+    [
+     "basic computer",
+     0.07,
+     2.0
+    ],
+    [
+     "positive attitude",
+     0.06,
+     1.8
+    ]
+   ],
+   "regions": {
+    "Midwest": {
+     "employers": 58,
+     "top": []
+    },
+    "South": {
+     "employers": 69,
+     "top": [
+      [
+       "diploma or ged",
+       0.174,
+       1.9
+      ],
+      [
+       "basic computer",
+       0.13,
+       2.2
+      ],
+      [
+       "career where",
+       0.087,
+       2.2
+      ]
+     ]
+    },
+    "West": {
+     "employers": 54,
+     "top": [
+      [
+       "food manufacturing",
+       0.222,
+       3.0
+      ],
+      [
+       "weekends and holidays",
+       0.167,
+       3.9
+      ],
+      [
+       "cleaning chemicals",
+       0.111,
+       3.6
+      ],
+      [
+       "stand walk",
+       0.111,
+       3.6
+      ],
+      [
+       "repetitive tasks",
+       0.111,
+       3.0
+      ],
+      [
+       "quality control",
+       0.148,
+       2.0
+      ],
+      [
+       "safety standards",
+       0.111,
+       2.0
+      ],
+      [
+       "long periods",
+       0.111,
+       1.8
+      ]
+     ]
+    }
+   }
+  },
+  "Transportation": {
+   "employers": 1572,
+   "top": [
+    [
+     "driving record",
+     0.307,
+     8.1
+    ],
+    [
+     "clean driving",
+     0.202,
+     10.7
+    ],
+    [
+     "clean driving record",
+     0.197,
+     10.7
+    ],
+    [
+     "valid class",
+     0.087,
+     53.1
+    ],
+    [
+     "commercial driver",
+     0.082,
+     34.5
+    ],
+    [
+     "delivery driver",
+     0.074,
+     226.5
+    ],
+    [
+     "truck driving",
+     0.074,
+     245.0
+    ],
+    [
+     "commercial driver s",
+     0.073,
+     34.7
+    ],
+    [
+     "class a cdl",
+     0.067,
+     73.9
+    ],
+    [
+     "commercial driving",
+     0.064,
+     61.8
+    ],
+    [
+     "route driving",
+     0.064,
+     193.6
+    ],
+    [
+     "license cdl",
+     0.062,
+     34.0
+    ],
+    [
+     "s license cdl",
+     0.056,
+     34.7
+    ],
+    [
+     "dot medical",
+     0.056,
+     68.2
+    ],
+    [
+     "s license",
+     0.383,
+     2.9
+    ],
+    [
+     "driver s",
+     0.382,
+     2.9
+    ],
+    [
+     "driver s license",
+     0.38,
+     2.9
+    ],
+    [
+     "safe driving",
+     0.053,
+     22.4
+    ],
+    [
+     "manual transmission",
+     0.052,
+     173.2
+    ],
+    [
+     "dot regulations",
+     0.052,
+     73.3
+    ],
+    [
+     "box truck",
+     0.046,
+     106.0
+    ],
+    [
+     "delivery driving",
+     0.045,
+     150.0
+    ],
+    [
+     "medical card",
+     0.045,
+     47.1
+    ],
+    [
+     "cdl class",
+     0.044,
+     43.3
+    ],
+    [
+     "dot physical",
+     0.041,
+     58.1
+    ],
+    [
+     "valid cdl",
+     0.041,
+     68.6
+    ],
+    [
+     "commercial truck",
+     0.04,
+     162.6
+    ],
+    [
+     "valid driver",
+     0.238,
+     2.6
+    ],
+    [
+     "valid driver s",
+     0.233,
+     2.6
+    ],
+    [
+     "drug test",
+     0.064,
+     7.6
+    ],
+    [
+     "customer service",
+     0.284,
+     1.7
+    ],
+    [
+     "motor vehicle",
+     0.067,
+     6.0
+    ],
+    [
+     "high school",
+     0.297,
+     1.2
+    ],
+    [
+     "school diploma",
+     0.245,
+     1.2
+    ],
+    [
+     "high school diploma",
+     0.243,
+     1.2
+    ],
+    [
+     "least years old",
+     0.041,
+     6.1
+    ],
+    [
+     "drug screen",
+     0.053,
+     3.9
+    ],
+    [
+     "background check",
+     0.104,
+     1.9
+    ],
+    [
+     "up to lbs",
+     0.089,
+     1.8
+    ],
+    [
+     "drug screening",
+     0.041,
+     3.6
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 322,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 430,
+     "top": []
+    },
+    "South": {
+     "employers": 500,
+     "top": []
+    },
+    "West": {
+     "employers": 496,
+     "top": []
+    }
+   }
+  },
+  "Customer service": {
+   "employers": 1140,
+   "top": [
+    [
+     "call center",
+     0.289,
+     87.7
+    ],
+    [
+     "customer service",
+     0.618,
+     3.9
+    ],
+    [
+     "center environment",
+     0.085,
+     57.2
+    ],
+    [
+     "call center environment",
+     0.068,
+     118.9
+    ],
+    [
+     "contact center",
+     0.054,
+     89.9
+    ],
+    [
+     "high school",
+     0.475,
+     1.9
+    ],
+    [
+     "customer support",
+     0.054,
+     16.3
+    ],
+    [
+     "active listening",
+     0.068,
+     12.4
+    ],
+    [
+     "school diploma",
+     0.392,
+     2.0
+    ],
+    [
+     "high school diploma",
+     0.392,
+     2.0
+    ],
+    [
+     "verbal and written",
+     0.198,
+     2.6
+    ],
+    [
+     "data entry",
+     0.102,
+     4.6
+    ],
+    [
+     "diploma or equivalent",
+     0.208,
+     2.2
+    ],
+    [
+     "microsoft office",
+     0.231,
+     1.8
+    ],
+    [
+     "written communication",
+     0.166,
+     2.2
+    ],
+    [
+     "phone etiquette",
+     0.057,
+     5.4
+    ],
+    [
+     "attention to detail",
+     0.233,
+     1.2
+    ],
+    [
+     "fast-paced environment",
+     0.132,
+     1.6
+    ],
+    [
+     "diploma or ged",
+     0.109,
+     1.7
+    ],
+    [
+     "basic computer",
+     0.077,
+     2.3
+    ],
+    [
+     "exceptional customer",
+     0.041,
+     4.0
+    ],
+    [
+     "word excel",
+     0.085,
+     1.9
+    ],
+    [
+     "verbal communication",
+     0.108,
+     1.4
+    ],
+    [
+     "office suite",
+     0.085,
+     1.7
+    ],
+    [
+     "microsoft office suite",
+     0.077,
+     1.8
+    ],
+    [
+     "under pressure",
+     0.063,
+     2.2
+    ],
+    [
+     "positive attitude",
+     0.066,
+     2.0
+    ],
+    [
+     "multiple tasks",
+     0.062,
+     2.1
+    ],
+    [
+     "written and verbal",
+     0.102,
+     1.1
+    ],
+    [
+     "communication skills both",
+     0.043,
+     2.6
+    ],
+    [
+     "proficiency in microsoft",
+     0.064,
+     1.6
+    ],
+    [
+     "high level",
+     0.047,
+     2.1
+    ],
+    [
+     "manage multiple",
+     0.076,
+     1.0
+    ],
+    [
+     "ms office",
+     0.04,
+     1.8
+    ],
+    [
+     "without regard",
+     0.048,
+     1.4
+    ],
+    [
+     "extended periods",
+     0.052,
+     1.0
+    ],
+    [
+     "up to pounds",
+     0.055,
+     0.9
+    ],
+    [
+     "while maintaining",
+     0.045,
+     1.1
+    ],
+    [
+     "location in person",
+     0.067,
+     0.7
+    ],
+    [
+     "background check",
+     0.052,
+     0.9
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 222,
+     "top": []
+    },
+    "Midwest": {
+     "employers": 284,
+     "top": [
+      [
+       "high level",
+       0.085,
+       2.2
+      ]
+     ]
+    },
+    "South": {
+     "employers": 360,
+     "top": [
+      [
+       "phone etiquette",
+       0.081,
+       1.9
+      ]
+     ]
+    },
+    "West": {
+     "employers": 363,
+     "top": []
+    }
+   }
+  },
+  "Legal": {
+   "employers": 987,
+   "top": [
+    [
+     "law school",
+     0.249,
+     1849.9
+    ],
+    [
+     "law firm",
+     0.241,
+     288.7
+    ],
+    [
+     "accredited law",
+     0.188,
+     1165.6
+    ],
+    [
+     "accredited law school",
+     0.188,
+     1398.7
+    ],
+    [
+     "juris doctor",
+     0.171,
+     577.7
+    ],
+    [
+     "good standing",
+     0.189,
+     16.5
+    ],
+    [
+     "practice law",
+     0.136,
+     2519.1
+    ],
+    [
+     "legal research",
+     0.133,
+     985.1
+    ],
+    [
+     "state bar",
+     0.132,
+     1629.3
+    ],
+    [
+     "paralegal certificate",
+     0.118,
+     1453.8
+    ],
+    [
+     "legal assistant",
+     0.089,
+     1102.9
+    ],
+    [
+     "legal documents",
+     0.081,
+     91.1
+    ],
+    [
+     "personal injury",
+     0.08,
+     165.0
+    ],
+    [
+     "document management",
+     0.079,
+     34.1
+    ],
+    [
+     "school active",
+     0.073,
+     386.7
+    ],
+    [
+     "law school active",
+     0.073,
+     902.4
+    ],
+    [
+     "legal department",
+     0.064,
+     592.2
+    ],
+    [
+     "family law",
+     0.063,
+     333.0
+    ],
+    [
+     "civil litigation",
+     0.058,
+     1071.6
+    ],
+    [
+     "complex legal",
+     0.057,
+     701.8
+    ],
+    [
+     "juris doctor j.d",
+     0.057,
+     526.4
+    ],
+    [
+     "doctor j.d",
+     0.057,
+     526.4
+    ],
+    [
+     "case management",
+     0.11,
+     10.1
+    ],
+    [
+     "active license",
+     0.055,
+     45.1
+    ],
+    [
+     "licensed to practice",
+     0.053,
+     85.0
+    ],
+    [
+     "outside counsel",
+     0.053,
+     391.0
+    ],
+    [
+     "least one u.s",
+     0.052,
+     639.2
+    ],
+    [
+     "license to practice",
+     0.062,
+     16.6
+    ],
+    [
+     "juris doctorate",
+     0.05,
+     368.5
+    ],
+    [
+     "doctor jd",
+     0.049,
+     902.4
+    ],
+    [
+     "juris doctor jd",
+     0.049,
+     902.4
+    ],
+    [
+     "estate planning",
+     0.049,
+     180.5
+    ],
+    [
+     "relevant legal",
+     0.046,
+     241.7
+    ],
+    [
+     "legal terminology",
+     0.044,
+     179.6
+    ],
+    [
+     "legal support",
+     0.043,
+     394.8
+    ],
+    [
+     "document management systems",
+     0.043,
+     92.9
+    ],
+    [
+     "legal issues",
+     0.043,
+     197.4
+    ],
+    [
+     "bar license",
+     0.042,
+     1541.6
+    ],
+    [
+     "paralegal studies",
+     0.041,
+     501.3
+    ],
+    [
+     "legal advice",
+     0.041,
+     1504.0
+    ]
+   ],
+   "regions": {
+    "Northeast": {
+     "employers": 196,
+     "top": [
+      [
+       "legal assistant",
+       0.133,
+       1.8
+      ],
+      [
+       "while maintaining",
+       0.071,
+       2.5
+      ],
+      [
+       "willingness to learn",
+       0.061,
+       2.0
+      ],
+      [
+       "u.s jurisdiction",
+       0.061,
+       1.8
+      ]
+     ]
+    },
+    "Midwest": {
+     "employers": 242,
+     "top": [
+      [
+       "court rules",
+       0.066,
+       2.9
+      ],
+      [
+       "court procedures",
+       0.062,
+       2.4
+      ]
+     ]
+    },
+    "South": {
+     "employers": 305,
+     "top": [
+      [
+       "verbal and written",
+       0.108,
+       1.9
+      ],
+      [
+       "customer service",
+       0.098,
+       2.0
+      ]
+     ]
+    },
+    "West": {
+     "employers": 321,
+     "top": [
+      [
+       "bar license",
+       0.062,
+       1.9
+      ]
+     ]
+    }
+   }
+  }
+ },
+ "us": {
+  "Active RN license": 0.012,
+  "BLS / CPR / ACLS": 0.059,
+  "CNA / HHA certification": 0.005,
+  "LPN/LVN": 0.005,
+  "CDL Class A": 0.009,
+  "CDL (any)": 0.022,
+  "Clean driving record / MVR": 0.051,
+  "Valid driver's license": 0.048,
+  "Forklift certification": 0.009,
+  "OSHA 10/30": 0.008,
+  "Journeyman / master licence": 0.015,
+  "EPA 608": 0.003,
+  "ASE certification": 0.005,
+  "CPA": 0.01,
+  "Securities licences (SIE/6/7/63)": 0.001,
+  "Insurance producer licence": 0.003,
+  "Teaching certificate": 0.004,
+  "Security clearance": 0.013,
+  "PE licence": 0.006,
+  "PMP": 0.005,
+  "Food handler / ServSafe": 0.01,
+  "Guard card / armed licence": 0.005,
+  "Pharmacy licence / PTCB": 0.016,
+  "Social work licence (LCSW/LMSW)": 0.007,
+  "Bar admission": 0.002,
+  "Real estate licence": 0.008,
+  "Cyber certs (Security+/CISSP)": 0.015,
+  "Cloud certs (AWS/Azure)": 0.002,
+  "Microsoft Office / Excel": 0.209,
+  "Salesforce / CRM": 0.034,
+  "SAP / Oracle / NetSuite ERP": 0.043,
+  "QuickBooks": 0.012,
+  "Epic / Cerner EHR": 0.041,
+  "SQL": 0.027,
+  "Python": 0.031,
+  "Cloud (AWS/Azure/GCP)": 0.034,
+  "Kubernetes / Docker": 0.01,
+  "Tableau / Power BI": 0.019,
+  "AI / LLM / GenAI": 0.053,
+  "AutoCAD / Revit / SolidWorks": 0.031,
+  "PLC / controls": 0.009,
+  "POS systems": 0.035,
+  "WMS / scanners / RF": 0.009,
+  "Procore / construction software": 0.011,
+  "Yardi / RealPage / AppFolio": 0.007,
+  "Workday / ADP / HRIS": 0.041,
+  "Hand & power tools": 0.044,
+  "Nights / overnight": 0.081,
+  "Weekends": 0.172,
+  "Overtime": 0.059,
+  "12-hour shifts": 0.006,
+  "On-call": 0.035,
+  "PRN / per diem": 0.024,
+  "Travel required": 0.023,
+  "Lift 50+ lbs": 0.108,
+  "Standing / on feet": 0.043,
+  "Outdoors / weather": 0.064,
+  "Drug screen": 0.078,
+  "Background check": 0.126,
+  "Sign-on bonus": 0.017,
+  "Weekly / daily pay": 0.048,
+  "Tuition / training paid": 0.193,
+  "401(k) match": 0.205,
+  "Health benefits day one": 0.002,
+  "Shift differential": 0.025,
+  "Relocation": 0.019,
+  "Commission / bonus pay": 0.06,
+  "Pension": 0.015,
+  "Employee discount": 0.108,
+  "Equity / stock": 0.076,
+  "Tips": 0.013,
+  "Bilingual (Spanish)": 0.067,
+  "No experience / entry level": 0.043,
+  "High school / GED": 0.223,
+  "Bachelor's degree": 0.116,
+  "Master's / advanced degree": 0.036,
+  "5+ years experience": 0.157,
+  "Leadership / supervise others": 0.021,
+  "Customer-facing": 0.076,
+  "Remote": 0.016,
+  "Hybrid": 0.087,
+  "Part-time role": 0.237
+ }
+}
