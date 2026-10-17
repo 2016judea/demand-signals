@@ -1,3 +1,5 @@
 .venv/
 data/raw/
 *.log
+*.duckdb
+postings_flags.parquet
