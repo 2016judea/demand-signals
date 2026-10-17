@@ -29,6 +29,7 @@ jolts                              (BLS openings: the real scale behind the job 
 | `item` | one line of a procurement ask | The part/service, maker, model, part numbers, NSN, approved sources (JSON of cage/pn/maker), qty, sole-source vendor and reason, obsolete flag, last price paid, buyer contact. |
 | `search` | one Indeed query | The sampling frame: sector × term × metro. |
 | `ask_search` | job × query that returned it | Which sector(s) a job counts toward. `on_topic=false` = title failed the sector filter (Line Cook returned for "lineman"). |
+| `ask_duty` | one duty line of a job ask | What step of work does the posting pay for, in its own words, and could a tool take it over? (hiring-signals only) |
 | `need` / `ask_need` | lexicon entry / match | Does this ask state requirement X? Patterns live in `lexicon.py`; change one, reload. |
 | `eol_notice` | one OEM end-of-life batch | Which product line stops selling on what date, its catalogs and successor. Cited by `url` + verbatim `quote`. |
 | `install` | agency × family, per filing | Which agencies' own filings show they run that line. |
@@ -51,4 +52,5 @@ jolts                              (BLS openings: the real scale behind the job 
 | Script | Source | Pull id |
 |---|---|---|
 | `pull.py` → `load_jobs.py` | Indeed via python-jobspy, `jolts.json` | `jobs-YYYY-MM-DD` |
+| `load_hiring_signals.py` | `~/Desktop/hiring-signals` (Twin Cities Craigslist + Greenhouse/Lever/Ashby; read in place). Adds `ask_duty`: each posting's duty lines verbatim, AI-doable or not, canonical need | `hiring-signals-YYYY-MM-DD` |
 | `load_legacy.py` | `~/Desktop/the-google-of-obsolete-infrastructure-parts` (read in place) | `legacy-YYYY-MM-DD` |

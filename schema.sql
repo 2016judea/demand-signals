@@ -29,6 +29,9 @@ CREATE TABLE IF NOT EXISTS search (search_id TEXT PRIMARY KEY, pull_id TEXT, sec
   metro TEXT, metro_region TEXT, n_returned INT);
 CREATE TABLE IF NOT EXISTS ask_search (ask_id TEXT, search_id TEXT, on_topic BOOLEAN, PRIMARY KEY (ask_id, search_id));
 
+-- duty lines quoted verbatim from a posting, classified (hiring-signals loader)
+CREATE TABLE IF NOT EXISTS ask_duty (ask_id TEXT, quote TEXT, ai_doable BOOLEAN, need TEXT);
+
 -- normalised requirements stated in ask text
 CREATE TABLE IF NOT EXISTS need (need_id TEXT PRIMARY KEY, label TEXT, kind TEXT, pattern TEXT);
 CREATE TABLE IF NOT EXISTS ask_need (ask_id TEXT, need_id TEXT, PRIMARY KEY (ask_id, need_id));
