@@ -19,10 +19,26 @@ def connect():
 def replace_pull(con, pull_id):
     """Drop everything a previous load of this pull wrote, so re-running is idempotent."""
     ids = f"(SELECT ask_id FROM ask WHERE pull_id = '{pull_id}')"
-    for t in ["job", "item", "ask_search", "ask_need", "ask_listing"]:
+    for t in ["job", "item", "ask_search", "ask_need", "ask_listing", "ask_duty"]:
         con.execute(f"DELETE FROM {t} WHERE ask_id IN {ids}")
     for t in PULL_SCOPED + ["pull"]:
         con.execute(f"DELETE FROM {t} WHERE pull_id = ?", [pull_id])
+
+
+INT64_MAX = 2 ** 63 - 1
+
+
+def price_or_none(v):
+    """A price as a float, or None. A value at the int64 ceiling is a scraper's overflow sentinel
+    (one Craigslist ask loaded as $9,223,372,036,854,775,807 and became the max of its category),
+    never a price."""
+    try:
+        f = float(v)
+    except (TypeError, ValueError):
+        return None
+    if f != f or f >= INT64_MAX * 0.999:
+        return None
+    return f
 
 
 def insert(con, table, df, upsert=False):

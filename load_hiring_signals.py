@@ -54,8 +54,7 @@ duty = pd.DataFrame([{"ask_id": h(PULL_ID, d["url"]), "quote": d["quote"], "ai_d
 duty = duty[duty["ask_id"].isin(set(ask["ask_id"]))].drop_duplicates(["ask_id", "quote"])
 
 con = connect()
-replace_pull(con, PULL_ID)
-con.execute(f"DELETE FROM ask_duty WHERE ask_id IN (SELECT ask_id FROM ask WHERE pull_id = '{PULL_ID}')")
+replace_pull(con, PULL_ID)  # clears ask_duty too; a delete placed after this line found no asks left to join on
 con.execute("INSERT INTO pull VALUES (?, ?, ?, ?)", [PULL_ID, "craigslist+greenhouse+lever+ashby", PULL_ID.split("signals-")[-1],
             "Twin Cities postings, last ~45 days; duties classified by claude -p sonnet (hiring-signals/scripts/classify.py)"])
 insert(con, "org", org[~org["org_id"].isin([r[0] for r in con.execute("SELECT org_id FROM org").fetchall()])])

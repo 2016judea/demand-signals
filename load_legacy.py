@@ -10,7 +10,7 @@ Reads the legacy-requests repo in place (LEGACY_DIR); writes nothing there.
 """
 import glob, gzip, json, os
 import pandas as pd
-from db import h, connect, replace_pull, insert, counts
+from db import h, connect, replace_pull, insert, counts, price_or_none
 from lexicon import REGION
 
 LEGACY = os.path.expanduser(os.environ.get("LEGACY_DIR", "~/Desktop/the-google-of-obsolete-infrastructure-parts"))
@@ -111,7 +111,7 @@ for path in glob.glob(f("data/supply/*.jsonl")):
         loc = x.get("location")
         lst.append({"listing_id": h(x.get("url")), "source": x.get("source"), "title": x.get("title"),
                     "manufacturer": x.get("manufacturer"), "model": (x.get("model") or "").strip() or None,
-                    "part_number": x.get("part_number"), "price_usd": x.get("price"),
+                    "part_number": x.get("part_number"), "price_usd": price_or_none(x.get("price")),
                     "location": loc[1] if isinstance(loc, list) else loc, "seen_on": d(x.get("seen_at")), "url": x.get("url")})
 listing = pd.DataFrame(lst).drop_duplicates("listing_id")
 al = []
@@ -125,7 +125,7 @@ extra = [m for rid, ms in json.load(open(f("data/supply/matches.json"))).items()
 if extra:
     listing = pd.concat([listing, pd.DataFrame([{"listing_id": h(m.get("url")), "source": m.get("source"), "title": m.get("title"),
         "manufacturer": m.get("manufacturer"), "model": m.get("model"), "part_number": m.get("part_number"),
-        "price_usd": m.get("price"), "location": m.get("location") if not isinstance(m.get("location"), list) else m["location"][1],
+        "price_usd": price_or_none(m.get("price")), "location": m.get("location") if not isinstance(m.get("location"), list) else m["location"][1],
         "seen_on": d(m.get("seen_at")), "url": m.get("url")} for m in extra])]).drop_duplicates("listing_id")
 
 org = pd.DataFrame(orgs.values())
