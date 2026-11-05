@@ -52,5 +52,5 @@ jolts                              (BLS openings: the real scale behind the job 
 | Script | Source | Pull id |
 |---|---|---|
 | `pull.py` → `load_jobs.py` | Indeed via python-jobspy, `jolts.json` | `jobs-YYYY-MM-DD` |
-| `load_hiring_signals.py` | `~/Desktop/hiring-signals` (Twin Cities Craigslist + Greenhouse/Lever/Ashby; read in place). Adds `ask_duty`: each posting's duty lines verbatim, AI-doable or not, canonical need | `hiring-signals-YYYY-MM-DD` |
-| `load_legacy.py` | `~/Desktop/the-google-of-obsolete-infrastructure-parts` (read in place) | `legacy-YYYY-MM-DD` |
+| `load_hiring_signals.py` | `~/Desktop/workspace/hiring-signals` (Twin Cities Craigslist + Greenhouse/Lever/Ashby; read in place). Adds `ask_duty`: each posting's duty lines verbatim, AI-doable or not, canonical need | `hiring-signals-YYYY-MM-DD` |
+| `load_legacy.py` | `~/Desktop/workspace/the-google-of-obsolete-infrastructure-parts` (read in place) | `legacy-YYYY-MM-DD` |

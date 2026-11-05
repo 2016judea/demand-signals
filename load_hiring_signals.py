@@ -1,5 +1,5 @@
 """Load the hiring-signals sweep (Twin Cities Craigslist jobs + public Greenhouse/Lever/Ashby
-boards, read in place from ~/Desktop/hiring-signals) into demand.duckdb.
+boards, read in place from ~/Desktop/workspace/hiring-signals) into demand.duckdb.
 
 Adds what the Indeed pull doesn't carry: each posting's duty lines, quoted verbatim,
 classified AI-doable or not and mapped to a canonical need (table ask_duty). PULL_ID
@@ -12,7 +12,7 @@ from db import h, connect, replace_pull, insert, counts
 from lexicon import REGION, COMPILED
 
 PULL_ID = os.environ.get("PULL_ID", "hiring-signals-2026-10-17")
-SRC = Path(os.environ.get("HS_DIR", Path.home() / "Desktop/hiring-signals")) / "data"
+SRC = Path(os.environ.get("HS_DIR", Path.home() / "Desktop/workspace/hiring-signals")) / "data"
 
 posts = []
 for name in ("craigslist_postings.jsonl", "ats_postings.jsonl"):

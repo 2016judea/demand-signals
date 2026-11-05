@@ -13,7 +13,7 @@ import pandas as pd
 from db import h, connect, replace_pull, insert, counts, price_or_none
 from lexicon import REGION
 
-LEGACY = os.path.expanduser(os.environ.get("LEGACY_DIR", "~/Desktop/the-google-of-obsolete-infrastructure-parts"))
+LEGACY = os.path.expanduser(os.environ.get("LEGACY_DIR", "~/Desktop/workspace/the-google-of-obsolete-infrastructure-parts"))
 PULL_ID = os.environ.get("PULL_ID", "legacy-2026-10-15")
 f = lambda *p: os.path.join(LEGACY, *p)
 agency_id = lambda name, state: h("agency", name, state or "")
